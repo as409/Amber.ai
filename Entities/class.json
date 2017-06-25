@@ -1,0 +1,37 @@
+{
+  "id": "f12f23cb-0647-4b7c-ae0b-d467daa5c861",
+  "name": "class",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "first",
+      "synonyms": [
+        "first",
+        "first class"
+      ]
+    },
+    {
+      "value": "economy",
+      "synonyms": [
+        "economy",
+        "economy class",
+        "eco"
+      ]
+    },
+    {
+      "value": "business",
+      "synonyms": [
+        "business",
+        "business class"
+      ]
+    },
+    {
+      "value": "coach",
+      "synonyms": [
+        "coach"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "695999ce-c1a0-4421-9550-0aa92d69423b",
+  "name": "map-sort",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "nearest",
+      "synonyms": [
+        "nearest",
+        "closest",
+        "nearby",
+        "near me",
+        "near by",
+        "in my location",
+        "in this district",
+        "in the area",
+        "in my area",
+        "on my way",
+        "at my destination",
+        "close by",
+        "nearbys",
+        "along my route",
+        "in my neighborhood",
+        "around me",
+        "immediate",
+        "in this area",
+        "around here",
+        "local",
+        "close to me",
+        "here",
+        "closest to me",
+        "very close",
+        "near my house",
+        "near this area",
+        "near",
+        "around my area",
+        "around",
+        "close to my area",
+        "this area",
+        "not far from here",
+        "local"
+      ]
+    },
+    {
+      "value": "best",
+      "synonyms": [
+        "best",
+        "top",
+        "good",
+        "nice",
+        "great",
+        "cool",
+        "fine",
+        "interesting"
+      ]
+    },
+    {
+      "value": "cheapest",
+      "synonyms": [
+        "cheapest",
+        "cheap",
+        "less expensive",
+        "best priced"
+      ]
+    },
+    {
+      "value": "expensive",
+      "synonyms": [
+        "most expensive",
+        "expensive"
+      ]
+    },
+    {
+      "value": "best matched",
+      "synonyms": [
+        "best matched"
+      ]
+    },
+    {
+      "value": "free",
+      "synonyms": [
+        "free"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

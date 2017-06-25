@@ -1,0 +1,75 @@
+{
+  "id": "cf110980-552b-494e-8240-bff3449e9048",
+  "name": "star",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "1",
+      "synonyms": [
+        "1",
+        "one",
+        "1 or more",
+        "1 star",
+        "1 or more stars"
+      ]
+    },
+    {
+      "value": "2",
+      "synonyms": [
+        "2",
+        "two",
+        "2 or more",
+        "2 star",
+        "2 stars",
+        "2 or more stars"
+      ]
+    },
+    {
+      "value": "3",
+      "synonyms": [
+        "3",
+        "three",
+        "3 or more",
+        "3 stars",
+        "3 or more stars",
+        "3 star"
+      ]
+    },
+    {
+      "value": "4",
+      "synonyms": [
+        "4",
+        "four",
+        "4 or more",
+        "4 star",
+        "4 stars",
+        "4 or more stars"
+      ]
+    },
+    {
+      "value": "5",
+      "synonyms": [
+        "5",
+        "five",
+        "5 or more",
+        "highest rank",
+        "high rank",
+        "top-rated",
+        "top rated",
+        "best rated",
+        "5 star",
+        "5 stars"
+      ]
+    },
+    {
+      "value": "highest rated",
+      "synonyms": [
+        "highest rated",
+        "highest rating",
+        "high rating"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
