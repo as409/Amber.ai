@@ -1,0 +1,34 @@
+{
+  "description": "This agent allows your app to help your users book flights, hotels, cabs using various methods. ",
+  "language": "en",
+  "shortDescription": "Find, create and manage reservations for flights, hotels and cabs",
+  "examples": "User: I need to fly from San Francisco to New York next Friday.\nUser: Find me the cheapest flights to London for October 3.\nUser: Are there still some non-stop flights to Colorado for Christmas?\nUser: Any Virgin America flights from LA to Vegas this weekend?\nUser: Search for refundable flights only.\nUser: When will the flight from Rome depart?\nUser: Is British Airways from Gatwick to Berlin arriving on time?\nUser: Check status of AA flight 100.\n\nUser: Find a flight from Dublin to Copenhagen on July 16, returning July 23, for 2 people. \nUser: Actually, returning July 25.\n\nUser: I need a one-way ticket to Zimbabwe, leaving tonight.\nUser: Find a flight from Barcelona to Cagliari for less than 200 euro.",
+  "displayName": "Flights",
+  "enabledDomainFeatures": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "flights-e9222",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Asia/Rangoon",
+  "webhook": {
+    "available": false,
+    "useForDomains": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3
+}
