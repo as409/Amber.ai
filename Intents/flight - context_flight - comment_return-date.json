@@ -1,0 +1,301 @@
+{
+  "userSays": [
+    {
+      "id": "616d181c-8927-4b89-9705-2afe76562c3d",
+      "data": [
+        {
+          "text": "getting back on "
+        },
+        {
+          "text": "Tuesday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "49a76915-4794-441e-82ee-52cd22dbd77a",
+      "data": [
+        {
+          "text": "I\u0027m going to fly back on "
+        },
+        {
+          "text": "Monday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9e77d24-1047-49f3-a85f-e2689f3ab5ed",
+      "data": [
+        {
+          "text": "I fly back on "
+        },
+        {
+          "text": "Monday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95f0c469-9bc9-47fe-b3da-aea86b55400d",
+      "data": [
+        {
+          "text": "and I am back home on "
+        },
+        {
+          "text": "Friday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "da096998-2137-41db-bbc8-ea98ee45b2ae",
+      "data": [
+        {
+          "text": "I\u0027m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "back",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Friday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "3c0ea224-bac3-4a50-8c77-f4793759f6bd",
+      "data": [
+        {
+          "text": "returning "
+        },
+        {
+          "text": "July 25",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e35bcfe3-70bb-438a-b807-84afd623d346",
+      "data": [
+        {
+          "text": "ok the return is",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next Monday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "e030c3b2-f439-4d32-86a9-9a5a78edbdbb",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " return on "
+        },
+        {
+          "text": "Monday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "230e315d-c668-4d53-b770-cd83cc3eb714",
+      "data": [
+        {
+          "text": "the "
+        },
+        {
+          "text": "date I return is",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Tuesday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8abfd40c-1624-481a-a835-602c4c25e567",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " return "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9bccc1f-6658-4d5b-bf9c-0706de16f611",
+      "data": [
+        {
+          "text": "actually returning "
+        },
+        {
+          "text": "July 25",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27c20e3a-0d47-4c6e-a47d-dd0205578a56",
+      "data": [
+        {
+          "text": "flying back "
+        },
+        {
+          "text": "today",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29f5488b-d1f7-4638-b158-8ab0b14dea49",
+      "data": [
+        {
+          "text": "I\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "back",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next Monday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ce83be11-8788-42da-a370-5b095cfeee80",
+  "name": "flight - context:flight - comment:return-date",
+  "auto": true,
+  "contexts": [
+    "flight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#flight.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.date-time",
+          "name": "return",
+          "value": "$return"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

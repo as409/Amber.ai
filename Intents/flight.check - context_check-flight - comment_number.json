@@ -1,0 +1,210 @@
+{
+  "userSays": [
+    {
+      "id": "cea3202a-21b0-4c07-899b-a58d20d1db32",
+      "data": [
+        {
+          "text": "BA 139",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": true
+        },
+        {
+          "text": " as "
+        },
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31274ee1-afc1-4ed9-a7e8-d8b6321cf40d",
+      "data": [
+        {
+          "text": "AA 120",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a793cbea-5e68-4600-9c3f-a8e63e2e7e2f",
+      "data": [
+        {
+          "text": "SU 39",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7db1d37-04a5-490b-81e1-a7bc2799e7d0",
+      "data": [
+        {
+          "text": "BA 139",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        },
+        {
+          "text": " too"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf9d69f5-f7d0-492e-8054-bd0a2d1d4162",
+      "data": [
+        {
+          "text": "now "
+        },
+        {
+          "text": "BA 139",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7c007e4-b854-4e58-88bb-ee6f281a4b08",
+      "data": [
+        {
+          "text": "now number "
+        },
+        {
+          "text": "433",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "59d88aa6-e192-4068-aa63-89694f6b850e",
+      "data": [
+        {
+          "text": "now search for "
+        },
+        {
+          "text": "433",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7b2fc958-1691-4687-8f36-1cca568dded5",
+      "data": [
+        {
+          "text": "find me "
+        },
+        {
+          "text": "039",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        },
+        {
+          "text": " number as "
+        },
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "631eb4d1-176f-4f9f-b704-14822e16586e",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "BA 039",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19a5e763-2871-44dc-930f-442a5f75985c",
+      "data": [
+        {
+          "text": "how about "
+        },
+        {
+          "text": "BA 039",
+          "alias": "flight-number",
+          "meta": "@sys.flight-number",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "79e88ed7-c7f4-4220-9b89-5caaadc8491f",
+  "name": "flight.check - context:check-flight - comment:number",
+  "auto": true,
+  "contexts": [
+    "check-flight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.flight-number",
+          "name": "flight-number",
+          "value": "$flight-number"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

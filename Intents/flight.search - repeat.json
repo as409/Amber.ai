@@ -1,0 +1,137 @@
+{
+  "userSays": [
+    {
+      "id": "1cff65ea-3ef8-4a2e-ada2-0f41d5dbf214",
+      "data": [
+        {
+          "text": "repeat"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57004cde-e492-4e75-be7e-a15ae798809c",
+      "data": [
+        {
+          "text": "repeat it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "176a8391-f376-456f-bef2-a4d0684bcd50",
+      "data": [
+        {
+          "text": "come again"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe743bb0-2697-43c2-a602-fa983f92351f",
+      "data": [
+        {
+          "text": "do it again"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a593693-42fb-481a-9eb4-36f02bfebdd4",
+      "data": [
+        {
+          "text": "say it again"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb0ff84b-212d-4595-849a-ee2ba5235bba",
+      "data": [
+        {
+          "text": "say the same again"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f231b682-e0b1-40f4-ada4-94346cb4ec29",
+      "data": [
+        {
+          "text": "please repeat that"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bfde978-aed1-4ea3-9375-99b047d01436",
+      "data": [
+        {
+          "text": "repeat these results"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09177c20-6e56-4910-adcf-91385578d8d2",
+      "data": [
+        {
+          "text": "could you repeat that"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95c3e674-7e63-4a8e-8be9-a81d7e974326",
+      "data": [
+        {
+          "text": "repeat what you\u0027ve just said"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ebfb1de3-2939-47ad-a301-03aee283f780",
+  "parentId": "1c36dd18-b92c-41f3-a5d8-ad66d0166d50",
+  "rootParentId": "1c36dd18-b92c-41f3-a5d8-ad66d0166d50",
+  "name": "flight.search - repeat",
+  "auto": true,
+  "contexts": [
+    "flightsearch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.search.repeat",
+      "affectedContexts": [
+        {
+          "name": "flightsearch-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

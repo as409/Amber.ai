@@ -1,0 +1,245 @@
+{
+  "userSays": [
+    {
+      "id": "7f0e4cd5-ea97-4137-ab46-88e8a0edc072",
+      "data": [
+        {
+          "text": "new search"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d5c807f3-4e9a-4243-82b2-3564ae5bb711",
+      "data": [
+        {
+          "text": "another",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5fdfc6d7-6cb3-4202-888b-2b7436dedf73",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "another",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " one"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "576afb12-5183-4f60-a188-b7062bd03ae3",
+      "data": [
+        {
+          "text": "another",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " search"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc131fa7-185b-4340-9472-f555e0cd05eb",
+      "data": [
+        {
+          "text": "now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "new",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e96d908a-1ff7-49c8-8627-b37e22f1e485",
+      "data": [
+        {
+          "text": "a "
+        },
+        {
+          "text": "new",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0861a48-a9df-457d-9910-77ddcea7c77d",
+      "data": [
+        {
+          "text": "another",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1bfff314-989f-4a92-a860-249983b12ef9",
+      "data": [
+        {
+          "text": "create",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "another",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "search",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c4a98dfc-bb26-4d14-a0ce-54845c853e35",
+      "data": [
+        {
+          "text": "another",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "search",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7fd31974-159c-453d-81b9-c402ad0384bd",
+      "data": [
+        {
+          "text": "now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "new",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "search",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0a41a7ba-c2d6-44e8-af1e-80c4364eea16",
+  "name": "flight.book - context:book-flight - comment:another one",
+  "auto": true,
+  "contexts": [
+    "book-flight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.book",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

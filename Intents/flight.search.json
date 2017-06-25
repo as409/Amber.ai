@@ -1,0 +1,3174 @@
+{
+  "userSays": [
+    {
+      "id": "57c18c71-8ddf-482c-9fd8-a0b145f33246",
+      "data": [
+        {
+          "text": "find a flight from "
+        },
+        {
+          "text": "Dublin",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Copenhagen",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "July 16",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " returning "
+        },
+        {
+          "text": "July 23",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "2",
+          "alias": "adult",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " people"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04d6bf62-171a-4998-b600-cdcdf202f149",
+      "data": [
+        {
+          "text": "I am trying to buy tickets from "
+        },
+        {
+          "text": "Taiwan",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "States",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " I want to find the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bfda9ca7-1c46-48b7-8545-c9826444cc18",
+      "data": [
+        {
+          "text": "find a flight from "
+        },
+        {
+          "text": "Barcelona",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Cagliari",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for less than "
+        },
+        {
+          "text": "200 euro",
+          "alias": "price",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a928994f-df19-42a0-9b63-edfeb401592a",
+      "data": [
+        {
+          "text": "find me the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "October 3",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1e52904-7285-453d-b2af-8c6c803a9ef2",
+      "data": [
+        {
+          "text": "search for flights from "
+        },
+        {
+          "text": "Mumbai",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "October 10",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "27e83f1c-2f10-4a4e-9eec-6fdbc1eb30cf",
+      "data": [
+        {
+          "text": "I want to fly from "
+        },
+        {
+          "text": "Vienna",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Amsterdam",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "20.12",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " till "
+        },
+        {
+          "text": "22.12",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 13
+    },
+    {
+      "id": "04699eaa-49e4-4557-8d17-f5ece03cfe7f",
+      "data": [
+        {
+          "text": "can you find any "
+        },
+        {
+          "text": "cheap",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " return flights in "
+        },
+        {
+          "text": "January",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " anywhere in "
+        },
+        {
+          "text": "Asia",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78d308ba-55dd-4473-b9ec-71ea3bf25a67",
+      "data": [
+        {
+          "text": "search",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Dubai",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " flight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b00ebcf-52c9-45bb-96f3-935201ef645a",
+      "data": [
+        {
+          "text": "find me the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flights"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f56cbd1-7648-4150-b727-aa17842a46d7",
+      "data": [
+        {
+          "text": "find a flight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "ac1291e3-4bb0-4937-b5bc-309edfb52232",
+      "data": [
+        {
+          "text": "I\u0027m going to "
+        },
+        {
+          "text": "Rome",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in 2 days",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35eba34f-6ae4-4f57-b009-d54aae9f8be9",
+      "data": [
+        {
+          "text": "find flight to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "2 June",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        },
+        {
+          "text": " till "
+        },
+        {
+          "text": "July 3",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16698141-cbd5-4659-910b-efecdcb32371",
+      "data": [
+        {
+          "text": "any "
+        },
+        {
+          "text": "Virgin America",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        },
+        {
+          "text": " flights from "
+        },
+        {
+          "text": "LA",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Vegas",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this weekend",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a60bbf4d-454a-4cf1-83ff-37d5331cf3d3",
+      "data": [
+        {
+          "text": "are there still some "
+        },
+        {
+          "text": "non-stop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "Colorado",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "Christmas",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52d15833-2786-4554-b3c1-1eb694a07333",
+      "data": [
+        {
+          "text": "find flight from "
+        },
+        {
+          "text": "ATH",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "MUC",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e59cafd4-c1c3-4d40-b134-97f87aa30dcb",
+      "data": [
+        {
+          "text": "find popular "
+        },
+        {
+          "text": "oneway",
+          "alias": "ticket-type",
+          "meta": "@ticket-type",
+          "userDefined": true
+        },
+        {
+          "text": " flights from "
+        },
+        {
+          "text": "Ho Chi Minh",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " under "
+        },
+        {
+          "text": "120",
+          "alias": "price",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "1ff7b600-619a-4a17-b71a-56232132d732",
+      "data": [
+        {
+          "text": "find flight from "
+        },
+        {
+          "text": "Moscow",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for less than "
+        },
+        {
+          "text": "200 euro",
+          "alias": "price",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "ee37d9c1-5bf9-4ceb-877f-50633b11b9f9",
+      "data": [
+        {
+          "text": "flight from "
+        },
+        {
+          "text": "DEL",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "BLR",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04acd6a3-a111-4585-8ad9-5dd64fc19158",
+      "data": [
+        {
+          "text": "I need to fly to "
+        },
+        {
+          "text": "LA",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38ed6c74-c827-4813-961f-ab61939ff09d",
+      "data": [
+        {
+          "text": "need a flight to "
+        },
+        {
+          "text": "Tokyo",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Wellington",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "474b8041-94fd-4b33-a538-25986bce7b6d",
+      "data": [
+        {
+          "text": "search",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "refundable",
+          "alias": "refundable",
+          "meta": "@refundable",
+          "userDefined": true
+        },
+        {
+          "text": " flights "
+        },
+        {
+          "text": "only",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1550a6fb-bddc-4ee4-9f00-15b6ab2405e6",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " need a flight from "
+        },
+        {
+          "text": "Moscow",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Seoul",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "9203e55c-b4df-4810-b96d-82e8b5b394ee",
+      "data": [
+        {
+          "text": "Virgin America",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        },
+        {
+          "text": " flights "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "43f60c36-1813-427c-b08a-906c915438d6",
+      "data": [
+        {
+          "text": "flight from "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "983d7997-8575-44a8-bb75-44677294d6ae",
+      "data": [
+        {
+          "text": "flight from "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " till "
+        },
+        {
+          "text": "Sunday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "8c9fc716-29ef-4072-892c-5bfe92b9fb08",
+      "data": [
+        {
+          "text": "flight till "
+        },
+        {
+          "text": "Sunday",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "518d8537-b078-4a52-ac65-228df7af2aa3",
+      "data": [
+        {
+          "text": "find me flights from "
+        },
+        {
+          "text": "Singapore",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Bangalore",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19217b41-bda0-4d6e-8cdf-247905299f71",
+      "data": [
+        {
+          "text": "show me flights to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3beb339-72d0-4648-852b-826134f859d9",
+      "data": [
+        {
+          "text": "find me flights for "
+        },
+        {
+          "text": "next week",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "London",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3eb56707-1a13-47c3-8b78-480df034ecd3",
+      "data": [
+        {
+          "text": "I want to fly "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "f6641d54-63fc-4ce0-8f78-1e8e0ca89e64",
+      "data": [
+        {
+          "text": "flight for "
+        },
+        {
+          "text": "1",
+          "alias": "child",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " child"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dd361c94-3755-43e2-9b90-b4d3c4a57f1f",
+      "data": [
+        {
+          "text": "flight to "
+        },
+        {
+          "text": "Barcelona",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07138884-3740-4877-8a27-c3d5899cf8b3",
+      "data": [
+        {
+          "text": "search flight for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "adult",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97f68107-b495-4d69-902d-102ee9f6dfb1",
+      "data": [
+        {
+          "text": "find flight from "
+        },
+        {
+          "text": "Bangalore",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "46bae2c6-3692-4677-835c-6d42231c10e1",
+      "data": [
+        {
+          "text": "find me the "
+        },
+        {
+          "text": "best",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "economy class",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa05927d-26cc-4f25-b714-f623f765d43a",
+      "data": [
+        {
+          "text": "best",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "non stop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e04fc154-fb85-4bf5-89d9-b59d79d93865",
+      "data": [
+        {
+          "text": "best",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "7945de76-e822-4a36-b887-1b55387b381c",
+      "data": [
+        {
+          "text": "I\u0027m looking for "
+        },
+        {
+          "text": "best priced",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "refundable",
+          "alias": "refundable",
+          "meta": "@refundable",
+          "userDefined": true
+        },
+        {
+          "text": " airplane tickets to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "without stops",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c7be3a8-1418-412e-91e0-9eddbfefd956",
+      "data": [
+        {
+          "text": "give",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " me the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flight to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43fd9bad-3322-47da-a344-0af6f8b3f1f2",
+      "data": [
+        {
+          "text": "any "
+        },
+        {
+          "text": "cheap",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " tickets to "
+        },
+        {
+          "text": "Berlin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "afa7bfba-3b28-4eca-ae97-c3362088d68a",
+      "data": [
+        {
+          "text": "I\u0027m looking for "
+        },
+        {
+          "text": "best",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " priced airplane tickets to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efef9a83-adb1-4014-94db-b4609b203d9a",
+      "data": [
+        {
+          "text": "find me the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "economy class",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1af3b77-9019-4123-a641-4e1b48c6c799",
+      "data": [
+        {
+          "text": "find me a "
+        },
+        {
+          "text": "nonstop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "refundable",
+          "alias": "refundable",
+          "meta": "@refundable",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to fly to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " from here"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3027bcb-e8a4-420e-8c62-616e349eae03",
+      "data": [
+        {
+          "text": "find me a "
+        },
+        {
+          "text": "nonstop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "refundable",
+          "alias": "refundable",
+          "meta": "@refundable",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to fly to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d694d94f-1021-466f-8189-2a71e155c650",
+      "data": [
+        {
+          "text": "need to fly to "
+        },
+        {
+          "text": "Amsterdam",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "1bd74f86-3e00-4de7-8bf2-a5edf852d569",
+      "data": [
+        {
+          "text": "show me a flight to "
+        },
+        {
+          "text": "Amsterdam",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "for",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba1ca1e5-2b7f-489a-920b-5e2f7fbd2403",
+      "data": [
+        {
+          "text": "I\u0027m looking for "
+        },
+        {
+          "text": "non stop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92e1885e-ebc5-4075-a05e-fb2418e9a5a2",
+      "data": [
+        {
+          "text": "look for an airplane ticket for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91d98f55-9484-483e-8ef3-7337f5945b1c",
+      "data": [
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "2",
+          "alias": "adult",
+          "meta": "@sys.number",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "355ca5ab-9cc1-4e1e-ad75-2b8006c2cf35",
+      "data": [
+        {
+          "text": "search for airplane tickets to "
+        },
+        {
+          "text": "Berlin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "abfa56b8-4956-489b-bddf-e2b8e60dec02",
+      "data": [
+        {
+          "text": "I need the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " flight to "
+        },
+        {
+          "text": "Dublin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c85a4f6b-9eb8-4eb4-a5af-04bd09c8355e",
+      "data": [
+        {
+          "text": "I\u0027m looking for "
+        },
+        {
+          "text": "nonstop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " tickets to "
+        },
+        {
+          "text": "Dublin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61a3330e-55f4-49fc-a348-285a1dff2801",
+      "data": [
+        {
+          "text": "I need "
+        },
+        {
+          "text": "2",
+          "alias": "adult",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " tickets for "
+        },
+        {
+          "text": "S7 airlines",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "18775fb2-4a39-4183-89ef-a350d954cb41",
+      "data": [
+        {
+          "text": "I want to buy an airplane ticket to "
+        },
+        {
+          "text": "Pekin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b34b2974-cc99-4fc5-9620-357ca71281e3",
+      "data": [
+        {
+          "text": "I need a "
+        },
+        {
+          "text": "one way",
+          "alias": "ticket-type",
+          "meta": "@ticket-type",
+          "userDefined": true
+        },
+        {
+          "text": " airplane ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d6e68d62-7236-4d23-9efe-a7af30e28674",
+      "data": [
+        {
+          "text": "I need a flight ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9d86e46-ae7a-454e-9ccd-c002eed2d37d",
+      "data": [
+        {
+          "text": "look for an airplane ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb918708-865b-45e6-bb5c-db548b5e30f1",
+      "data": [
+        {
+          "text": "find flight from "
+        },
+        {
+          "text": "Denver",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "200 euro",
+          "alias": "price",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b41d9e4-36f1-4e1a-9923-1d9f57b4039d",
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "refundable",
+          "alias": "refundable",
+          "meta": "@refundable",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "Basel",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "5fbad6f5-008c-4fba-a61d-261510e6a78e",
+      "data": [
+        {
+          "text": "find flights for "
+        },
+        {
+          "text": "2",
+          "alias": "adult",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " adults from "
+        },
+        {
+          "text": "February 7",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " till "
+        },
+        {
+          "text": "February 10",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "New York",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Ottawa",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3da8755-6339-454e-859f-3df6864a87ca",
+      "data": [
+        {
+          "text": "economy",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "coming",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " back on "
+        },
+        {
+          "text": "15 August",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "520999b2-f369-42df-bf0b-fd1cb265555c",
+      "data": [
+        {
+          "text": "Bangkok",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "25 July",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "d2205e4b-c003-45e9-8b2a-ae5764e809bf",
+      "data": [
+        {
+          "text": "JFK",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "LAX",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2c9de41f-47a8-4a2f-b43b-7038a6633c33",
+      "data": [
+        {
+          "text": "need "
+        },
+        {
+          "text": "a",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " flight to "
+        },
+        {
+          "text": "Las Vegas",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "NYC",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9cfa3054-63e3-496b-aa25-214d65c1ac2a",
+      "data": [
+        {
+          "text": "New York",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Milan",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "August 19",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " returning "
+        },
+        {
+          "text": "August 26",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d23764f7-3899-4a38-bd04-1ee8f38f51c5",
+      "data": [
+        {
+          "text": "NYC",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Milan",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "3",
+          "alias": "adult",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " people "
+        },
+        {
+          "text": "business",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4027cdee-8f36-4272-9635-4dbd39fbcd22",
+      "data": [
+        {
+          "text": "JFK",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LAX",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow morning",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eco",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87580603-974a-479a-a8fe-7367d62a4699",
+      "data": [
+        {
+          "text": "I need "
+        },
+        {
+          "text": "a",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "SFO",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next Monday",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13be5602-7be9-4c26-beb5-f718c198e42a",
+      "data": [
+        {
+          "text": "Amsterdam",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "NYC",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "July 12",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "economy class",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7aefeef8-bcf4-4dbe-93a8-80d1084d21fe",
+      "data": [
+        {
+          "text": "one way",
+          "alias": "ticket-type",
+          "meta": "@ticket-type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "JFK",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "LAX",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "economy",
+          "alias": "class",
+          "meta": "@class",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "afe9d1e6-9069-45da-8027-6b06ecc97e28",
+      "data": [
+        {
+          "text": "Bangkok",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "New York",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "the 17th",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3cf07273-b047-4728-bb88-c40639fda23c",
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " flights from "
+        },
+        {
+          "text": "Singapore",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "June 25",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7b5da68-d7b0-4cb2-b905-93361e330adb",
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " flights from "
+        },
+        {
+          "text": "Singapore",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Bangalore",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d26d55d-5420-4c70-b130-8d7fd504f3b0",
+      "data": [
+        {
+          "text": "show "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " flights to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10812b9a-bb47-45f2-a5c4-aea45fa3d98f",
+      "data": [
+        {
+          "text": "you should find "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " flight to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "here",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18b79fc4-19ed-48c7-95aa-113bf54e114d",
+      "data": [
+        {
+          "text": "search "
+        },
+        {
+          "text": "a",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nonstop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " flight for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "1",
+          "alias": "adult",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " adult"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "9767124c-34f5-4cbd-ad51-b3f690b9aabb",
+      "data": [
+        {
+          "text": "look for "
+        },
+        {
+          "text": "an",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "airplane",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "London",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47e147c2-49d1-495a-b8b6-9a3d644dd832",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " there "
+        },
+        {
+          "text": "any",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nonstop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " tickets to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b409d26-f807-42ad-9326-7f404796834c",
+      "data": [
+        {
+          "text": "can",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " you search for "
+        },
+        {
+          "text": "airplane",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " tickets to "
+        },
+        {
+          "text": "Berlin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02644399-2980-4c60-978e-bd70a7e589fd",
+      "data": [
+        {
+          "text": "I want to buy "
+        },
+        {
+          "text": "an",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "airplane",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "Moscow",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "64327fdd-4df0-437c-88c4-9aa37c819724",
+      "data": [
+        {
+          "text": "I need a "
+        },
+        {
+          "text": "one way",
+          "alias": "ticket-type",
+          "meta": "@ticket-type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "airplane",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0383d73a-077f-4128-888e-706b8379111c",
+      "data": [
+        {
+          "text": "I\u0027m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " going to fly to "
+        },
+        {
+          "text": "Amsterdam",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " alone"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e7fc8c0-541b-4ea5-8111-364c5ea38ece",
+      "data": [
+        {
+          "text": "I need to fly from "
+        },
+        {
+          "text": "San Francisco",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "New York",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " next "
+        },
+        {
+          "text": "Friday",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1d8bf0a-9dbe-47a6-ba53-4401d0c6a56e",
+      "data": [
+        {
+          "text": "any "
+        },
+        {
+          "text": "Virgin America",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        },
+        {
+          "text": " flights from "
+        },
+        {
+          "text": "LA",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Vegas",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "this weekend",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36b9159d-b1f5-4370-a487-3530f6ed21fb",
+      "data": [
+        {
+          "text": "I need a "
+        },
+        {
+          "text": "one-way",
+          "alias": "ticket-type",
+          "meta": "@ticket-type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "Zimbabwe",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " leaving "
+        },
+        {
+          "text": "tonight",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "493423ca-090b-4904-9082-f85acbfa14f7",
+      "data": [
+        {
+          "text": "what are the "
+        },
+        {
+          "text": "best",
+          "alias": "sort",
+          "meta": "@map-sort",
+          "userDefined": true
+        },
+        {
+          "text": " dates to fly from "
+        },
+        {
+          "text": "Seattle",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Honolulu",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " in the month of "
+        },
+        {
+          "text": "June",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45e4af53-d1d1-4683-97d5-1cbc887f5ac6",
+      "data": [
+        {
+          "text": "I need recommendations for a romantic trip from "
+        },
+        {
+          "text": "Los Angeles",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " during my time off work "
+        },
+        {
+          "text": "July 18-24",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10ef966f-ee14-413f-8d31-d1f1894f9d9a",
+      "data": [
+        {
+          "text": "I want to go somewhere from "
+        },
+        {
+          "text": "Chicago",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "the winter",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e6df953-fb9a-482e-a260-cd0f5c13e3dd",
+      "data": [
+        {
+          "text": "I want a "
+        },
+        {
+          "text": "non-stop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " flight from "
+        },
+        {
+          "text": "New York",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Nashville",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Oct 28",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " and I prefer "
+        },
+        {
+          "text": "American Airlines",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f002e854-3065-4bd3-afca-3c1c3d4be675",
+      "data": [
+        {
+          "text": "I\u0027m looking for a "
+        },
+        {
+          "text": "non-stop",
+          "alias": "nonstop",
+          "meta": "@nonstop",
+          "userDefined": true
+        },
+        {
+          "text": " flight from "
+        },
+        {
+          "text": "SFO",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "BOS",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " leaving "
+        },
+        {
+          "text": "7/15",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " and returning "
+        },
+        {
+          "text": "7/17",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "716f99e4-e2dd-4f50-af5b-b95c48e4cbeb",
+      "data": [
+        {
+          "text": "I\u0027d like to fly to "
+        },
+        {
+          "text": "San Diego",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next weekend",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6394b270-260a-46f4-b2f5-dce42bbbeedf",
+      "data": [
+        {
+          "text": "I need to fly from "
+        },
+        {
+          "text": "San Francisco",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Houston",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "October 18-24",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b257f70-a2a1-4cae-a435-e0dd7bd78cb6",
+      "data": [
+        {
+          "text": "search a flight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b7d71a2-bfc7-4611-b48e-06178abfe4e6",
+      "data": [
+        {
+          "text": "look for flights"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a82b8fce-c302-47a8-b987-84aa47d6fa1b",
+      "data": [
+        {
+          "text": "I\u0027m going to fly to "
+        },
+        {
+          "text": "Amsterdam",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d7704da-6892-4708-adf9-74d0b2496625",
+      "data": [
+        {
+          "text": "I\u0027m searching for a flight to "
+        },
+        {
+          "text": "Dublin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "72217462-7bce-43d9-8c9e-07304f445564",
+      "data": [
+        {
+          "text": "I\u0027m searching for airplane tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a16b6cef-212a-43c0-8563-4fea1ce9e8d0",
+      "data": [
+        {
+          "text": "find flight ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec4b04be-e28c-4e0c-ad8f-50e87d749e90",
+      "data": [
+        {
+          "text": "find a flight ticket for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c150f072-64fb-4f1e-b3b1-cdeeba9bcdd8",
+      "data": [
+        {
+          "text": "find flights"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5b7730e-9091-4565-b1db-59026f4bca2f",
+      "data": [
+        {
+          "text": "I need a flight to "
+        },
+        {
+          "text": "Delhi",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a9815a7-c3bc-40b3-9b43-e20ddbcf18c4",
+      "data": [
+        {
+          "text": "need a flight ticket from "
+        },
+        {
+          "text": "DEL",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "BLR",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "7 Oct",
+          "alias": "departure",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " and return on "
+        },
+        {
+          "text": "13 Oct",
+          "alias": "return",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "249d1608-e9f1-49b0-8858-2d177d62058f",
+      "data": [
+        {
+          "text": "need a flight from "
+        },
+        {
+          "text": "Delhi",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "1c36dd18-b92c-41f3-a5d8-ad66d0166d50",
+  "name": "flight.search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.search",
+      "affectedContexts": [
+        {
+          "name": "flight",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "flightsearch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@sys.location",
+          "name": "from",
+          "value": "$from",
+          "isList": false
+        },
+        {
+          "dataType": "@sys.location",
+          "name": "to",
+          "value": "$to"
+        },
+        {
+          "dataType": "@sys.date-time",
+          "name": "departure",
+          "value": "$departure"
+        },
+        {
+          "dataType": "@sys.date-time",
+          "name": "return",
+          "value": "$return"
+        },
+        {
+          "dataType": "@ticket-type",
+          "name": "ticket-type",
+          "value": "$ticket-type"
+        },
+        {
+          "dataType": "@sys.number",
+          "name": "adult",
+          "value": "$adult"
+        },
+        {
+          "dataType": "@sys.number",
+          "name": "child",
+          "value": "$child"
+        },
+        {
+          "dataType": "@class",
+          "name": "class",
+          "value": "$class"
+        },
+        {
+          "dataType": "@nonstop",
+          "name": "nonstop",
+          "value": "$nonstop"
+        },
+        {
+          "dataType": "@refundable",
+          "name": "refundable",
+          "value": "$refundable"
+        },
+        {
+          "dataType": "@airline",
+          "name": "airline",
+          "value": "$airline"
+        },
+        {
+          "dataType": "@map-sort",
+          "name": "sort",
+          "value": "$sort"
+        },
+        {
+          "dataType": "@sys.unit-currency",
+          "name": "price",
+          "value": "$price"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

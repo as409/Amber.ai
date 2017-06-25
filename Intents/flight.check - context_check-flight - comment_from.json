@@ -1,0 +1,243 @@
+{
+  "userSays": [
+    {
+      "id": "c7cb9490-90cf-49d4-8b4f-d5e13a720fd5",
+      "data": [
+        {
+          "text": "flying from "
+        },
+        {
+          "text": "Paris",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "72159db3-5b02-40cd-84f9-49c0f50ec966",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "am",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "leaving",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Riga",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67de682f-e0fa-4d09-89b6-1688b5ed57cf",
+      "data": [
+        {
+          "text": "departing point is "
+        },
+        {
+          "text": "Moscow",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "39464f83-158b-4c8d-b984-9ba404d456dd",
+      "data": [
+        {
+          "text": "depart is from "
+        },
+        {
+          "text": "Hannover",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d548fab7-d8df-47ec-bea9-70c5e10e6b44",
+      "data": [
+        {
+          "text": "and from "
+        },
+        {
+          "text": "Lissabon",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b5d7943-c329-467c-bd5b-aba77b9ea40e",
+      "data": [
+        {
+          "text": "now from "
+        },
+        {
+          "text": "San Francisco",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1b89266-ad23-4bad-9035-75d7bbf4baa0",
+      "data": [
+        {
+          "text": "from "
+        },
+        {
+          "text": "London",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2636c1f2-fa7f-4c3d-a91c-0540dabc0585",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "the one",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Berlin",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a16f4c88-0a94-45f1-bf02-cbe34520fb72",
+      "data": [
+        {
+          "text": "how about "
+        },
+        {
+          "text": "the one",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Marrakesch",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e3ddad1-7546-472d-8dc3-9de362f538a5",
+      "data": [
+        {
+          "text": "leaving from "
+        },
+        {
+          "text": "Dakar",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0d700fe-c5c6-4f7b-9ad0-e1b2ff496c3e",
+      "data": [
+        {
+          "text": "departing from "
+        },
+        {
+          "text": "New York",
+          "alias": "from",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "77b54c62-00f1-45bf-85f4-759b5ef2e95f",
+  "name": "flight.check - context:check-flight - comment:from",
+  "auto": true,
+  "contexts": [
+    "check-flight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.location",
+          "name": "from",
+          "value": "$from"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

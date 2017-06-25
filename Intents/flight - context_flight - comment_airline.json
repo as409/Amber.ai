@@ -1,0 +1,262 @@
+{
+  "userSays": [
+    {
+      "id": "b9468393-efe2-406a-9db0-6478d347b7a6",
+      "data": [
+        {
+          "text": "going "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "fly",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "Aeroflot",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1641b289-c841-409e-90db-b9fb8186448a",
+      "data": [
+        {
+          "text": "Emirates airlines",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a3f4cf4-de4a-424a-bbff-b67dd5e5f811",
+      "data": [
+        {
+          "text": "Air France",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": false
+        },
+        {
+          "text": " this "
+        },
+        {
+          "text": "time",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0152df28-9a95-43b6-9002-f1f8bd381201",
+      "data": [
+        {
+          "text": "Aeroflot",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ff4e672-bd97-431b-9ec5-7547e48aa8a2",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "am",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "flying",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "Qatar Airways",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        },
+        {
+          "text": " this "
+        },
+        {
+          "text": "time",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86ccc423-2a8c-4aca-ad4e-ffb5baab8242",
+      "data": [
+        {
+          "text": "flying",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "Aeroflot",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03f5bc95-7531-46ad-b283-4fefa6b87430",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " flying with "
+        },
+        {
+          "text": "Air Berlin",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "339e8917-b787-448a-8d08-bd1d1973b2e9",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " fly with "
+        },
+        {
+          "text": "Aeroflot",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45e74d9f-8d67-4387-bc8a-516624af1351",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " going by "
+        },
+        {
+          "text": "Aero VIP",
+          "alias": "airline",
+          "meta": "@airline",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "99201156-3c22-4861-9737-97e5869fbfcc",
+  "name": "flight - context:flight - comment:airline",
+  "auto": true,
+  "contexts": [
+    "flight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#flight.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@airline",
+          "name": "airline",
+          "value": "$airline"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
