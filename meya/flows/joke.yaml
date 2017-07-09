@@ -1,0 +1,5 @@
+# A classic Chuck Norris joke.
+name: joke
+states:
+    first:
+        component: norris

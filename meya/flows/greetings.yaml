@@ -1,0 +1,36 @@
+# this flow routes the built-in greeting intent to different states
+# based on what the user has said "hi", "how are you?", "help", etc.
+name: greetings
+intents:
+    hi: hi
+    how_are_you: how_are_you
+    help: help
+    whats_up: whats_up
+states:
+    hi:
+        component: meya.random_text
+        properties:
+            responses:
+                - "Hey there! \U0001F604"
+                - "Hi! \U0001F604"
+                - "Howdy! \U0001F604"
+                - "Hello! \U0001F604"
+        return: true
+    how_are_you:
+        component: meya.random_text
+        properties:
+            responses:
+                - "I'm fine, thanks for asking \U0001F604"
+                - Great! How are you?
+                - Super duper. You?
+        return: true
+    whats_up:
+        component: meya.text
+        properties:
+            text: Not much. What's up with you?
+        return: true
+    help:
+        component: meya.text
+        properties:
+            text: "I'm a demo bot. Try saying 'start'"
+        return: true

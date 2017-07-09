@@ -1,0 +1,11 @@
+name: gif
+states:
+    get_tag:
+        component: meya.input_string
+        properties:
+            text: What type of gif would you like to see?
+            output: tag
+    output_gif:
+        component: giphy
+    yo:
+        flow: joke

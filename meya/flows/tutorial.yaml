@@ -1,0 +1,82 @@
+# This is the `tutorial` flow and is called by the `welcome` flow, but
+# can also be called directly by typing "tutorial"
+name: tutorial
+states:
+    check_name:
+        component: meya.conditional_exists
+        properties:
+            scope: user
+            key: first_name
+        transitions:
+            exists: welcome_back
+            notexists: ask_name
+    welcome_back:
+        component: meya.text
+        properties:
+            text: "Welcome back, {{ user.first_name }}!"
+        transitions:
+            next: overview
+    ask_name:
+        component: meya.input_string
+        properties:
+            text: What's your name?
+            output: first_name
+            scope: user
+    confirm_name:
+        component: meya.text
+        properties:
+            text: "Nice to meet you {{ user.first_name }}!"
+    overview:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                A Meya bot is made up of three things:
+                `intents` are what triggers a bot response.
+                `flows` are the steps that a bot runs through.
+                `components` are code that the bot runs along the way.
+            suggestions:
+                - Got it
+    intent:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                Each flow is triggered by an `intent`. An intent can be a keyword,
+                regular expression, or a natural language model. You'll
+                see the "intent" at the top of the flow editor. Click "Edit"
+                to edit the intent.
+            suggestions:
+                - Got it
+    flow:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                A `flow` is written in YAML code and defines the steps
+                (called "states") a bot will take in response to an intent.
+                At each state, a component (or another flow) can be invoked.
+            suggestions:
+                - Got it
+    component:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                A `component` is a unit of code written in Python or Node.js
+                that does something useful. You can read data from the
+                built-in database, make a call to a web API, perform a
+                calculation, etc.
+            suggestions:
+                - Got it
+    last:
+        component: meya.text
+        properties:
+            text: >
+                As a bot designer you need to think about how these
+                pieces should fit together to make a good user experience.
+        delay:
+            relative: 4
+    complete:
+        component: meya.text
+        properties:
+            text: >
+                Good luck, and remember to check out the docs:
+                http://docs.meya.ai
+        return: true
