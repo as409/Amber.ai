@@ -1,36 +1,43 @@
-# this flow routes the built-in greeting intent to different states
-# based on what the user has said "hi", "how are you?", "help", etc.
-name: greetings
-intents:
-    hi: hi
-    how_are_you: how_are_you
-    help: help
-    whats_up: whats_up
+name: greeting
 states:
-    hi:
-        component: meya.random_text
-        properties:
-            responses:
-                - "Hey there! \U0001F604"
-                - "Hi! \U0001F604"
-                - "Howdy! \U0001F604"
-                - "Hello! \U0001F604"
-        return: true
-    how_are_you:
-        component: meya.random_text
-        properties:
-            responses:
-                - "I'm fine, thanks for asking \U0001F604"
-                - Great! How are you?
-                - Super duper. You?
-        return: true
-    whats_up:
+    smalltalk:
         component: meya.text
         properties:
-            text: Not much. What's up with you?
-        return: true
-    help:
+            text: "{{flow.fulfillment.speech}}"
+    check_name:
+        component: meya.conditional_exists
+        properties:
+            scope: user
+            key: first_name
+        transitions:
+            exists: welcome_back
+            notexists: ask_name
+        delay:
+            relative: 2
+    welcome_back:
         component: meya.text
         properties:
-            text: "I'm a demo bot. Try saying 'start'"
-        return: true
+            text: "Welcome back, {{ user.first_name }}!"
+        transitions:
+            next: apicalling
+        delay:
+            relative: 2
+    ask_name:
+        component: meya.input_string
+        properties:
+            text: "What's your name?"
+            output: first_name
+            scope: user
+        delay:
+            relative: 2
+    confirm_name:
+        component: meya.text
+        properties:
+            text: "Nice to meet you {{ user.first_name }}!"
+        transition:
+            next: understand
+        delay:
+            relative: 2
+    understand:
+        flow: understanding
+        
