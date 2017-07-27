@@ -1,0 +1,44 @@
+# select a blueprint above or type/paste YAML here
+name: greeting
+states:
+    smalltalk:
+        component: meya.text
+        properties:
+            text: "{{flow.fulfillment.speech}}"
+    check_name:
+        component: meya.conditional_exists
+        properties:
+            scope: user
+            key: first_name
+        transitions:
+            exists: welcome_back
+            notexists: ask_name
+        delay:
+            relative: 2
+    welcome_back:
+        component: meya.text
+        properties:
+            text: "Welcome back, {{ user.first_name }}!"
+        transitions:
+            next: apicalling
+        delay:
+            relative: 2
+    ask_name:
+        component: meya.input_string
+        properties:
+            text: "What's your name?"
+            output: first_name
+            scope: user
+        delay:
+            relative: 2
+    confirm_name:
+        component: meya.text
+        properties:
+            text: "Nice to meet you {{ user.first_name }}!"
+        transition:
+            next: understand
+        delay:
+            relative: 2
+    understand:
+        flow: understanding
+        
