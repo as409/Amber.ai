@@ -1,0 +1,37 @@
+# select a blueprint above or type/paste YAML here
+
+name: heading
+states:
+            
+    equal_check_state:
+        component: meya.conditional_equal
+        properties:
+            value1: '{{ flow.fulfillment.speech }}'
+            value2: ''
+        transitions:
+            equal: equal_state1
+            notequal: notequal_state1
+        delay:
+            relative: 1
+    equal_state1:
+        component: meya.text
+        properties:
+            
+        transitions:
+            next: third
+        delay:
+            relative: 1
+            
+    notequal_state1:
+        component: meya.text
+        properties:
+            text: "{{flow.fulfillment.speech}}"
+        return: true
+        
+    third:
+        component: api_calling_first
+        
+        transition:
+            next: please
+            
+ 
