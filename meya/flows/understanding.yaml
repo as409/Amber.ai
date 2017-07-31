@@ -1,0 +1,46 @@
+name: understanding
+states:
+
+    aboutus:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                Trip Tap Toe is  an online platform to search, discover and book worldwide hotels, flights, curated itineraries and activities.
+            suggestions:
+                - Got it
+    hotel:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                For hotel booking we get results from worldwide suppliers and funnel them into a single feed. You will not have to go through the hassle of comparing multiple sites for the best hotel prices.
+            suggestions:
+                - Got it
+    flight:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                Similarly, for flights, we forward commissions received from airlines as discounts.
+            suggestions:
+                - Got it
+    travelpackage:
+        component: meya.text_suggestions
+        properties:
+            text: >
+                We provide travel packages just according to your needs
+            suggestions:
+                - Got it
+    cab:
+        component: meya.text
+        properties:
+            text: >
+                We also provide cab services from aiport to hotels and vice-versa
+                
+        delay:
+            relative: 4
+    complete:
+        component: meya.text
+        properties:
+            text: >
+                Well, you are all set for planning your dream holidays
+                Just type for eg " I want to book a hotel in delhi on 26th jan "
+        return: true
