@@ -1,0 +1,21 @@
+{
+  "id": "2e22fefb-17ab-43ca-a802-9e4760cefc87",
+  "name": "city_composite",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "@city2:city2",
+      "synonyms": [
+        "@city2:city2"
+      ]
+    },
+    {
+      "value": "@CITY1:CITY1",
+      "synonyms": [
+        "@CITY1:CITY1"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
