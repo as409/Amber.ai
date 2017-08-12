@@ -1,0 +1,15 @@
+{
+  "id": "d97a793e-b918-4446-8463-ac67b421f6e9",
+  "name": "nationality",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "indian",
+      "synonyms": [
+        "indian"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

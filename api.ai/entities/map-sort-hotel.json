@@ -1,0 +1,74 @@
+{
+  "id": "848e90d8-bef9-41d2-ab71-c77cdb2c2ed4",
+  "name": "map-sort-hotel",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "nearest",
+      "synonyms": [
+        "nearest",
+        "closest",
+        "nearby",
+        "near me",
+        "in my location",
+        "in this district",
+        "in my srea",
+        "on my way",
+        "at my destination",
+        "nearby",
+        "along my routew",
+        "in my neighbourhood",
+        "around my are",
+        "not far from here",
+        "close to my area",
+        "very close",
+        "in tghis area",
+        "along my route",
+        "immediate",
+        "at my destinatiojn"
+      ]
+    },
+    {
+      "value": "best",
+      "synonyms": [
+        "best",
+        "top",
+        "good",
+        "nice",
+        "great",
+        "cool",
+        "fine",
+        "interesting"
+      ]
+    },
+    {
+      "value": "cheapest",
+      "synonyms": [
+        "cheapest",
+        "cheap",
+        "less expensive",
+        "best priced"
+      ]
+    },
+    {
+      "value": "best matched",
+      "synonyms": [
+        "best matched"
+      ]
+    },
+    {
+      "value": "free",
+      "synonyms": [
+        "free"
+      ]
+    },
+    {
+      "value": "in my city",
+      "synonyms": [
+        "in my city"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
