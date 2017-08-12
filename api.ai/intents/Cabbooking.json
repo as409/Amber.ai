@@ -1,0 +1,285 @@
+{
+  "userSays": [
+    {
+      "id": "5c96dec7-1caa-40e4-9f03-67435fd3eb57",
+      "data": [
+        {
+          "text": "I want to book a cab from "
+        },
+        {
+          "text": "IGI",
+          "alias": "souce",
+          "meta": "@sys.location",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "taj hotel",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on tuesday",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": false
+        },
+        {
+          "text": "  at "
+        },
+        {
+          "text": "4pm",
+          "alias": "time",
+          "meta": "@sys.time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "105bb470-5834-417c-82c5-eb5812da4fe9",
+      "data": [
+        {
+          "text": "I want to book a taxi from "
+        },
+        {
+          "text": "Hyatt",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": false
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "delhi",
+          "alias": "destination",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tommorow",
+          "alias": "date",
+          "meta": "@sys.date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8060744e-63ce-4130-b223-4e61155bfd81",
+      "data": [
+        {
+          "text": "i want to book a taxi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "653a93e3-3d30-4806-a242-5d07d2a2d309",
+      "data": [
+        {
+          "text": "I want to book a cab"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83467c1d-051d-49fd-90be-a1302f2b2509",
+      "data": [
+        {
+          "text": "I want a taxi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "51be7b7d-1210-4008-a0ea-3250d99952b4",
+      "data": [
+        {
+          "text": "I want a cab"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0b38e00-7f3b-4235-baf2-cdeab45ec1d3",
+      "data": [
+        {
+          "text": "I want a cab from "
+        },
+        {
+          "text": "Delhi airport",
+          "alias": "souce",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bacfcc2-3864-401f-ad7f-26e972dced3d",
+      "data": [
+        {
+          "text": "I want to a cab from "
+        },
+        {
+          "text": "raddison hotel,",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": " Delhi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc15e10d-bd14-4fd1-82ff-115563ffeb0c",
+      "data": [
+        {
+          "text": "i want a cab from "
+        },
+        {
+          "text": "Delhi",
+          "alias": "destination",
+          "meta": "@sys.location",
+          "userDefined": false
+        },
+        {
+          "text": " airport to "
+        },
+        {
+          "text": "hyatt hotel",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": false
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "agra",
+          "alias": "destination",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5a6a5224-c0d1-48d4-a3d9-31c174fb06e1",
+  "name": "Cabbooking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cab.book",
+      "affectedContexts": [
+        {
+          "name": "cab",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "taxi",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "cab-booking",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "taxi-booking",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "required": true,
+          "dataType": "@venue-accomodation-chain",
+          "name": "venue-accomodation-chain",
+          "value": "$venue-accomodation-chain",
+          "prompts": [
+            "Please enter the hotel chain"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "souce",
+          "value": "$souce",
+          "prompts": [
+            "Please enter the source location"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "destination",
+          "value": "$destination",
+          "prompts": [
+            "Please enter the destination location"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            "Please enter the date"
+          ],
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            "please enter the time"
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "looking for cabs near you"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
