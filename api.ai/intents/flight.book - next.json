@@ -1,0 +1,137 @@
+{
+  "userSays": [
+    {
+      "id": "f806f850-7140-4358-8009-29e8da2e22c8",
+      "data": [
+        {
+          "text": "next"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "420114ae-3c30-4e23-b789-4e07b3fee09c",
+      "data": [
+        {
+          "text": "next page"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a96a2c1b-babe-4f2e-835a-d8b669817a74",
+      "data": [
+        {
+          "text": "go forward"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "08dce08b-fc20-4fc3-8784-b7e1483acd33",
+      "data": [
+        {
+          "text": "show me next"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f01a10d-b9b7-4068-88f1-cafad82f4898",
+      "data": [
+        {
+          "text": "following result"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d88543b-6ae2-456b-a631-6f4bc4f329b3",
+      "data": [
+        {
+          "text": "switch to the next"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ef96286-c9f4-4549-9c0d-3a68a8d12b4c",
+      "data": [
+        {
+          "text": "go to the next page"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ae82012-4789-4ba7-9486-3e4bad2445f8",
+      "data": [
+        {
+          "text": "read the next results"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8dfc5f24-9db9-4b22-957d-6afdc4d6043e",
+      "data": [
+        {
+          "text": "show me the next page"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1abe4e1-f135-4daf-8e98-7d50accf2aee",
+      "data": [
+        {
+          "text": "show me the following results"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "678b241b-7263-437c-a082-c8e31cb07a5c",
+  "parentId": "255ecdd1-8f19-4fa9-96ed-66b30557e9e3",
+  "rootParentId": "255ecdd1-8f19-4fa9-96ed-66b30557e9e3",
+  "name": "flight.book - next",
+  "auto": true,
+  "contexts": [
+    "flightbook-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.book.next",
+      "affectedContexts": [
+        {
+          "name": "flightbook-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
