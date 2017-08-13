@@ -13,4 +13,4 @@ This api.ai agent will be used along with #Meya.ai and a messaging platform like
 ## Setup :
 
 ### 1. Setting up api.ai
-    - hjbjh
+- hjbjh
