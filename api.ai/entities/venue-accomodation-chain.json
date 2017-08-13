@@ -1,0 +1,2480 @@
+{
+  "id": "73392ef8-e599-45b7-ba90-7dba6d7abc9b",
+  "name": "venue-accomodation-chain",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "21c Museum Hotels",
+      "synonyms": [
+        "21c Museum Hotels"
+      ]
+    },
+    {
+      "value": "AC Hotels",
+      "synonyms": [
+        "AC Hotels"
+      ]
+    },
+    {
+      "value": "AMResorts",
+      "synonyms": [
+        "AMResorts"
+      ]
+    },
+    {
+      "value": "Abu Dhabi National Hotels",
+      "synonyms": [
+        "Abu Dhabi National Hotels"
+      ]
+    },
+    {
+      "value": "AccorHotels",
+      "synonyms": [
+        "AccorHotels"
+      ]
+    },
+    {
+      "value": "Ace Hotel",
+      "synonyms": [
+        "Ace Hotel"
+      ]
+    },
+    {
+      "value": "Adagio",
+      "synonyms": [
+        "Adagio"
+      ]
+    },
+    {
+      "value": "Advena Hotels",
+      "synonyms": [
+        "Advena Hotels"
+      ]
+    },
+    {
+      "value": "Aerowisata",
+      "synonyms": [
+        "Aerowisata"
+      ]
+    },
+    {
+      "value": "Affinia Hotel Collection",
+      "synonyms": [
+        "Affinia Hotel Collection"
+      ]
+    },
+    {
+      "value": "Affinia Hotels",
+      "synonyms": [
+        "Affinia Hotels"
+      ]
+    },
+    {
+      "value": "Agadir Morocco",
+      "synonyms": [
+        "Agadir Morocco"
+      ]
+    },
+    {
+      "value": "Aime France",
+      "synonyms": [
+        "Aime France"
+      ]
+    },
+    {
+      "value": "Aitken Spence",
+      "synonyms": [
+        "Aitken Spence"
+      ]
+    },
+    {
+      "value": "Ajaccio France",
+      "synonyms": [
+        "Ajaccio France"
+      ]
+    },
+    {
+      "value": "Alamo Plaza Hotel Courts",
+      "synonyms": [
+        "Alamo Plaza Hotel Courts"
+      ]
+    },
+    {
+      "value": "Allegro Resorts Corporation",
+      "synonyms": [
+        "Allegro Resorts Corporation"
+      ]
+    },
+    {
+      "value": "Aloft Hotels",
+      "synonyms": [
+        "Aloft Hotels"
+      ]
+    },
+    {
+      "value": "Alpe d Huez France",
+      "synonyms": [
+        "Alpe d Huez France"
+      ]
+    },
+    {
+      "value": "Aman Resorts",
+      "synonyms": [
+        "Aman Resorts"
+      ]
+    },
+    {
+      "value": "Amari Hotels and Resorts",
+      "synonyms": [
+        "Amari Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Ambassador Hotel",
+      "synonyms": [
+        "Ambassador Hotel"
+      ]
+    },
+    {
+      "value": "AmeriHost Inn",
+      "synonyms": [
+        "AmeriHost Inn"
+      ]
+    },
+    {
+      "value": "AmericInn",
+      "synonyms": [
+        "AmericInn"
+      ]
+    },
+    {
+      "value": "America s Best Franchising",
+      "synonyms": [
+        "America s Best Franchising"
+      ]
+    },
+    {
+      "value": "Antalya Turkey",
+      "synonyms": [
+        "Antalya Turkey"
+      ]
+    },
+    {
+      "value": "Apple Inn",
+      "synonyms": [
+        "Apple Inn"
+      ]
+    },
+    {
+      "value": "Aqua Hotels and Resorts",
+      "synonyms": [
+        "Aqua Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Aqueen Hotels and Resorts",
+      "synonyms": [
+        "Aqueen Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Archipelago International",
+      "synonyms": [
+        "Archipelago International"
+      ]
+    },
+    {
+      "value": "Arp Hansen Hotel Group",
+      "synonyms": [
+        "Arp Hansen Hotel Group"
+      ]
+    },
+    {
+      "value": "Arrowhead Springs San Bernardino California",
+      "synonyms": [
+        "Arrowhead Springs San Bernardino California"
+      ]
+    },
+    {
+      "value": "Atlantis Paradise Island",
+      "synonyms": [
+        "Atlantis Paradise Island"
+      ]
+    },
+    {
+      "value": "Autograph Collection Hotels",
+      "synonyms": [
+        "Autograph Collection Hotels"
+      ]
+    },
+    {
+      "value": "Avari Hotels",
+      "synonyms": [
+        "Avari Hotels"
+      ]
+    },
+    {
+      "value": "Azimut Hotels",
+      "synonyms": [
+        "Azimut Hotels"
+      ]
+    },
+    {
+      "value": "Baglioni Hotels",
+      "synonyms": [
+        "Baglioni Hotels"
+      ]
+    },
+    {
+      "value": "Bahia Principe",
+      "synonyms": [
+        "Bahia Principe"
+      ]
+    },
+    {
+      "value": "Bali Indonesia",
+      "synonyms": [
+        "Bali Indonesia"
+      ]
+    },
+    {
+      "value": "BandB Hotels",
+      "synonyms": [
+        "BandB Hotels"
+      ]
+    },
+    {
+      "value": "Banyan Tree Holdings",
+      "synonyms": [
+        "Banyan Tree Holdings"
+      ]
+    },
+    {
+      "value": "Baymont Inn Suites",
+      "synonyms": [
+        "Baymont Inn Suites",
+        "Baymont Inn and Suites"
+      ]
+    },
+    {
+      "value": "Beaches Resorts",
+      "synonyms": [
+        "Beaches Resorts"
+      ]
+    },
+    {
+      "value": "Belmond",
+      "synonyms": [
+        "Belmond"
+      ]
+    },
+    {
+      "value": "Best Value Inn",
+      "synonyms": [
+        "Best Value Inn"
+      ]
+    },
+    {
+      "value": "Best Western Hotels",
+      "synonyms": [
+        "Best Western Hotels"
+      ]
+    },
+    {
+      "value": "Bintan Indonesia",
+      "synonyms": [
+        "Bintan Indonesia"
+      ]
+    },
+    {
+      "value": "Bloc Hotels",
+      "synonyms": [
+        "Bloc Hotels"
+      ]
+    },
+    {
+      "value": "Bluegreen Corporation",
+      "synonyms": [
+        "Bluegreen Corporation"
+      ]
+    },
+    {
+      "value": "Boscolo Budapest Hotel",
+      "synonyms": [
+        "Boscolo Budapest Hotel"
+      ]
+    },
+    {
+      "value": "Boscolo Hotels",
+      "synonyms": [
+        "Boscolo Hotels"
+      ]
+    },
+    {
+      "value": "Bourg Saint Maurice France",
+      "synonyms": [
+        "Bourg Saint Maurice France"
+      ]
+    },
+    {
+      "value": "Bowman Biltmore Hotels",
+      "synonyms": [
+        "Bowman Biltmore Hotels"
+      ]
+    },
+    {
+      "value": "Breuil Cervinia Italy",
+      "synonyms": [
+        "Breuil Cervinia Italy"
+      ]
+    },
+    {
+      "value": "Brisas Hotels and Resorts",
+      "synonyms": [
+        "Brisas Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Brown Palace Hotel",
+      "synonyms": [
+        "Brown Palace Hotel"
+      ]
+    },
+    {
+      "value": "Budget Host",
+      "synonyms": [
+        "Budget Host"
+      ]
+    },
+    {
+      "value": "Cachet Hotel Group",
+      "synonyms": [
+        "Cachet Hotel Group"
+      ]
+    },
+    {
+      "value": "Calvi France",
+      "synonyms": [
+        "Calvi France"
+      ]
+    },
+    {
+      "value": "Canadian National Hotels",
+      "synonyms": [
+        "Canadian National Hotels"
+      ]
+    },
+    {
+      "value": "Canalta Hotels",
+      "synonyms": [
+        "Canalta Hotels"
+      ]
+    },
+    {
+      "value": "Cancun Mexico",
+      "synonyms": [
+        "Cancun Mexico"
+      ]
+    },
+    {
+      "value": "Cannes France",
+      "synonyms": [
+        "Cannes France"
+      ]
+    },
+    {
+      "value": "Carlson Rezidor Hotel Group",
+      "synonyms": [
+        "Carlson Rezidor Hotel Group"
+      ]
+    },
+    {
+      "value": "Casa Monica Hotel",
+      "synonyms": [
+        "Casa Monica Hotel"
+      ]
+    },
+    {
+      "value": "Center Parcs",
+      "synonyms": [
+        "Center Parcs"
+      ]
+    },
+    {
+      "value": "Cham Palaces and Hotels",
+      "synonyms": [
+        "Cham Palaces and Hotels"
+      ]
+    },
+    {
+      "value": "Chamonix France",
+      "synonyms": [
+        "Chamonix France"
+      ]
+    },
+    {
+      "value": "Champneys",
+      "synonyms": [
+        "Champneys"
+      ]
+    },
+    {
+      "value": "Chez Hotels",
+      "synonyms": [
+        "Chez Hotels"
+      ]
+    },
+    {
+      "value": "Choice Hotels",
+      "synonyms": [
+        "Choice Hotels"
+      ]
+    },
+    {
+      "value": "CitizenM",
+      "synonyms": [
+        "CitizenM"
+      ]
+    },
+    {
+      "value": "Clarion Hotels",
+      "synonyms": [
+        "Clarion Hotels"
+      ]
+    },
+    {
+      "value": "Classic Hotels \u0026 Resorts",
+      "synonyms": [
+        "Classic Hotels \u0026 Resorts"
+      ]
+    },
+    {
+      "value": "Club Mahindra Holidays",
+      "synonyms": [
+        "Club Mahindra Holidays"
+      ]
+    },
+    {
+      "value": "Cobblestone Hotels",
+      "synonyms": [
+        "Cobblestone Hotels"
+      ]
+    },
+    {
+      "value": "Compagnie Internationale des Grands Hotels",
+      "synonyms": [
+        "Compagnie Internationale des Grands Hotels"
+      ]
+    },
+    {
+      "value": "Conrad Dubai",
+      "synonyms": [
+        "Conrad Dubai"
+      ]
+    },
+    {
+      "value": "Conrad London St James",
+      "synonyms": [
+        "Conrad London St James"
+      ]
+    },
+    {
+      "value": "Corinthia Hotels International",
+      "synonyms": [
+        "Corinthia Hotels International"
+      ]
+    },
+    {
+      "value": "Cosmopolitan of Las Vegas",
+      "synonyms": [
+        "Cosmopolitan of Las Vegas"
+      ]
+    },
+    {
+      "value": "Country Inns and Suites",
+      "synonyms": [
+        "Country Inns and Suites"
+      ]
+    },
+    {
+      "value": "Couples Resorts",
+      "synonyms": [
+        "Couples Resorts"
+      ]
+    },
+    {
+      "value": "Courtyard by Marriott",
+      "synonyms": [
+        "Courtyard by Marriott"
+      ]
+    },
+    {
+      "value": "Crest Hotels",
+      "synonyms": [
+        "Crest Hotels"
+      ]
+    },
+    {
+      "value": "Cresta Hotels",
+      "synonyms": [
+        "Cresta Hotels"
+      ]
+    },
+    {
+      "value": "Cross Country Inn",
+      "synonyms": [
+        "Cross Country Inn"
+      ]
+    },
+    {
+      "value": "Curio",
+      "synonyms": [
+        "Curio"
+      ]
+    },
+    {
+      "value": "D2",
+      "synonyms": [
+        "D2",
+        "D2 Hotels"
+      ]
+    },
+    {
+      "value": "Danubius Hotels Group",
+      "synonyms": [
+        "Danubius Hotels Group"
+      ]
+    },
+    {
+      "value": "Days Inn China",
+      "synonyms": [
+        "Days Inn China"
+      ]
+    },
+    {
+      "value": "Days Inns – Canada",
+      "synonyms": [
+        "Days Inns – Canada"
+      ]
+    },
+    {
+      "value": "Dedeman Hotels",
+      "synonyms": [
+        "Dedeman Hotels"
+      ]
+    },
+    {
+      "value": "Denizen Hotels",
+      "synonyms": [
+        "Denizen Hotels"
+      ]
+    },
+    {
+      "value": "Diamond Resorts International",
+      "synonyms": [
+        "Diamond Resorts International"
+      ]
+    },
+    {
+      "value": "Diamond resorts",
+      "synonyms": [
+        "Diamond resorts"
+      ]
+    },
+    {
+      "value": "Disney Vacation Club",
+      "synonyms": [
+        "Disney Vacation Club"
+      ]
+    },
+    {
+      "value": "Divan Group",
+      "synonyms": [
+        "Divan Group"
+      ]
+    },
+    {
+      "value": "Dorchester Collection",
+      "synonyms": [
+        "Dorchester Collection"
+      ]
+    },
+    {
+      "value": "Dorsett Hospitality International",
+      "synonyms": [
+        "Dorsett Hospitality International"
+      ]
+    },
+    {
+      "value": "DoubleTree",
+      "synonyms": [
+        "DoubleTree"
+      ]
+    },
+    {
+      "value": "Draft:CGH EARTH",
+      "synonyms": [
+        "Draft:CGH EARTH"
+      ]
+    },
+    {
+      "value": "Drury Hotels",
+      "synonyms": [
+        "Drury Hotels"
+      ]
+    },
+    {
+      "value": "Dusit Thani Group",
+      "synonyms": [
+        "Dusit Thani Group"
+      ]
+    },
+    {
+      "value": "EasyHotel",
+      "synonyms": [
+        "EasyHotel"
+      ]
+    },
+    {
+      "value": "Westin",
+      "synonyms": [
+        "Element by Westin",
+        "Westin",
+        "Westin Hotel",
+        "Westin Hotels"
+      ]
+    },
+    {
+      "value": "Epoque Hotels",
+      "synonyms": [
+        "Epoque Hotels"
+      ]
+    },
+    {
+      "value": "Eppley Hotel Company",
+      "synonyms": [
+        "Eppley Hotel Company"
+      ]
+    },
+    {
+      "value": "Esso Motor Hotel",
+      "synonyms": [
+        "Esso Motor Hotel"
+      ]
+    },
+    {
+      "value": "Etap Hotel",
+      "synonyms": [
+        "Etap Hotel"
+      ]
+    },
+    {
+      "value": "Etna Italy",
+      "synonyms": [
+        "Etna Italy"
+      ]
+    },
+    {
+      "value": "Eurostars Hotels",
+      "synonyms": [
+        "Eurostars Hotels"
+      ]
+    },
+    {
+      "value": "Even Hotels",
+      "synonyms": [
+        "Even Hotels"
+      ]
+    },
+    {
+      "value": "Evia Greece",
+      "synonyms": [
+        "Evia Greece"
+      ]
+    },
+    {
+      "value": "Exel Inn",
+      "synonyms": [
+        "Exel Inn"
+      ]
+    },
+    {
+      "value": "Express Lancaster Ohio",
+      "synonyms": [
+        "Express Lancaster Ohio"
+      ]
+    },
+    {
+      "value": "FIH Regent Group",
+      "synonyms": [
+        "FIH Regent Group"
+      ]
+    },
+    {
+      "value": "FRHI Hotels and Resorts",
+      "synonyms": [
+        "FRHI Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Fairfield Inn",
+      "synonyms": [
+        "Fairfield Inn"
+      ]
+    },
+    {
+      "value": "Family Mart",
+      "synonyms": [
+        "Family Mart"
+      ]
+    },
+    {
+      "value": "FamilyMart",
+      "synonyms": [
+        "FamilyMart"
+      ]
+    },
+    {
+      "value": "Faro Portugal",
+      "synonyms": [
+        "Faro Portugal"
+      ]
+    },
+    {
+      "value": "Federal Group",
+      "synonyms": [
+        "Federal Group"
+      ]
+    },
+    {
+      "value": "Fiesta Inn",
+      "synonyms": [
+        "Fiesta Inn"
+      ]
+    },
+    {
+      "value": "Fiesta hotels",
+      "synonyms": [
+        "Fiesta hotels"
+      ]
+    },
+    {
+      "value": "Flatotel Hotel",
+      "synonyms": [
+        "Flatotel Hotel"
+      ]
+    },
+    {
+      "value": "Fontainebleau Resorts",
+      "synonyms": [
+        "Fontainebleau Resorts"
+      ]
+    },
+    {
+      "value": "Forte Group",
+      "synonyms": [
+        "Forte Group"
+      ]
+    },
+    {
+      "value": "Four Seasons Hotels and Resorts",
+      "synonyms": [
+        "Four Seasons Hotels and Resorts",
+        "Four Seasons Hotel",
+        "Four Seasons Hotels"
+      ]
+    },
+    {
+      "value": "Fred Harvey Company",
+      "synonyms": [
+        "Fred Harvey Company"
+      ]
+    },
+    {
+      "value": "Fuerte Hotels",
+      "synonyms": [
+        "Fuerte Hotels"
+      ]
+    },
+    {
+      "value": "Ginger Hotels",
+      "synonyms": [
+        "Ginger Hotels"
+      ]
+    },
+    {
+      "value": "Glacier Park Company",
+      "synonyms": [
+        "Glacier Park Company"
+      ]
+    },
+    {
+      "value": "Go Hotels",
+      "synonyms": [
+        "Go Hotels"
+      ]
+    },
+    {
+      "value": "Grace Bay Resorts",
+      "synonyms": [
+        "Grace Bay Resorts"
+      ]
+    },
+    {
+      "value": "Gran Dorado",
+      "synonyms": [
+        "Gran Dorado"
+      ]
+    },
+    {
+      "value": "Grange Hotels",
+      "synonyms": [
+        "Grange Hotels"
+      ]
+    },
+    {
+      "value": "GreenTree Inns",
+      "synonyms": [
+        "GreenTree Inns"
+      ]
+    },
+    {
+      "value": "Groupe Lucien Barrière",
+      "synonyms": [
+        "Groupe Lucien Barrière"
+      ]
+    },
+    {
+      "value": "Groupe du Louvre",
+      "synonyms": [
+        "Groupe du Louvre"
+      ]
+    },
+    {
+      "value": "Grupo Habita",
+      "synonyms": [
+        "Grupo Habita"
+      ]
+    },
+    {
+      "value": "Grupo Posadas",
+      "synonyms": [
+        "Grupo Posadas"
+      ]
+    },
+    {
+      "value": "Guilin China",
+      "synonyms": [
+        "Guilin China"
+      ]
+    },
+    {
+      "value": "H10 Hotels",
+      "synonyms": [
+        "H10 Hotels"
+      ]
+    },
+    {
+      "value": "Hampton Inn",
+      "synonyms": [
+        "Hampton Inn"
+      ]
+    },
+    {
+      "value": "Hampton Inn and Suits",
+      "synonyms": [
+        "Hampton Inn and Suits"
+      ]
+    },
+    {
+      "value": "Hampton by Hilton",
+      "synonyms": [
+        "Hampton by Hilton"
+      ]
+    },
+    {
+      "value": "Harbour Plaza Hotel Management",
+      "synonyms": [
+        "Harbour Plaza Hotel Management"
+      ]
+    },
+    {
+      "value": "Harbour Plaza Hotels and Resorts",
+      "synonyms": [
+        "Harbour Plaza Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Hard Rock Hotel and Casino",
+      "synonyms": [
+        "Hard Rock Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Hard Rock Hotels",
+      "synonyms": [
+        "Hard Rock Hotels"
+      ]
+    },
+    {
+      "value": "Harrah\u0027s",
+      "synonyms": [
+        "Harrah\u0027s",
+        "Harrah\u0027s Hotel",
+        "Harrah\u0027s Hotels"
+      ]
+    },
+    {
+      "value": "Hilton",
+      "synonyms": [
+        "Hilton"
+      ]
+    },
+    {
+      "value": "Hilton Grand Vacations Company",
+      "synonyms": [
+        "Hilton Grand Vacations Company"
+      ]
+    },
+    {
+      "value": "Hilton Hotels",
+      "synonyms": [
+        "Hilton Hotels"
+      ]
+    },
+    {
+      "value": "Hilton Hotels and Resorts",
+      "synonyms": [
+        "Hilton Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Hilton Worldwide",
+      "synonyms": [
+        "Hilton Worldwide"
+      ]
+    },
+    {
+      "value": "HiltonHilton HotelsHilton Garden Inn",
+      "synonyms": [
+        "HiltonHilton HotelsHilton Garden Inn"
+      ]
+    },
+    {
+      "value": "Hiway House",
+      "synonyms": [
+        "Hiway House"
+      ]
+    },
+    {
+      "value": "Hokkaido Japan",
+      "synonyms": [
+        "Hokkaido Japan"
+      ]
+    },
+    {
+      "value": "Holiday Inn Express",
+      "synonyms": [
+        "Holiday Inn Express"
+      ]
+    },
+    {
+      "value": "Holland America Line",
+      "synonyms": [
+        "Holland America Line"
+      ]
+    },
+    {
+      "value": "Home Inns",
+      "synonyms": [
+        "Home Inns"
+      ]
+    },
+    {
+      "value": "Home2 Suites by Hilton",
+      "synonyms": [
+        "Home2 Suites by Hilton"
+      ]
+    },
+    {
+      "value": "Hongkong and Shanghai Hotels",
+      "synonyms": [
+        "Hongkong and Shanghai Hotels"
+      ]
+    },
+    {
+      "value": "Horne s",
+      "synonyms": [
+        "Horne s"
+      ]
+    },
+    {
+      "value": "Hoshino Resorts",
+      "synonyms": [
+        "Hoshino Resorts"
+      ]
+    },
+    {
+      "value": "Hospitality International",
+      "synonyms": [
+        "Hospitality International"
+      ]
+    },
+    {
+      "value": "Hotel Blackhawk",
+      "synonyms": [
+        "Hotel Blackhawk"
+      ]
+    },
+    {
+      "value": "Hotel Formule 1",
+      "synonyms": [
+        "Hotel Formule 1"
+      ]
+    },
+    {
+      "value": "Hotel Grand Chancellor",
+      "synonyms": [
+        "Hotel Grand Chancellor"
+      ]
+    },
+    {
+      "value": "Hotel Icon",
+      "synonyms": [
+        "Hotel Icon"
+      ]
+    },
+    {
+      "value": "Hotel RL",
+      "synonyms": [
+        "Hotel RL"
+      ]
+    },
+    {
+      "value": "Hotel Shilla",
+      "synonyms": [
+        "Hotel Shilla"
+      ]
+    },
+    {
+      "value": "Houmt Souk Tunisia",
+      "synonyms": [
+        "Houmt Souk Tunisia"
+      ]
+    },
+    {
+      "value": "Hyatt",
+      "synonyms": [
+        "Hyatt",
+        "Hyatt Hotels",
+        "Hyatt Regency",
+        "Hyatt Hotel",
+        "Park Hyatt"
+      ]
+    },
+    {
+      "value": "Hyatt Hotels Corporation",
+      "synonyms": [
+        "Hyatt Hotels Corporation"
+      ]
+    },
+    {
+      "value": "Hyatt HotelsHyatt Place",
+      "synonyms": [
+        "Hyatt HotelsHyatt Place"
+      ]
+    },
+    {
+      "value": "Hyatt Place",
+      "synonyms": [
+        "Hyatt Place"
+      ]
+    },
+    {
+      "value": "IHG Army Hotels",
+      "synonyms": [
+        "IHG Army Hotels"
+      ]
+    },
+    {
+      "value": "ITC Hotels",
+      "synonyms": [
+        "ITC Hotels"
+      ]
+    },
+    {
+      "value": "Iberostar Hotels and Resorts",
+      "synonyms": [
+        "Iberostar Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Ibis Budget",
+      "synonyms": [
+        "Ibis Budget"
+      ]
+    },
+    {
+      "value": "Ikos Resorts",
+      "synonyms": [
+        "Ikos Resorts"
+      ]
+    },
+    {
+      "value": "Imperial 400",
+      "synonyms": [
+        "Imperial 400"
+      ]
+    },
+    {
+      "value": "Imperial Hotels Group",
+      "synonyms": [
+        "Imperial Hotels Group"
+      ]
+    },
+    {
+      "value": "InTown Suites",
+      "synonyms": [
+        "InTown Suites"
+      ]
+    },
+    {
+      "value": "InterContinental Hotels",
+      "synonyms": [
+        "InterContinental Hotels"
+      ]
+    },
+    {
+      "value": "InterContinental Hotels Group",
+      "synonyms": [
+        "InterContinental Hotels Group"
+      ]
+    },
+    {
+      "value": "Interhotel",
+      "synonyms": [
+        "Interhotel"
+      ]
+    },
+    {
+      "value": "Interval International",
+      "synonyms": [
+        "Interval International"
+      ]
+    },
+    {
+      "value": "Isrotel",
+      "synonyms": [
+        "Isrotel"
+      ]
+    },
+    {
+      "value": "Ixtapa Mexico",
+      "synonyms": [
+        "Ixtapa Mexico"
+      ]
+    },
+    {
+      "value": "Izmir Turkey",
+      "synonyms": [
+        "Izmir Turkey"
+      ]
+    },
+    {
+      "value": "JJW Hotels and Resorts",
+      "synonyms": [
+        "JJW Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "JK Place",
+      "synonyms": [
+        "JK Place"
+      ]
+    },
+    {
+      "value": "Jack Tar Hotels",
+      "synonyms": [
+        "Jack Tar Hotels"
+      ]
+    },
+    {
+      "value": "Jetwing Hotels",
+      "synonyms": [
+        "Jetwing Hotels"
+      ]
+    },
+    {
+      "value": "Jinjiang International",
+      "synonyms": [
+        "Jinjiang International",
+        "Jin Jiang International"
+      ]
+    },
+    {
+      "value": "Jumeirah",
+      "synonyms": [
+        "Jumeirah"
+      ]
+    },
+    {
+      "value": "Jurys Inn",
+      "synonyms": [
+        "Jurys Inn"
+      ]
+    },
+    {
+      "value": "Kani Maldives",
+      "synonyms": [
+        "Kani Maldives"
+      ]
+    },
+    {
+      "value": "Kempinski",
+      "synonyms": [
+        "Kempinski"
+      ]
+    },
+    {
+      "value": "Kimpton Hotels",
+      "synonyms": [
+        "Kimpton Hotels"
+      ]
+    },
+    {
+      "value": "Kimpton Hotels and Restaurants",
+      "synonyms": [
+        "Kimpton Hotels and Restaurants"
+      ]
+    },
+    {
+      "value": "La Copa Inns",
+      "synonyms": [
+        "La Copa Inns"
+      ]
+    },
+    {
+      "value": "La Quinta Inns",
+      "synonyms": [
+        "La Quinta Inns"
+      ]
+    },
+    {
+      "value": "La Quinta Inns \u0026 Suites",
+      "synonyms": [
+        "La Quinta Inns \u0026 Suites",
+        "La Quinta Inns and Suites"
+      ]
+    },
+    {
+      "value": "Langham Hotels International",
+      "synonyms": [
+        "Langham Hotels International"
+      ]
+    },
+    {
+      "value": "Lark Hotels",
+      "synonyms": [
+        "Lark Hotels"
+      ]
+    },
+    {
+      "value": "Le Méridien",
+      "synonyms": [
+        "Le Méridien"
+      ]
+    },
+    {
+      "value": "Leading Hotels of the World",
+      "synonyms": [
+        "Leading Hotels of the World"
+      ]
+    },
+    {
+      "value": "Lebua Hotels and Resorts",
+      "synonyms": [
+        "Lebua Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Lemon Tree Hotels",
+      "synonyms": [
+        "Lemon Tree Hotels"
+      ]
+    },
+    {
+      "value": "Les Deux Alpes France",
+      "synonyms": [
+        "Les Deux Alpes France"
+      ]
+    },
+    {
+      "value": "Limoges France",
+      "synonyms": [
+        "Limoges France"
+      ]
+    },
+    {
+      "value": "Loews Hotels",
+      "synonyms": [
+        "Loews Hotels"
+      ]
+    },
+    {
+      "value": "Lotte Hotels \u0026 Resorts",
+      "synonyms": [
+        "Lotte Hotels \u0026 Resorts"
+      ]
+    },
+    {
+      "value": "Lotte Hotels and Resorts",
+      "synonyms": [
+        "Lotte Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "ME by Meliá",
+      "synonyms": [
+        "ME by Meliá"
+      ]
+    },
+    {
+      "value": "MKG Group",
+      "synonyms": [
+        "MKG Group"
+      ]
+    },
+    {
+      "value": "Macdonald Hotels",
+      "synonyms": [
+        "Macdonald Hotels"
+      ]
+    },
+    {
+      "value": "Magnuson Hotels",
+      "synonyms": [
+        "Magnuson Hotels"
+      ]
+    },
+    {
+      "value": "Mainstay Suites",
+      "synonyms": [
+        "Mainstay Suites"
+      ]
+    },
+    {
+      "value": "Mamaison",
+      "synonyms": [
+        "Mamaison"
+      ]
+    },
+    {
+      "value": "Mandarin Oriental",
+      "synonyms": [
+        "Mandarin Oriental"
+      ]
+    },
+    {
+      "value": "Mandarin Oriental Hotel Group",
+      "synonyms": [
+        "Mandarin Oriental Hotel Group"
+      ]
+    },
+    {
+      "value": "Marco Polo Hotels",
+      "synonyms": [
+        "Marco Polo Hotels"
+      ]
+    },
+    {
+      "value": "Marriott Hotels and Resorts",
+      "synonyms": [
+        "Mariott Hotels and Resorts",
+        "Marкiott Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Marrakech Morocco",
+      "synonyms": [
+        "Marrakech Morocco"
+      ]
+    },
+    {
+      "value": "Marriott",
+      "synonyms": [
+        "Marriott",
+        "Mariott",
+        "JW Marriott"
+      ]
+    },
+    {
+      "value": "Marriott International",
+      "synonyms": [
+        "Marriott International"
+      ]
+    },
+    {
+      "value": "Marriott Vacation Club",
+      "synonyms": [
+        "Marriott Vacation Club"
+      ]
+    },
+    {
+      "value": "Marriott Vacation Club International",
+      "synonyms": [
+        "Marriott Vacation Club International"
+      ]
+    },
+    {
+      "value": "Marriott Vacations Worldwide Corporation",
+      "synonyms": [
+        "Marriott Vacations Worldwide Corporation"
+      ]
+    },
+    {
+      "value": "Masters Inn",
+      "synonyms": [
+        "Masters Inn"
+      ]
+    },
+    {
+      "value": "Meikles",
+      "synonyms": [
+        "Meikles"
+      ]
+    },
+    {
+      "value": "Meliá Hotels International",
+      "synonyms": [
+        "Meliá Hotels International"
+      ]
+    },
+    {
+      "value": "Mercure Hotels",
+      "synonyms": [
+        "Mercure Hotels"
+      ]
+    },
+    {
+      "value": "Meribel France",
+      "synonyms": [
+        "Meribel France"
+      ]
+    },
+    {
+      "value": "Mielparque",
+      "synonyms": [
+        "Mielparque"
+      ]
+    },
+    {
+      "value": "Millennium Hotels",
+      "synonyms": [
+        "Millennium Hotels"
+      ]
+    },
+    {
+      "value": "Minor Hotels",
+      "synonyms": [
+        "Minor Hotels"
+      ]
+    },
+    {
+      "value": "Miramar Hotel and Investment",
+      "synonyms": [
+        "Miramar Hotel and Investment"
+      ]
+    },
+    {
+      "value": "Mondrian Hotel",
+      "synonyms": [
+        "Mondrian Hotel"
+      ]
+    },
+    {
+      "value": "Moody Gardens Hotel",
+      "synonyms": [
+        "Moody Gardens Hotel"
+      ]
+    },
+    {
+      "value": "Moody Gardens Hotel Resort",
+      "synonyms": [
+        "Moody Gardens Hotel Resort",
+        "Moody Gardens Hotel and Resort"
+      ]
+    },
+    {
+      "value": "Moody Gardens Hotel Spa",
+      "synonyms": [
+        "Moody Gardens Hotel Spa"
+      ]
+    },
+    {
+      "value": "Morzine France",
+      "synonyms": [
+        "Morzine France"
+      ]
+    },
+    {
+      "value": "Motel 6",
+      "synonyms": [
+        "Motel 6"
+      ]
+    },
+    {
+      "value": "Motel 8",
+      "synonyms": [
+        "Motel 8"
+      ]
+    },
+    {
+      "value": "Mâcot la Plagne France",
+      "synonyms": [
+        "Mâcot la Plagne France"
+      ]
+    },
+    {
+      "value": "Mövenpick Hotels Resorts",
+      "synonyms": [
+        "Mövenpick Hotels Resorts"
+      ]
+    },
+    {
+      "value": "Mövenpick Hotels and Resorts",
+      "synonyms": [
+        "Mövenpick Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "NH Hotel Group",
+      "synonyms": [
+        "NH Hotel Group"
+      ]
+    },
+    {
+      "value": "Neemrana Hotels",
+      "synonyms": [
+        "Neemrana Hotels"
+      ]
+    },
+    {
+      "value": "New Otani Hotels",
+      "synonyms": [
+        "New Otani Hotels"
+      ]
+    },
+    {
+      "value": "Nickelodeon Resorts by Marriott",
+      "synonyms": [
+        "Nickelodeon Resorts by Marriott"
+      ]
+    },
+    {
+      "value": "Nikko Hotels",
+      "synonyms": [
+        "Nikko Hotels"
+      ]
+    },
+    {
+      "value": "Nordic Choice Hotels",
+      "synonyms": [
+        "Nordic Choice Hotels"
+      ]
+    },
+    {
+      "value": "Norsk Spisevognselskap",
+      "synonyms": [
+        "Norsk Spisevognselskap"
+      ]
+    },
+    {
+      "value": "North Male Atoll Maldives",
+      "synonyms": [
+        "North Male Atoll Maldives"
+      ]
+    },
+    {
+      "value": "Nylo Hotels",
+      "synonyms": [
+        "Nylo Hotels"
+      ]
+    },
+    {
+      "value": "Núñez i Navarro Hotels",
+      "synonyms": [
+        "Núñez i Navarro Hotels"
+      ]
+    },
+    {
+      "value": "Oberoi Hotels",
+      "synonyms": [
+        "Oberoi Hotels"
+      ]
+    },
+    {
+      "value": "Oberoi Hotels and Resorts",
+      "synonyms": [
+        "Oberoi Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Okinawa Japan",
+      "synonyms": [
+        "Okinawa Japan"
+      ]
+    },
+    {
+      "value": "Okura Hotels",
+      "synonyms": [
+        "Okura Hotels"
+      ]
+    },
+    {
+      "value": "Okura Nikko Hotel Management",
+      "synonyms": [
+        "Okura Nikko Hotel Management"
+      ]
+    },
+    {
+      "value": "Omenahotelli",
+      "synonyms": [
+        "Omenahotelli"
+      ]
+    },
+    {
+      "value": "Omni Hotels",
+      "synonyms": [
+        "Omni Hotels"
+      ]
+    },
+    {
+      "value": "Omni Hotels \u0026 Resorts",
+      "synonyms": [
+        "Omni Hotels \u0026 Resorts"
+      ]
+    },
+    {
+      "value": "Omni Hotels and Resorts",
+      "synonyms": [
+        "Omni Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Outrigger Hotels Resorts",
+      "synonyms": [
+        "Outrigger Hotels Resorts"
+      ]
+    },
+    {
+      "value": "Pahang Malaysia",
+      "synonyms": [
+        "Pahang Malaysia"
+      ]
+    },
+    {
+      "value": "Pan Pacific Hotels and Resorts",
+      "synonyms": [
+        "Pan Pacific Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Parliament House Motor Inn",
+      "synonyms": [
+        "Parliament House Motor Inn"
+      ]
+    },
+    {
+      "value": "Patio Hotels",
+      "synonyms": [
+        "Patio Hotels"
+      ]
+    },
+    {
+      "value": "Pearl Continental Hotels",
+      "synonyms": [
+        "Pearl Continental Hotels"
+      ]
+    },
+    {
+      "value": "Peisey Nancroix France",
+      "synonyms": [
+        "Peisey Nancroix France"
+      ]
+    },
+    {
+      "value": "Peninsula Hotels",
+      "synonyms": [
+        "Peninsula Hotels"
+      ]
+    },
+    {
+      "value": "Pestana Hotels and Resorts",
+      "synonyms": [
+        "Pestana Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Phoenix Inn Suites",
+      "synonyms": [
+        "Phoenix Inn Suites"
+      ]
+    },
+    {
+      "value": "Phuket Thailand",
+      "synonyms": [
+        "Phuket Thailand"
+      ]
+    },
+    {
+      "value": "Pizzo Calabro Italy",
+      "synonyms": [
+        "Pizzo Calabro Italy"
+      ]
+    },
+    {
+      "value": "Plaza",
+      "synonyms": [
+        "Plaza"
+      ]
+    },
+    {
+      "value": "Port Louis Mauritius",
+      "synonyms": [
+        "Port Louis Mauritius"
+      ]
+    },
+    {
+      "value": "Port Saint Lucie Florida",
+      "synonyms": [
+        "Port Saint Lucie Florida"
+      ]
+    },
+    {
+      "value": "Poseidon resorts",
+      "synonyms": [
+        "Poseidon resorts"
+      ]
+    },
+    {
+      "value": "Powerscourt Estate",
+      "synonyms": [
+        "Powerscourt Estate"
+      ]
+    },
+    {
+      "value": "Pragelato Italy",
+      "synonyms": [
+        "Pragelato Italy"
+      ]
+    },
+    {
+      "value": "Premier Inn",
+      "synonyms": [
+        "Premier Inn"
+      ]
+    },
+    {
+      "value": "Premier Travel Inn",
+      "synonyms": [
+        "Premier Travel Inn"
+      ]
+    },
+    {
+      "value": "Princess Hotels Resorts",
+      "synonyms": [
+        "Princess Hotels Resorts"
+      ]
+    },
+    {
+      "value": "Princess Hotels and Resorts",
+      "synonyms": [
+        "Princess Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Princess Hotels n Resorts",
+      "synonyms": [
+        "Princess Hotels n Resorts"
+      ]
+    },
+    {
+      "value": "Princess Plaza",
+      "synonyms": [
+        "Princess Plaza"
+      ]
+    },
+    {
+      "value": "Princess Hotel",
+      "synonyms": [
+        "Princess Hotel"
+      ]
+    },
+    {
+      "value": "Princess hotelPrincess hotels",
+      "synonyms": [
+        "Princess hotelPrincess hotels"
+      ]
+    },
+    {
+      "value": "Princess inn",
+      "synonyms": [
+        "Princess inn"
+      ]
+    },
+    {
+      "value": "Princess innPrincess inns",
+      "synonyms": [
+        "Princess innPrincess inns"
+      ]
+    },
+    {
+      "value": "Punta Cana Dominican Republic",
+      "synonyms": [
+        "Punta Cana Dominican Republic"
+      ]
+    },
+    {
+      "value": "RCI",
+      "synonyms": [
+        "RCI"
+      ]
+    },
+    {
+      "value": "RIU Hotels",
+      "synonyms": [
+        "RIU Hotels"
+      ]
+    },
+    {
+      "value": "Radisson",
+      "synonyms": [
+        "Radisson"
+      ]
+    },
+    {
+      "value": "Radisson Blu",
+      "synonyms": [
+        "Radisson Blu"
+      ]
+    },
+    {
+      "value": "Raffles International",
+      "synonyms": [
+        "Raffles International"
+      ]
+    },
+    {
+      "value": "Ramada",
+      "synonyms": [
+        "Ramada"
+      ]
+    },
+    {
+      "value": "Ramada International",
+      "synonyms": [
+        "Ramada International"
+      ]
+    },
+    {
+      "value": "Ramada Jarvis",
+      "synonyms": [
+        "Ramada Jarvis"
+      ]
+    },
+    {
+      "value": "Red Roof Inn",
+      "synonyms": [
+        "Red Roof Inn"
+      ]
+    },
+    {
+      "value": "Relais Chateaux",
+      "synonyms": [
+        "Relais Chateaux"
+      ]
+    },
+    {
+      "value": "Residence Inn by Marriott",
+      "synonyms": [
+        "Residence Inn by Marriott"
+      ]
+    },
+    {
+      "value": "Resort Maldives",
+      "synonyms": [
+        "Resort Maldives"
+      ]
+    },
+    {
+      "value": "Rio de Janeiro Brazil",
+      "synonyms": [
+        "Rio de Janeiro Brazil"
+      ]
+    },
+    {
+      "value": "Ritz-Carlton",
+      "synonyms": [
+        "Ritz-Carlton",
+        "Ritz Hotel",
+        "Ritz",
+        "Ritz Hotels"
+      ]
+    },
+    {
+      "value": "Ritz-Carlton Luxury Hotels",
+      "synonyms": [
+        "Ritz-Carlton Luxury Hotels"
+      ]
+    },
+    {
+      "value": "Rockresorts",
+      "synonyms": [
+        "Rockresorts"
+      ]
+    },
+    {
+      "value": "Rodeway Inn",
+      "synonyms": [
+        "Rodeway Inn"
+      ]
+    },
+    {
+      "value": "Rosewood Hotel Group",
+      "synonyms": [
+        "Rosewood Hotel Group"
+      ]
+    },
+    {
+      "value": "Royal Holiday Club",
+      "synonyms": [
+        "Royal Holiday Club"
+      ]
+    },
+    {
+      "value": "Royal Princess Hotels",
+      "synonyms": [
+        "Royal Princess Hotels"
+      ]
+    },
+    {
+      "value": "Royen France",
+      "synonyms": [
+        "Royen France"
+      ]
+    },
+    {
+      "value": "Saint Anne Guadeloupe",
+      "synonyms": [
+        "Saint Anne Guadeloupe"
+      ]
+    },
+    {
+      "value": "Saint Anne Martinique",
+      "synonyms": [
+        "Saint Anne Martinique"
+      ]
+    },
+    {
+      "value": "Salvador de Bahia Brazil",
+      "synonyms": [
+        "Salvador de Bahia Brazil"
+      ]
+    },
+    {
+      "value": "San Salvador Bahamas",
+      "synonyms": [
+        "San Salvador Bahamas"
+      ]
+    },
+    {
+      "value": "Sandman Hotels",
+      "synonyms": [
+        "Sandman Hotels"
+      ]
+    },
+    {
+      "value": "Scandic Hotels",
+      "synonyms": [
+        "Scandic Hotels"
+      ]
+    },
+    {
+      "value": "Scrub Island",
+      "synonyms": [
+        "Scrub Island"
+      ]
+    },
+    {
+      "value": "Serena Hotel",
+      "synonyms": [
+        "Serena Hotel"
+      ]
+    },
+    {
+      "value": "Serre Chevalier",
+      "synonyms": [
+        "Serre Chevalier"
+      ]
+    },
+    {
+      "value": "Shangri-La Hotels and Resorts",
+      "synonyms": [
+        "Shangri-La Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "ShangriLa Hotels and Resorts",
+      "synonyms": [
+        "ShangriLa Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Sheraton",
+      "synonyms": [
+        "Sheraton"
+      ]
+    },
+    {
+      "value": "Sheraton Hotels and Resorts",
+      "synonyms": [
+        "Sheraton Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "Shilo Inns",
+      "synonyms": [
+        "Shilo Inns"
+      ]
+    },
+    {
+      "value": "Shoney s",
+      "synonyms": [
+        "Shoney s"
+      ]
+    },
+    {
+      "value": "Siegel Suites",
+      "synonyms": [
+        "Siegel Suites"
+      ]
+    },
+    {
+      "value": "Signature Inn",
+      "synonyms": [
+        "Signature Inn"
+      ]
+    },
+    {
+      "value": "Sofitel",
+      "synonyms": [
+        "Sofitel"
+      ]
+    },
+    {
+      "value": "St Moritz Switzerland",
+      "synonyms": [
+        "St Moritz Switzerland"
+      ]
+    },
+    {
+      "value": "Stakis Hotels",
+      "synonyms": [
+        "Stakis Hotels"
+      ]
+    },
+    {
+      "value": "Starwood Hotels",
+      "synonyms": [
+        "Starwood Hotels"
+      ]
+    },
+    {
+      "value": "Starwood Hotels and Resorts Worldwide",
+      "synonyms": [
+        "Starwood Hotels and Resorts Worldwide"
+      ]
+    },
+    {
+      "value": "Statler Hotels",
+      "synonyms": [
+        "Statler Hotels"
+      ]
+    },
+    {
+      "value": "Staybridge Suites",
+      "synonyms": [
+        "Staybridge Suites"
+      ]
+    },
+    {
+      "value": "Super 8 Hotels",
+      "synonyms": [
+        "Super 8 Hotels"
+      ]
+    },
+    {
+      "value": "Super 8 Motels",
+      "synonyms": [
+        "Super 8 Motels"
+      ]
+    },
+    {
+      "value": "Susse Chalet",
+      "synonyms": [
+        "Susse Chalet"
+      ]
+    },
+    {
+      "value": "Sutton Place Hotel",
+      "synonyms": [
+        "Sutton Place Hotel"
+      ]
+    },
+    {
+      "value": "Taba Egypt",
+      "synonyms": [
+        "Taba Egypt"
+      ]
+    },
+    {
+      "value": "Tage Inn",
+      "synonyms": [
+        "Tage Inn"
+      ]
+    },
+    {
+      "value": "Taj Hotels Resorts and Palaces",
+      "synonyms": [
+        "Taj Hotels Resorts and Palaces"
+      ]
+    },
+    {
+      "value": "The Ascott Limited",
+      "synonyms": [
+        "The Ascott Limited"
+      ]
+    },
+    {
+      "value": "The Davenport Hotel",
+      "synonyms": [
+        "The Davenport Hotel"
+      ]
+    },
+    {
+      "value": "The Davenport Hotel Collection",
+      "synonyms": [
+        "The Davenport Hotel Collection"
+      ]
+    },
+    {
+      "value": "The Doyle Collection",
+      "synonyms": [
+        "The Doyle Collection"
+      ]
+    },
+    {
+      "value": "The Eton Collection",
+      "synonyms": [
+        "The Eton Collection"
+      ]
+    },
+    {
+      "value": "The Impala Group of Hotels",
+      "synonyms": [
+        "The Impala Group of Hotels"
+      ]
+    },
+    {
+      "value": "The LaLiT Hotels Palaces and Resorts",
+      "synonyms": [
+        "The LaLiT Hotels Palaces and Resorts"
+      ]
+    },
+    {
+      "value": "The Leela Palaces Hotels and Resorts",
+      "synonyms": [
+        "The Leela Palaces Hotels and Resorts"
+      ]
+    },
+    {
+      "value": "The Lexington Hotel NYC",
+      "synonyms": [
+        "The Lexington Hotel NYC"
+      ]
+    },
+    {
+      "value": "The Luxury Collection",
+      "synonyms": [
+        "The Luxury Collection"
+      ]
+    },
+    {
+      "value": "The Oberoi Group",
+      "synonyms": [
+        "The Oberoi Group"
+      ]
+    },
+    {
+      "value": "The Real Hotel Company",
+      "synonyms": [
+        "The Real Hotel Company"
+      ]
+    },
+    {
+      "value": "Thistle Hotels",
+      "synonyms": [
+        "Thistle Hotels"
+      ]
+    },
+    {
+      "value": "Threadneedles Hotel",
+      "synonyms": [
+        "Threadneedles Hotel"
+      ]
+    },
+    {
+      "value": "Tignes France",
+      "synonyms": [
+        "Tignes France"
+      ]
+    },
+    {
+      "value": "Tower Hotel",
+      "synonyms": [
+        "Tower Hotel"
+      ]
+    },
+    {
+      "value": "TownePlace Suites",
+      "synonyms": [
+        "TownePlace Suites"
+      ]
+    },
+    {
+      "value": "Toyoko Inn",
+      "synonyms": [
+        "Toyoko Inn"
+      ]
+    },
+    {
+      "value": "Trading Places International",
+      "synonyms": [
+        "Trading Places International"
+      ]
+    },
+    {
+      "value": "Trancoso Brazil",
+      "synonyms": [
+        "Trancoso Brazil"
+      ]
+    },
+    {
+      "value": "Travelodge",
+      "synonyms": [
+        "Travelodge"
+      ]
+    },
+    {
+      "value": "Trusthouse Forte",
+      "synonyms": [
+        "Trusthouse Forte"
+      ]
+    },
+    {
+      "value": "Trump Hotel",
+      "synonyms": [
+        "Trump Hotel",
+        "Trump Hotels"
+      ]
+    },
+    {
+      "value": "Tune Hotels",
+      "synonyms": [
+        "Tune Hotels"
+      ]
+    },
+    {
+      "value": "Turks and Caicos",
+      "synonyms": [
+        "Turks and Caicos"
+      ]
+    },
+    {
+      "value": "Turnberry Isle Miami",
+      "synonyms": [
+        "Turnberry Isle Miami"
+      ]
+    },
+    {
+      "value": "Union Station",
+      "synonyms": [
+        "Union Station"
+      ]
+    },
+    {
+      "value": "United Hotels Company of America",
+      "synonyms": [
+        "United Hotels Company of America"
+      ]
+    },
+    {
+      "value": "Val Thorens France",
+      "synonyms": [
+        "Val Thorens France"
+      ]
+    },
+    {
+      "value": "Val d Isère France",
+      "synonyms": [
+        "Val d Isère France"
+      ]
+    },
+    {
+      "value": "Valmorel France",
+      "synonyms": [
+        "Valmorel France"
+      ]
+    },
+    {
+      "value": "Value Place",
+      "synonyms": [
+        "Value Place"
+      ]
+    },
+    {
+      "value": "Van Noy Railway News and Hotel Company",
+      "synonyms": [
+        "Van Noy Railway News and Hotel Company"
+      ]
+    },
+    {
+      "value": "Vantage Hospitality",
+      "synonyms": [
+        "Vantage Hospitality"
+      ]
+    },
+    {
+      "value": "Vida Vacations",
+      "synonyms": [
+        "Vida Vacations"
+      ]
+    },
+    {
+      "value": "Villars sur Ollon Switzerland",
+      "synonyms": [
+        "Villars sur Ollon Switzerland"
+      ]
+    },
+    {
+      "value": "Vittel France",
+      "synonyms": [
+        "Vittel France"
+      ]
+    },
+    {
+      "value": "W hotel",
+      "synonyms": [
+        "W hotel"
+      ]
+    },
+    {
+      "value": "Waldorf-Astoria",
+      "synonyms": [
+        "Waldorf-Astoria"
+      ]
+    },
+    {
+      "value": "Waldorf-Astoria Collection",
+      "synonyms": [
+        "Waldorf-Astoria Collection"
+      ]
+    },
+    {
+      "value": "Wengen Switzerland",
+      "synonyms": [
+        "Wengen Switzerland"
+      ]
+    },
+    {
+      "value": "Westgate Resorts",
+      "synonyms": [
+        "Westgate Resorts"
+      ]
+    },
+    {
+      "value": "Whitbread plc",
+      "synonyms": [
+        "Whitbread plc"
+      ]
+    },
+    {
+      "value": "WorldMark by Wyndham",
+      "synonyms": [
+        "WorldMark by Wyndham"
+      ]
+    },
+    {
+      "value": "Wyndham Hotels \u0026 Resorts",
+      "synonyms": [
+        "Wyndham Hotels \u0026 Resorts",
+        "Wyndham Hotels Resorts",
+        "Wyndham Hotels and Resorts",
+        "Wyndham Hotels n Resorts",
+        "Wyndham",
+        "Wyndham Resorts"
+      ]
+    },
+    {
+      "value": "Wyndham Vacation Resorts Asia Pacific",
+      "synonyms": [
+        "Wyndham Vacation Resorts Asia Pacific"
+      ]
+    },
+    {
+      "value": "Wyndham Worldwide",
+      "synonyms": [
+        "Wyndham Worldwide"
+      ]
+    },
+    {
+      "value": "Wyndham Garden",
+      "synonyms": [
+        "Wyndham Garden",
+        "Wyndham Garden Hotels"
+      ]
+    },
+    {
+      "value": "Yabuli China",
+      "synonyms": [
+        "Yabuli China"
+      ]
+    },
+    {
+      "value": "Yasmina Morocco",
+      "synonyms": [
+        "Yasmina Morocco"
+      ]
+    },
+    {
+      "value": "Zhuhai China",
+      "synonyms": [
+        "Zhuhai China"
+      ]
+    },
+    {
+      "value": "Ziguinchor Senegal",
+      "synonyms": [
+        "Ziguinchor Senegal"
+      ]
+    },
+    {
+      "value": "Île Maurice Mauritius",
+      "synonyms": [
+        "Île Maurice Mauritius"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}
