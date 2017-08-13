@@ -1,0 +1,211 @@
+{
+  "userSays": [
+    {
+      "id": "77d1dca9-df0b-4663-89c1-f42e34ef1db3",
+      "data": [
+        {
+          "text": "leaving for "
+        },
+        {
+          "text": "New York",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f6129eac-0d7e-4faf-ab39-c573f52ce797",
+      "data": [
+        {
+          "text": "leaving to "
+        },
+        {
+          "text": "Kuba",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a9c18484-9d1b-43d6-851a-4caeb1d9432d",
+      "data": [
+        {
+          "text": "heading to "
+        },
+        {
+          "text": "Tokyo",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e049917-6a5d-4bd7-92ad-5ea9a4634ec0",
+      "data": [
+        {
+          "text": "new destination is "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "26676cba-d6e5-4e33-a082-e43cb48850c4",
+      "data": [
+        {
+          "text": "to "
+        },
+        {
+          "text": "Denver",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc9cad08-df02-4c5c-85fc-f718f2da7396",
+      "data": [
+        {
+          "text": "destination is "
+        },
+        {
+          "text": "San Francisco",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79d70c67-5ebb-4d7c-9961-0cf012a5ac87",
+      "data": [
+        {
+          "text": "what about "
+        },
+        {
+          "text": "the one",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Chicago",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "575b829e-2e0e-472b-85dc-7171dcc630da",
+      "data": [
+        {
+          "text": "how about "
+        },
+        {
+          "text": "the one",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "Berlin",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4e5c535-400d-46e0-ad04-7729191d5463",
+      "data": [
+        {
+          "text": "change destination to "
+        },
+        {
+          "text": "Paris",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "cb23fd20-5b79-4105-98a6-63c62db8881d",
+      "data": [
+        {
+          "text": "now to "
+        },
+        {
+          "text": "Honolulu",
+          "alias": "to",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "453d7f5d-2631-4b85-b74e-4c333978f2a3",
+  "name": "flight.check - context:check-flight - comment:to",
+  "auto": true,
+  "contexts": [
+    "check-flight"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.location",
+          "name": "to",
+          "value": "$to"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
