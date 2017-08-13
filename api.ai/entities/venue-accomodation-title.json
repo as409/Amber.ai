@@ -1,0 +1,7821 @@
+{
+  "id": "79e603af-25ff-415f-bcb8-81a1ee04391c",
+  "name": "venue-accomodation-title",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "1717 Broadway",
+      "synonyms": [
+        "1717 Broadway"
+      ]
+    },
+    {
+      "value": "21c Museum Hotel",
+      "synonyms": [
+        "21c Museum Hotel"
+      ]
+    },
+    {
+      "value": "300 East Pratt Street",
+      "synonyms": [
+        "300 East Pratt Street"
+      ]
+    },
+    {
+      "value": "350 West Mart Center",
+      "synonyms": [
+        "350 West Mart Center"
+      ]
+    },
+    {
+      "value": "41 Hotel",
+      "synonyms": [
+        "41 Hotel"
+      ]
+    },
+    {
+      "value": "45 Park Lane",
+      "synonyms": [
+        "45 Park Lane"
+      ]
+    },
+    {
+      "value": "51 Buckingham Gate",
+      "synonyms": [
+        "51 Buckingham Gate"
+      ]
+    },
+    {
+      "value": "6 Times Square",
+      "synonyms": [
+        "6 Times Square"
+      ]
+    },
+    {
+      "value": "6th Avenue Hotel-Windsor Hotel",
+      "synonyms": [
+        "6th Avenue Hotel-Windsor Hotel"
+      ]
+    },
+    {
+      "value": "ACH Casino Resort",
+      "synonyms": [
+        "ACH Casino Resort"
+      ]
+    },
+    {
+      "value": "Ace Hotel",
+      "synonyms": [
+        "Ace Hotel"
+      ]
+    },
+    {
+      "value": "Adams-Ryan House",
+      "synonyms": [
+        "Adams-Ryan House"
+      ]
+    },
+    {
+      "value": "Adirondack Hotel",
+      "synonyms": [
+        "Adirondack Hotel"
+      ]
+    },
+    {
+      "value": "Adirondak Loj",
+      "synonyms": [
+        "Adirondak Loj"
+      ]
+    },
+    {
+      "value": "Adler Hotel",
+      "synonyms": [
+        "Adler Hotel"
+      ]
+    },
+    {
+      "value": "Admiral Fitzroy Inn",
+      "synonyms": [
+        "Admiral Fitzroy Inn"
+      ]
+    },
+    {
+      "value": "Adoba Hotel Dearborn Detroit",
+      "synonyms": [
+        "Adoba Hotel Dearborn Detroit"
+      ]
+    },
+    {
+      "value": "Adolphus Hotel",
+      "synonyms": [
+        "Adolphus Hotel"
+      ]
+    },
+    {
+      "value": "Affinia Hotels",
+      "synonyms": [
+        "Affinia Hotels"
+      ]
+    },
+    {
+      "value": "Ahwahnee Hotel",
+      "synonyms": [
+        "Ahwahnee Hotel"
+      ]
+    },
+    {
+      "value": "Ala Moana Hotel",
+      "synonyms": [
+        "Ala Moana Hotel"
+      ]
+    },
+    {
+      "value": "Aladdin Hotel \u0026 Casino",
+      "synonyms": [
+        "Aladdin Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Alaska Building",
+      "synonyms": [
+        "Alaska Building"
+      ]
+    },
+    {
+      "value": "Albert Pike Residence Hotel",
+      "synonyms": [
+        "Albert Pike Residence Hotel"
+      ]
+    },
+    {
+      "value": "Alden Houston",
+      "synonyms": [
+        "Alden Houston"
+      ]
+    },
+    {
+      "value": "Alexander Young Building",
+      "synonyms": [
+        "Alexander Young Building"
+      ]
+    },
+    {
+      "value": "Algonquin Hotel",
+      "synonyms": [
+        "Algonquin Hotel"
+      ]
+    },
+    {
+      "value": "Aliante Station",
+      "synonyms": [
+        "Aliante Station"
+      ]
+    },
+    {
+      "value": "Allen Hotel",
+      "synonyms": [
+        "Allen Hotel"
+      ]
+    },
+    {
+      "value": "Allentown Comfort Suites",
+      "synonyms": [
+        "Allentown Comfort Suites"
+      ]
+    },
+    {
+      "value": "Allerton Hotel",
+      "synonyms": [
+        "Allerton Hotel"
+      ]
+    },
+    {
+      "value": "Allerton Hotel for Women",
+      "synonyms": [
+        "Allerton Hotel for Women"
+      ]
+    },
+    {
+      "value": "Aloft Washington National Harbor",
+      "synonyms": [
+        "Aloft Washington National Harbor"
+      ]
+    },
+    {
+      "value": "Altamont Hotel",
+      "synonyms": [
+        "Altamont Hotel"
+      ]
+    },
+    {
+      "value": "Ambassador Hotel",
+      "synonyms": [
+        "Ambassador Hotel"
+      ]
+    },
+    {
+      "value": "American Hotel",
+      "synonyms": [
+        "American Hotel"
+      ]
+    },
+    {
+      "value": "Americus Hotel",
+      "synonyms": [
+        "Americus Hotel"
+      ]
+    },
+    {
+      "value": "Ameristar Casino Kansas City",
+      "synonyms": [
+        "Ameristar Casino Kansas City"
+      ]
+    },
+    {
+      "value": "Amway Grand Plaza Hotel",
+      "synonyms": [
+        "Amway Grand Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Andaluz Hotel",
+      "synonyms": [
+        "Andaluz Hotel"
+      ]
+    },
+    {
+      "value": "Andaz Liverpool Street London Hotel",
+      "synonyms": [
+        "Andaz Liverpool Street London Hotel"
+      ]
+    },
+    {
+      "value": "Andrew Johnson Building",
+      "synonyms": [
+        "Andrew Johnson Building"
+      ]
+    },
+    {
+      "value": "Angels Hotel",
+      "synonyms": [
+        "Angels Hotel"
+      ]
+    },
+    {
+      "value": "Ansorge Hotel",
+      "synonyms": [
+        "Ansorge Hotel"
+      ]
+    },
+    {
+      "value": "Anthony House",
+      "synonyms": [
+        "Anthony House"
+      ]
+    },
+    {
+      "value": "Antlers Hilton Hotel",
+      "synonyms": [
+        "Antlers Hilton Hotel"
+      ]
+    },
+    {
+      "value": "Apple Farm Inn",
+      "synonyms": [
+        "Apple Farm Inn"
+      ]
+    },
+    {
+      "value": "Apple Valley Inn",
+      "synonyms": [
+        "Apple Valley Inn"
+      ]
+    },
+    {
+      "value": "Aqua",
+      "synonyms": [
+        "Aqua"
+      ]
+    },
+    {
+      "value": "Aquila Court Building",
+      "synonyms": [
+        "Aquila Court Building"
+      ]
+    },
+    {
+      "value": "Arcade Hotel",
+      "synonyms": [
+        "Arcade Hotel"
+      ]
+    },
+    {
+      "value": "Arctic Building",
+      "synonyms": [
+        "Arctic Building"
+      ]
+    },
+    {
+      "value": "Aria Resort \u0026 Casino",
+      "synonyms": [
+        "Aria Resort \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Arizona Biltmore Hotel",
+      "synonyms": [
+        "Arizona Biltmore Hotel"
+      ]
+    },
+    {
+      "value": "Arizona Charlie\u0027s Boulder",
+      "synonyms": [
+        "Arizona Charlie\u0027s Boulder"
+      ]
+    },
+    {
+      "value": "Arizona Charlie\u0027s Decatur",
+      "synonyms": [
+        "Arizona Charlie\u0027s Decatur"
+      ]
+    },
+    {
+      "value": "Arlington Hotel",
+      "synonyms": [
+        "Arlington Hotel"
+      ]
+    },
+    {
+      "value": "Arminius Hotel",
+      "synonyms": [
+        "Arminius Hotel"
+      ]
+    },
+    {
+      "value": "Arthur Tavern",
+      "synonyms": [
+        "Arthur Tavern"
+      ]
+    },
+    {
+      "value": "Ashland Springs Hotel",
+      "synonyms": [
+        "Ashland Springs Hotel"
+      ]
+    },
+    {
+      "value": "Astor House",
+      "synonyms": [
+        "Astor House"
+      ]
+    },
+    {
+      "value": "Astor on the Lake",
+      "synonyms": [
+        "Astor on the Lake"
+      ]
+    },
+    {
+      "value": "Atheneum Suite Hotel Detroit",
+      "synonyms": [
+        "Atheneum Suite Hotel Detroit"
+      ]
+    },
+    {
+      "value": "Atlanta Biltmore Hotel and Biltmore Apartments",
+      "synonyms": [
+        "Atlanta Biltmore Hotel and Biltmore Apartments"
+      ]
+    },
+    {
+      "value": "Atlanta Marriott Marquis",
+      "synonyms": [
+        "Atlanta Marriott Marquis"
+      ]
+    },
+    {
+      "value": "Atlantic Hotel",
+      "synonyms": [
+        "Atlantic Hotel"
+      ]
+    },
+    {
+      "value": "Atlantis Casino Resort",
+      "synonyms": [
+        "Atlantis Casino Resort"
+      ]
+    },
+    {
+      "value": "Aulani",
+      "synonyms": [
+        "Aulani"
+      ]
+    },
+    {
+      "value": "Aurora Hotel",
+      "synonyms": [
+        "Aurora Hotel"
+      ]
+    },
+    {
+      "value": "Aurora Inn",
+      "synonyms": [
+        "Aurora Inn"
+      ]
+    },
+    {
+      "value": "Avalon Music",
+      "synonyms": [
+        "Avalon Music"
+      ]
+    },
+    {
+      "value": "Avon Inn",
+      "synonyms": [
+        "Avon Inn"
+      ]
+    },
+    {
+      "value": "Aztec Auto Court",
+      "synonyms": [
+        "Aztec Auto Court"
+      ]
+    },
+    {
+      "value": "Aztec Hotel",
+      "synonyms": [
+        "Aztec Hotel"
+      ]
+    },
+    {
+      "value": "Bacon Hotel",
+      "synonyms": [
+        "Bacon Hotel"
+      ]
+    },
+    {
+      "value": "Bagg\u0027s Hotel",
+      "synonyms": [
+        "Bagg\u0027s Hotel"
+      ]
+    },
+    {
+      "value": "Baglioni Hotel",
+      "synonyms": [
+        "Baglioni Hotel"
+      ]
+    },
+    {
+      "value": "Balboa Bay Club \u0026 Resort",
+      "synonyms": [
+        "Balboa Bay Club \u0026 Resort"
+      ]
+    },
+    {
+      "value": "Balboa Inn",
+      "synonyms": [
+        "Balboa Inn"
+      ]
+    },
+    {
+      "value": "Balch Hotel",
+      "synonyms": [
+        "Balch Hotel"
+      ]
+    },
+    {
+      "value": "Bally\u0027s Atlantic City",
+      "synonyms": [
+        "Bally\u0027s Atlantic City"
+      ]
+    },
+    {
+      "value": "Bally\u0027s Casino Tunica",
+      "synonyms": [
+        "Bally\u0027s Casino Tunica"
+      ]
+    },
+    {
+      "value": "Bally\u0027s Las Vegas",
+      "synonyms": [
+        "Bally\u0027s Las Vegas"
+      ]
+    },
+    {
+      "value": "Baltimore Marriott Waterfront Hotel",
+      "synonyms": [
+        "Baltimore Marriott Waterfront Hotel"
+      ]
+    },
+    {
+      "value": "Bancroft Hotel",
+      "synonyms": [
+        "Bancroft Hotel"
+      ]
+    },
+    {
+      "value": "Barbizon 63",
+      "synonyms": [
+        "Barbizon 63"
+      ]
+    },
+    {
+      "value": "Barnum Hotel",
+      "synonyms": [
+        "Barnum Hotel"
+      ]
+    },
+    {
+      "value": "Barnum\u0027s City Hotel",
+      "synonyms": [
+        "Barnum\u0027s City Hotel"
+      ]
+    },
+    {
+      "value": "Barr Hotel",
+      "synonyms": [
+        "Barr Hotel"
+      ]
+    },
+    {
+      "value": "Basin Harbor Club",
+      "synonyms": [
+        "Basin Harbor Club"
+      ]
+    },
+    {
+      "value": "Bateman Hotel",
+      "synonyms": [
+        "Bateman Hotel"
+      ]
+    },
+    {
+      "value": "Battery Park Hotel",
+      "synonyms": [
+        "Battery Park Hotel"
+      ]
+    },
+    {
+      "value": "Bay Lake Tower",
+      "synonyms": [
+        "Bay Lake Tower"
+      ]
+    },
+    {
+      "value": "Bear Mountain Inn",
+      "synonyms": [
+        "Bear Mountain Inn"
+      ]
+    },
+    {
+      "value": "Beau Rivage",
+      "synonyms": [
+        "Beau Rivage"
+      ]
+    },
+    {
+      "value": "Beaumont Hotel",
+      "synonyms": [
+        "Beaumont Hotel"
+      ]
+    },
+    {
+      "value": "Beaverkill Valley Inn",
+      "synonyms": [
+        "Beaverkill Valley Inn"
+      ]
+    },
+    {
+      "value": "Bedford Springs Hotel",
+      "synonyms": [
+        "Bedford Springs Hotel"
+      ]
+    },
+    {
+      "value": "Bellagio",
+      "synonyms": [
+        "Bellagio"
+      ]
+    },
+    {
+      "value": "Belleview-Biltmore Hotel",
+      "synonyms": [
+        "Belleview-Biltmore Hotel"
+      ]
+    },
+    {
+      "value": "Belmont Hotel",
+      "synonyms": [
+        "Belmont Hotel"
+      ]
+    },
+    {
+      "value": "Belvedere Hotel",
+      "synonyms": [
+        "Belvedere Hotel"
+      ]
+    },
+    {
+      "value": "Belvidere Café Motel",
+      "synonyms": [
+        "Belvidere Café Motel"
+      ]
+    },
+    {
+      "value": "Bengoechea Hotel",
+      "synonyms": [
+        "Bengoechea Hotel"
+      ]
+    },
+    {
+      "value": "Benson Hotel",
+      "synonyms": [
+        "Benson Hotel"
+      ]
+    },
+    {
+      "value": "Berwick Hotel",
+      "synonyms": [
+        "Berwick Hotel"
+      ]
+    },
+    {
+      "value": "Best Western Lake Buena Vista Resort Hotel",
+      "synonyms": [
+        "Best Western Lake Buena Vista Resort Hotel"
+      ]
+    },
+    {
+      "value": "Bethel Inn Resort",
+      "synonyms": [
+        "Bethel Inn Resort"
+      ]
+    },
+    {
+      "value": "Beverly Wilshire Hotel",
+      "synonyms": [
+        "Beverly Wilshire Hotel"
+      ]
+    },
+    {
+      "value": "Big Bear Frontier",
+      "synonyms": [
+        "Big Bear Frontier"
+      ]
+    },
+    {
+      "value": "Big Sky Resort",
+      "synonyms": [
+        "Big Sky Resort"
+      ]
+    },
+    {
+      "value": "Bigelow-Ben Lomond Hotel",
+      "synonyms": [
+        "Bigelow-Ben Lomond Hotel"
+      ]
+    },
+    {
+      "value": "Bijou Theatre",
+      "synonyms": [
+        "Bijou Theatre"
+      ]
+    },
+    {
+      "value": "Bill\u0027s Gamblin\u0027 Hall and Saloon",
+      "synonyms": [
+        "Bill\u0027s Gamblin\u0027 Hall and Saloon"
+      ]
+    },
+    {
+      "value": "Biltmore Hotel",
+      "synonyms": [
+        "Biltmore Hotel"
+      ]
+    },
+    {
+      "value": "Binion\u0027s Gambling Hall and Hotel",
+      "synonyms": [
+        "Binion\u0027s Gambling Hall and Hotel"
+      ]
+    },
+    {
+      "value": "Binion\u0027s Horseshoe",
+      "synonyms": [
+        "Binion\u0027s Horseshoe"
+      ]
+    },
+    {
+      "value": "Black Hawk Hotel",
+      "synonyms": [
+        "Black Hawk Hotel"
+      ]
+    },
+    {
+      "value": "Blackstone Hotel",
+      "synonyms": [
+        "Blackstone Hotel"
+      ]
+    },
+    {
+      "value": "Blakes Hotel",
+      "synonyms": [
+        "Blakes Hotel"
+      ]
+    },
+    {
+      "value": "Bleckley Inn",
+      "synonyms": [
+        "Bleckley Inn"
+      ]
+    },
+    {
+      "value": "Blennerhassett Hotel",
+      "synonyms": [
+        "Blennerhassett Hotel"
+      ]
+    },
+    {
+      "value": "Blue Chip Casino",
+      "synonyms": [
+        "Blue Chip Casino"
+      ]
+    },
+    {
+      "value": "Blue Mountain House Annex",
+      "synonyms": [
+        "Blue Mountain House Annex"
+      ]
+    },
+    {
+      "value": "Boardwalk Hotel and Casino",
+      "synonyms": [
+        "Boardwalk Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Boca Raton Resort",
+      "synonyms": [
+        "Boca Raton Resort"
+      ]
+    },
+    {
+      "value": "Boomtown Reno",
+      "synonyms": [
+        "Boomtown Reno"
+      ]
+    },
+    {
+      "value": "Boone Tavern",
+      "synonyms": [
+        "Boone Tavern"
+      ]
+    },
+    {
+      "value": "Border Inn",
+      "synonyms": [
+        "Border Inn"
+      ]
+    },
+    {
+      "value": "Boston Harbor Hotel",
+      "synonyms": [
+        "Boston Harbor Hotel"
+      ]
+    },
+    {
+      "value": "Boston Hotel Buckminster",
+      "synonyms": [
+        "Boston Hotel Buckminster"
+      ]
+    },
+    {
+      "value": "Boston Park Plaza Hotel \u0026 Towers",
+      "synonyms": [
+        "Boston Park Plaza Hotel \u0026 Towers"
+      ]
+    },
+    {
+      "value": "Boulder Dam Hotel",
+      "synonyms": [
+        "Boulder Dam Hotel"
+      ]
+    },
+    {
+      "value": "Boulder Station",
+      "synonyms": [
+        "Boulder Station"
+      ]
+    },
+    {
+      "value": "Bourbon Street Hotel and Casino",
+      "synonyms": [
+        "Bourbon Street Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Bowman Hotel",
+      "synonyms": [
+        "Bowman Hotel"
+      ]
+    },
+    {
+      "value": "Braddock Hotel",
+      "synonyms": [
+        "Braddock Hotel"
+      ]
+    },
+    {
+      "value": "Bradford Hotel",
+      "synonyms": [
+        "Bradford Hotel"
+      ]
+    },
+    {
+      "value": "Brick Tavern House",
+      "synonyms": [
+        "Brick Tavern House"
+      ]
+    },
+    {
+      "value": "Brick Tavern Stand",
+      "synonyms": [
+        "Brick Tavern Stand"
+      ]
+    },
+    {
+      "value": "Broadway Hotel",
+      "synonyms": [
+        "Broadway Hotel"
+      ]
+    },
+    {
+      "value": "Brooklandville House",
+      "synonyms": [
+        "Brooklandville House"
+      ]
+    },
+    {
+      "value": "Brookside Museum",
+      "synonyms": [
+        "Brookside Museum"
+      ]
+    },
+    {
+      "value": "Brookwood Inn",
+      "synonyms": [
+        "Brookwood Inn"
+      ]
+    },
+    {
+      "value": "Brown Hotel",
+      "synonyms": [
+        "Brown Hotel"
+      ]
+    },
+    {
+      "value": "Brown Palace Hotel",
+      "synonyms": [
+        "Brown Palace Hotel"
+      ]
+    },
+    {
+      "value": "Brown\u0027s Hotel",
+      "synonyms": [
+        "Brown\u0027s Hotel"
+      ]
+    },
+    {
+      "value": "Bryce Canyon Lodge",
+      "synonyms": [
+        "Bryce Canyon Lodge"
+      ]
+    },
+    {
+      "value": "Bryce Inn",
+      "synonyms": [
+        "Bryce Inn"
+      ]
+    },
+    {
+      "value": "Buchanan Hotel",
+      "synonyms": [
+        "Buchanan Hotel"
+      ]
+    },
+    {
+      "value": "Buckingham Hotel",
+      "synonyms": [
+        "Buckingham Hotel"
+      ]
+    },
+    {
+      "value": "Buena Vista Hotel",
+      "synonyms": [
+        "Buena Vista Hotel"
+      ]
+    },
+    {
+      "value": "Buena Vista Palace Resort \u0026 Spa",
+      "synonyms": [
+        "Buena Vista Palace Resort \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Buffalo City Tower",
+      "synonyms": [
+        "Buffalo City Tower"
+      ]
+    },
+    {
+      "value": "Burntside Lodge",
+      "synonyms": [
+        "Burntside Lodge"
+      ]
+    },
+    {
+      "value": "Burtis-Kimball House Hotel/Burtis Opera House",
+      "synonyms": [
+        "Burtis-Kimball House Hotel/Burtis Opera House"
+      ]
+    },
+    {
+      "value": "Burton House",
+      "synonyms": [
+        "Burton House"
+      ]
+    },
+    {
+      "value": "Bush House Hotel",
+      "synonyms": [
+        "Bush House Hotel"
+      ]
+    },
+    {
+      "value": "Butler Hotel",
+      "synonyms": [
+        "Butler Hotel"
+      ]
+    },
+    {
+      "value": "C. Burton Hotel",
+      "synonyms": [
+        "C. Burton Hotel"
+      ]
+    },
+    {
+      "value": "Cadillac Hotel",
+      "synonyms": [
+        "Cadillac Hotel"
+      ]
+    },
+    {
+      "value": "Caesars Atlantic City",
+      "synonyms": [
+        "Caesars Atlantic City"
+      ]
+    },
+    {
+      "value": "Caesars Palace",
+      "synonyms": [
+        "Caesars Palace"
+      ]
+    },
+    {
+      "value": "Cal Neva Lodge \u0026 Casino",
+      "synonyms": [
+        "Cal Neva Lodge \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Caledonia House Hotel",
+      "synonyms": [
+        "Caledonia House Hotel"
+      ]
+    },
+    {
+      "value": "California Hotel and Casino",
+      "synonyms": [
+        "California Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Callaghan Apartments",
+      "synonyms": [
+        "Callaghan Apartments"
+      ]
+    },
+    {
+      "value": "Calumet Hotel",
+      "synonyms": [
+        "Calumet Hotel"
+      ]
+    },
+    {
+      "value": "Cambria Casino",
+      "synonyms": [
+        "Cambria Casino"
+      ]
+    },
+    {
+      "value": "Camelback Inn",
+      "synonyms": [
+        "Camelback Inn"
+      ]
+    },
+    {
+      "value": "Camlin Hotel",
+      "synonyms": [
+        "Camlin Hotel"
+      ]
+    },
+    {
+      "value": "Camp Whelen",
+      "synonyms": [
+        "Camp Whelen"
+      ]
+    },
+    {
+      "value": "Campbell Hotel",
+      "synonyms": [
+        "Campbell Hotel"
+      ]
+    },
+    {
+      "value": "Cannery Casino and Hotel",
+      "synonyms": [
+        "Cannery Casino and Hotel"
+      ]
+    },
+    {
+      "value": "Cannon Building",
+      "synonyms": [
+        "Cannon Building"
+      ]
+    },
+    {
+      "value": "Canterbury Hotel",
+      "synonyms": [
+        "Canterbury Hotel"
+      ]
+    },
+    {
+      "value": "Canyon Hotel",
+      "synonyms": [
+        "Canyon Hotel"
+      ]
+    },
+    {
+      "value": "Capital Hilton",
+      "synonyms": [
+        "Capital Hilton"
+      ]
+    },
+    {
+      "value": "Capital Hotel",
+      "synonyms": [
+        "Capital Hotel"
+      ]
+    },
+    {
+      "value": "Capital at Brickell",
+      "synonyms": [
+        "Capital at Brickell"
+      ]
+    },
+    {
+      "value": "Capon Springs Resort",
+      "synonyms": [
+        "Capon Springs Resort"
+      ]
+    },
+    {
+      "value": "Captain Whidbey Inn",
+      "synonyms": [
+        "Captain Whidbey Inn"
+      ]
+    },
+    {
+      "value": "Carbide \u0026 Carbon Building",
+      "synonyms": [
+        "Carbide \u0026 Carbon Building"
+      ]
+    },
+    {
+      "value": "Carew Tower",
+      "synonyms": [
+        "Carew Tower"
+      ]
+    },
+    {
+      "value": "Caribbean Motel",
+      "synonyms": [
+        "Caribbean Motel"
+      ]
+    },
+    {
+      "value": "Carling Hotel",
+      "synonyms": [
+        "Carling Hotel"
+      ]
+    },
+    {
+      "value": "Carlton Hotel",
+      "synonyms": [
+        "Carlton Hotel"
+      ]
+    },
+    {
+      "value": "Carlton Tower Hotel",
+      "synonyms": [
+        "Carlton Tower Hotel"
+      ]
+    },
+    {
+      "value": "Carlyle Hotel",
+      "synonyms": [
+        "Carlyle Hotel"
+      ]
+    },
+    {
+      "value": "Carolina Inn",
+      "synonyms": [
+        "Carolina Inn"
+      ]
+    },
+    {
+      "value": "Carter House Inn",
+      "synonyms": [
+        "Carter House Inn"
+      ]
+    },
+    {
+      "value": "Casa Marina Hotel",
+      "synonyms": [
+        "Casa Marina Hotel"
+      ]
+    },
+    {
+      "value": "Casa Monica Hotel",
+      "synonyms": [
+        "Casa Monica Hotel"
+      ]
+    },
+    {
+      "value": "Casa del Desierto",
+      "synonyms": [
+        "Casa del Desierto"
+      ]
+    },
+    {
+      "value": "Casa del Mar hotel",
+      "synonyms": [
+        "Casa del Mar hotel"
+      ]
+    },
+    {
+      "value": "CasaBlanca Resort",
+      "synonyms": [
+        "CasaBlanca Resort"
+      ]
+    },
+    {
+      "value": "Casino Royale Hotel \u0026 Casino",
+      "synonyms": [
+        "Casino Royale Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Cassa Hotel \u0026 Residences",
+      "synonyms": [
+        "Cassa Hotel \u0026 Residences"
+      ]
+    },
+    {
+      "value": "Castaways hotel and casino",
+      "synonyms": [
+        "Castaways hotel and casino"
+      ]
+    },
+    {
+      "value": "Castle Post",
+      "synonyms": [
+        "Castle Post"
+      ]
+    },
+    {
+      "value": "Catskill Mountain House",
+      "synonyms": [
+        "Catskill Mountain House"
+      ]
+    },
+    {
+      "value": "Cecil Hotel",
+      "synonyms": [
+        "Cecil Hotel"
+      ]
+    },
+    {
+      "value": "Central Hotel",
+      "synonyms": [
+        "Central Hotel"
+      ]
+    },
+    {
+      "value": "Central House",
+      "synonyms": [
+        "Central House"
+      ]
+    },
+    {
+      "value": "Chalet Suzanne",
+      "synonyms": [
+        "Chalet Suzanne"
+      ]
+    },
+    {
+      "value": "Charles Street Jail",
+      "synonyms": [
+        "Charles Street Jail"
+      ]
+    },
+    {
+      "value": "Charlotte Street Hotel",
+      "synonyms": [
+        "Charlotte Street Hotel"
+      ]
+    },
+    {
+      "value": "Chase Mills Inn",
+      "synonyms": [
+        "Chase Mills Inn"
+      ]
+    },
+    {
+      "value": "Chase Park Plaza",
+      "synonyms": [
+        "Chase Park Plaza"
+      ]
+    },
+    {
+      "value": "Chateau Avalon",
+      "synonyms": [
+        "Chateau Avalon"
+      ]
+    },
+    {
+      "value": "Chateau Bourbon",
+      "synonyms": [
+        "Chateau Bourbon"
+      ]
+    },
+    {
+      "value": "Chesterfield Inn",
+      "synonyms": [
+        "Chesterfield Inn"
+      ]
+    },
+    {
+      "value": "Chestnut Mountain",
+      "synonyms": [
+        "Chestnut Mountain"
+      ]
+    },
+    {
+      "value": "Chicago Beach Hotel",
+      "synonyms": [
+        "Chicago Beach Hotel"
+      ]
+    },
+    {
+      "value": "Chick House",
+      "synonyms": [
+        "Chick House"
+      ]
+    },
+    {
+      "value": "Chilhowee Inn",
+      "synonyms": [
+        "Chilhowee Inn"
+      ]
+    },
+    {
+      "value": "Churchill Hotel",
+      "synonyms": [
+        "Churchill Hotel"
+      ]
+    },
+    {
+      "value": "Cimarron Hotel",
+      "synonyms": [
+        "Cimarron Hotel"
+      ]
+    },
+    {
+      "value": "Circus Circus Las Vegas",
+      "synonyms": [
+        "Circus Circus Las Vegas"
+      ]
+    },
+    {
+      "value": "Circus Circus Reno",
+      "synonyms": [
+        "Circus Circus Reno"
+      ]
+    },
+    {
+      "value": "CityNorth",
+      "synonyms": [
+        "CityNorth"
+      ]
+    },
+    {
+      "value": "CityScape",
+      "synonyms": [
+        "CityScape"
+      ]
+    },
+    {
+      "value": "Claremont Resort",
+      "synonyms": [
+        "Claremont Resort"
+      ]
+    },
+    {
+      "value": "Claridge Atlantic City",
+      "synonyms": [
+        "Claridge Atlantic City"
+      ]
+    },
+    {
+      "value": "Claridge\u0027s",
+      "synonyms": [
+        "Claridge\u0027s"
+      ]
+    },
+    {
+      "value": "Clarion Hotel and Casino",
+      "synonyms": [
+        "Clarion Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Clark-Dearstyne-Miller Inn",
+      "synonyms": [
+        "Clark-Dearstyne-Miller Inn"
+      ]
+    },
+    {
+      "value": "Clement Railroad Hotel Museum",
+      "synonyms": [
+        "Clement Railroad Hotel Museum"
+      ]
+    },
+    {
+      "value": "Clift",
+      "synonyms": [
+        "Clift"
+      ]
+    },
+    {
+      "value": "Clifton Park Hotel",
+      "synonyms": [
+        "Clifton Park Hotel"
+      ]
+    },
+    {
+      "value": "Clinton Hotel Miami Beach",
+      "synonyms": [
+        "Clinton Hotel Miami Beach"
+      ]
+    },
+    {
+      "value": "Clinton House",
+      "synonyms": [
+        "Clinton House"
+      ]
+    },
+    {
+      "value": "Cloyne Court Hotel",
+      "synonyms": [
+        "Cloyne Court Hotel"
+      ]
+    },
+    {
+      "value": "Club Cal Neva",
+      "synonyms": [
+        "Club Cal Neva"
+      ]
+    },
+    {
+      "value": "Club Quarters Hotel",
+      "synonyms": [
+        "Club Quarters Hotel"
+      ]
+    },
+    {
+      "value": "Clyde Hotel",
+      "synonyms": [
+        "Clyde Hotel"
+      ]
+    },
+    {
+      "value": "Cobblestone Inn",
+      "synonyms": [
+        "Cobblestone Inn"
+      ]
+    },
+    {
+      "value": "Cochise Hotel",
+      "synonyms": [
+        "Cochise Hotel"
+      ]
+    },
+    {
+      "value": "Coco Palms Resort",
+      "synonyms": [
+        "Coco Palms Resort"
+      ]
+    },
+    {
+      "value": "Colony Palms Hotel",
+      "synonyms": [
+        "Colony Palms Hotel"
+      ]
+    },
+    {
+      "value": "Columbia Gorge Hotel",
+      "synonyms": [
+        "Columbia Gorge Hotel"
+      ]
+    },
+    {
+      "value": "Columbia Hotel",
+      "synonyms": [
+        "Columbia Hotel"
+      ]
+    },
+    {
+      "value": "Commercial Hotel",
+      "synonyms": [
+        "Commercial Hotel"
+      ]
+    },
+    {
+      "value": "Commodore Hotel",
+      "synonyms": [
+        "Commodore Hotel"
+      ]
+    },
+    {
+      "value": "Concord Resort Hotel",
+      "synonyms": [
+        "Concord Resort Hotel"
+      ]
+    },
+    {
+      "value": "Congress Hall",
+      "synonyms": [
+        "Congress Hall"
+      ]
+    },
+    {
+      "value": "Conrad Indianapolis",
+      "synonyms": [
+        "Conrad Indianapolis"
+      ]
+    },
+    {
+      "value": "Continental Hotel and Casino",
+      "synonyms": [
+        "Continental Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Cooper Square Hotel",
+      "synonyms": [
+        "Cooper Square Hotel"
+      ]
+    },
+    {
+      "value": "Copley Square Hotel",
+      "synonyms": [
+        "Copley Square Hotel"
+      ]
+    },
+    {
+      "value": "Copper Beech Manor",
+      "synonyms": [
+        "Copper Beech Manor"
+      ]
+    },
+    {
+      "value": "Copper King Mansion",
+      "synonyms": [
+        "Copper King Mansion"
+      ]
+    },
+    {
+      "value": "Copper Queen Hotel",
+      "synonyms": [
+        "Copper Queen Hotel"
+      ]
+    },
+    {
+      "value": "Coral Gables Biltmore Hotel",
+      "synonyms": [
+        "Coral Gables Biltmore Hotel"
+      ]
+    },
+    {
+      "value": "Corinthia Hotel",
+      "synonyms": [
+        "Corinthia Hotel"
+      ]
+    },
+    {
+      "value": "Cornelius Hotel",
+      "synonyms": [
+        "Cornelius Hotel"
+      ]
+    },
+    {
+      "value": "Corvallis Hotel",
+      "synonyms": [
+        "Corvallis Hotel"
+      ]
+    },
+    {
+      "value": "Cosmopolitan of Las Vegas",
+      "synonyms": [
+        "Cosmopolitan of Las Vegas"
+      ]
+    },
+    {
+      "value": "Court of Flags Resort",
+      "synonyms": [
+        "Court of Flags Resort"
+      ]
+    },
+    {
+      "value": "Courthouse Hotel",
+      "synonyms": [
+        "Courthouse Hotel"
+      ]
+    },
+    {
+      "value": "Courtyard Denver Downtown",
+      "synonyms": [
+        "Courtyard Denver Downtown"
+      ]
+    },
+    {
+      "value": "Courtyard Nashville Downtown",
+      "synonyms": [
+        "Courtyard Nashville Downtown"
+      ]
+    },
+    {
+      "value": "Courtyard by Marriott – Downtown Detroit",
+      "synonyms": [
+        "Courtyard by Marriott – Downtown Detroit"
+      ]
+    },
+    {
+      "value": "Covent Garden Hotel",
+      "synonyms": [
+        "Covent Garden Hotel"
+      ]
+    },
+    {
+      "value": "Cozzens House Hotel",
+      "synonyms": [
+        "Cozzens House Hotel"
+      ]
+    },
+    {
+      "value": "Crater Lake Lodge",
+      "synonyms": [
+        "Crater Lake Lodge"
+      ]
+    },
+    {
+      "value": "Creaser Hotel",
+      "synonyms": [
+        "Creaser Hotel"
+      ]
+    },
+    {
+      "value": "Crescent Hotel",
+      "synonyms": [
+        "Crescent Hotel"
+      ]
+    },
+    {
+      "value": "Cromwell Manor",
+      "synonyms": [
+        "Cromwell Manor"
+      ]
+    },
+    {
+      "value": "Crowne Plaza Hotel",
+      "synonyms": [
+        "Crowne Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Crowne Plaza Hotel Billings",
+      "synonyms": [
+        "Crowne Plaza Hotel Billings"
+      ]
+    },
+    {
+      "value": "Crystal Hotel",
+      "synonyms": [
+        "Crystal Hotel"
+      ]
+    },
+    {
+      "value": "Culver Hotel",
+      "synonyms": [
+        "Culver Hotel"
+      ]
+    },
+    {
+      "value": "Cushing Hotel",
+      "synonyms": [
+        "Cushing Hotel"
+      ]
+    },
+    {
+      "value": "Dairy Hollow House",
+      "synonyms": [
+        "Dairy Hollow House"
+      ]
+    },
+    {
+      "value": "Dallas Hilton",
+      "synonyms": [
+        "Dallas Hilton"
+      ]
+    },
+    {
+      "value": "Daniel Boone Hotel",
+      "synonyms": [
+        "Daniel Boone Hotel"
+      ]
+    },
+    {
+      "value": "Davenport Hotel",
+      "synonyms": [
+        "Davenport Hotel"
+      ]
+    },
+    {
+      "value": "Davenport House",
+      "synonyms": [
+        "Davenport House"
+      ]
+    },
+    {
+      "value": "De Anza Hotel",
+      "synonyms": [
+        "De Anza Hotel"
+      ]
+    },
+    {
+      "value": "Deer Park Hotel",
+      "synonyms": [
+        "Deer Park Hotel"
+      ]
+    },
+    {
+      "value": "Deer Park Tavern",
+      "synonyms": [
+        "Deer Park Tavern"
+      ]
+    },
+    {
+      "value": "Deetjen\u0027s Big Sur Inn",
+      "synonyms": [
+        "Deetjen\u0027s Big Sur Inn"
+      ]
+    },
+    {
+      "value": "Delaney Hotel",
+      "synonyms": [
+        "Delaney Hotel"
+      ]
+    },
+    {
+      "value": "Delano Hotel",
+      "synonyms": [
+        "Delano Hotel"
+      ]
+    },
+    {
+      "value": "Delano Las Vegas",
+      "synonyms": [
+        "Delano Las Vegas"
+      ]
+    },
+    {
+      "value": "Denver Marriott City Center",
+      "synonyms": [
+        "Denver Marriott City Center"
+      ]
+    },
+    {
+      "value": "Des Moines Marriott Hotel",
+      "synonyms": [
+        "Des Moines Marriott Hotel"
+      ]
+    },
+    {
+      "value": "Desert Inn",
+      "synonyms": [
+        "Desert Inn"
+      ]
+    },
+    {
+      "value": "Detroit Marriott at the Renaissance Center",
+      "synonyms": [
+        "Detroit Marriott at the Renaissance Center"
+      ]
+    },
+    {
+      "value": "Dimeling Hotel",
+      "synonyms": [
+        "Dimeling Hotel"
+      ]
+    },
+    {
+      "value": "Disney\u0027s All-Star Movies Resort",
+      "synonyms": [
+        "Disney\u0027s All-Star Movies Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s All-Star Music Resort",
+      "synonyms": [
+        "Disney\u0027s All-Star Music Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s All-Star Sports Resort",
+      "synonyms": [
+        "Disney\u0027s All-Star Sports Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Animal Kingdom Lodge",
+      "synonyms": [
+        "Disney\u0027s Animal Kingdom Lodge"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Art of Animation Resort",
+      "synonyms": [
+        "Disney\u0027s Art of Animation Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Beach Club Resort",
+      "synonyms": [
+        "Disney\u0027s Beach Club Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s BoardWalk Resort",
+      "synonyms": [
+        "Disney\u0027s BoardWalk Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Caribbean Beach Resort",
+      "synonyms": [
+        "Disney\u0027s Caribbean Beach Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Contemporary Resort",
+      "synonyms": [
+        "Disney\u0027s Contemporary Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Coronado Springs Resort",
+      "synonyms": [
+        "Disney\u0027s Coronado Springs Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Grand Californian Hotel \u0026 Spa",
+      "synonyms": [
+        "Disney\u0027s Grand Californian Hotel \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Grand Floridian Resort \u0026 Spa",
+      "synonyms": [
+        "Disney\u0027s Grand Floridian Resort \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Old Key West Resort",
+      "synonyms": [
+        "Disney\u0027s Old Key West Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Paradise Pier Hotel",
+      "synonyms": [
+        "Disney\u0027s Paradise Pier Hotel"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Polynesian Resort",
+      "synonyms": [
+        "Disney\u0027s Polynesian Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Pop Century Resort",
+      "synonyms": [
+        "Disney\u0027s Pop Century Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Port Orleans Resort",
+      "synonyms": [
+        "Disney\u0027s Port Orleans Resort"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Wilderness Lodge",
+      "synonyms": [
+        "Disney\u0027s Wilderness Lodge"
+      ]
+    },
+    {
+      "value": "Disney\u0027s Yacht Club Resort",
+      "synonyms": [
+        "Disney\u0027s Yacht Club Resort"
+      ]
+    },
+    {
+      "value": "Disneyland Hotel",
+      "synonyms": [
+        "Disneyland Hotel"
+      ]
+    },
+    {
+      "value": "Dixie Walesbilt Hotel",
+      "synonyms": [
+        "Dixie Walesbilt Hotel"
+      ]
+    },
+    {
+      "value": "Doe Run Inn",
+      "synonyms": [
+        "Doe Run Inn"
+      ]
+    },
+    {
+      "value": "Dog Bark Park Inn",
+      "synonyms": [
+        "Dog Bark Park Inn"
+      ]
+    },
+    {
+      "value": "Don CeSar",
+      "synonyms": [
+        "Don CeSar"
+      ]
+    },
+    {
+      "value": "Donoho Hotel",
+      "synonyms": [
+        "Donoho Hotel"
+      ]
+    },
+    {
+      "value": "Donovan House",
+      "synonyms": [
+        "Donovan House"
+      ]
+    },
+    {
+      "value": "Doral Hotel",
+      "synonyms": [
+        "Doral Hotel"
+      ]
+    },
+    {
+      "value": "Dorchester Hotel",
+      "synonyms": [
+        "Dorchester Hotel"
+      ]
+    },
+    {
+      "value": "Dorrance Inn",
+      "synonyms": [
+        "Dorrance Inn"
+      ]
+    },
+    {
+      "value": "DoubleTree Suites by Hilton Orlando – Lake Buena Vista",
+      "synonyms": [
+        "DoubleTree Suites by Hilton Orlando – Lake Buena Vista"
+      ]
+    },
+    {
+      "value": "Doubletree Hotel Chicago Magnificent Mile",
+      "synonyms": [
+        "Doubletree Hotel Chicago Magnificent Mile"
+      ]
+    },
+    {
+      "value": "Douglas House",
+      "synonyms": [
+        "Douglas House"
+      ]
+    },
+    {
+      "value": "Dousman Hotel",
+      "synonyms": [
+        "Dousman Hotel"
+      ]
+    },
+    {
+      "value": "Dover Downs",
+      "synonyms": [
+        "Dover Downs"
+      ]
+    },
+    {
+      "value": "Drake Hotel",
+      "synonyms": [
+        "Drake Hotel"
+      ]
+    },
+    {
+      "value": "Drakesbad Guest Ranch",
+      "synonyms": [
+        "Drakesbad Guest Ranch"
+      ]
+    },
+    {
+      "value": "Draycott Hotel",
+      "synonyms": [
+        "Draycott Hotel"
+      ]
+    },
+    {
+      "value": "Drovers Inn and Round Family Residence",
+      "synonyms": [
+        "Drovers Inn and Round Family Residence"
+      ]
+    },
+    {
+      "value": "Drury Hotel",
+      "synonyms": [
+        "Drury Hotel"
+      ]
+    },
+    {
+      "value": "DuPont Building",
+      "synonyms": [
+        "DuPont Building"
+      ]
+    },
+    {
+      "value": "DuPont Plaza Hotel",
+      "synonyms": [
+        "DuPont Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Ducey\u0027s Bass Lake Lodge",
+      "synonyms": [
+        "Ducey\u0027s Bass Lake Lodge"
+      ]
+    },
+    {
+      "value": "Dunbar Hotel",
+      "synonyms": [
+        "Dunbar Hotel"
+      ]
+    },
+    {
+      "value": "Dunes",
+      "synonyms": [
+        "Dunes"
+      ]
+    },
+    {
+      "value": "Dunes Village Resort",
+      "synonyms": [
+        "Dunes Village Resort"
+      ]
+    },
+    {
+      "value": "EPIC Miami Residences and Hotel",
+      "synonyms": [
+        "EPIC Miami Residences and Hotel"
+      ]
+    },
+    {
+      "value": "Eagle Crest Resort",
+      "synonyms": [
+        "Eagle Crest Resort"
+      ]
+    },
+    {
+      "value": "Eagle Hotel",
+      "synonyms": [
+        "Eagle Hotel"
+      ]
+    },
+    {
+      "value": "East Brother Island Light",
+      "synonyms": [
+        "East Brother Island Light"
+      ]
+    },
+    {
+      "value": "Eastern Slope Inn",
+      "synonyms": [
+        "Eastern Slope Inn"
+      ]
+    },
+    {
+      "value": "Eastside Cannery Hotel and Casino",
+      "synonyms": [
+        "Eastside Cannery Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Echelon Place",
+      "synonyms": [
+        "Echelon Place"
+      ]
+    },
+    {
+      "value": "Eden Roc Renaissance Hotel Miami Beach",
+      "synonyms": [
+        "Eden Roc Renaissance Hotel Miami Beach"
+      ]
+    },
+    {
+      "value": "El Cortez",
+      "synonyms": [
+        "El Cortez"
+      ]
+    },
+    {
+      "value": "El Garces Hotel",
+      "synonyms": [
+        "El Garces Hotel"
+      ]
+    },
+    {
+      "value": "El Navajo Hotel",
+      "synonyms": [
+        "El Navajo Hotel"
+      ]
+    },
+    {
+      "value": "El Paisano Hotel",
+      "synonyms": [
+        "El Paisano Hotel"
+      ]
+    },
+    {
+      "value": "El Rancho Casino",
+      "synonyms": [
+        "El Rancho Casino"
+      ]
+    },
+    {
+      "value": "El Rancho Hotel \u0026 Motel",
+      "synonyms": [
+        "El Rancho Hotel \u0026 Motel"
+      ]
+    },
+    {
+      "value": "El Rancho Vegas",
+      "synonyms": [
+        "El Rancho Vegas"
+      ]
+    },
+    {
+      "value": "El Tovar Hotel",
+      "synonyms": [
+        "El Tovar Hotel"
+      ]
+    },
+    {
+      "value": "Eldorado Reno",
+      "synonyms": [
+        "Eldorado Reno"
+      ]
+    },
+    {
+      "value": "Elephantine Colossus",
+      "synonyms": [
+        "Elephantine Colossus"
+      ]
+    },
+    {
+      "value": "Elks-Rogers Hotel",
+      "synonyms": [
+        "Elks-Rogers Hotel"
+      ]
+    },
+    {
+      "value": "Elmhurst",
+      "synonyms": [
+        "Elmhurst"
+      ]
+    },
+    {
+      "value": "Elms Hotel",
+      "synonyms": [
+        "Elms Hotel"
+      ]
+    },
+    {
+      "value": "Elston Hall",
+      "synonyms": [
+        "Elston Hall"
+      ]
+    },
+    {
+      "value": "Elton Hotel",
+      "synonyms": [
+        "Elton Hotel"
+      ]
+    },
+    {
+      "value": "Elysian",
+      "synonyms": [
+        "Elysian"
+      ]
+    },
+    {
+      "value": "Embassy Suites",
+      "synonyms": [
+        "Embassy Suites"
+      ]
+    },
+    {
+      "value": "Enchanted Valley Chalet",
+      "synonyms": [
+        "Enchanted Valley Chalet"
+      ]
+    },
+    {
+      "value": "Encore Las Vegas",
+      "synonyms": [
+        "Encore Las Vegas"
+      ]
+    },
+    {
+      "value": "Engleside Hotel",
+      "synonyms": [
+        "Engleside Hotel"
+      ]
+    },
+    {
+      "value": "Espirito Santo Plaza",
+      "synonyms": [
+        "Espirito Santo Plaza"
+      ]
+    },
+    {
+      "value": "Esplanade Suites",
+      "synonyms": [
+        "Esplanade Suites"
+      ]
+    },
+    {
+      "value": "Eugene Hotel",
+      "synonyms": [
+        "Eugene Hotel"
+      ]
+    },
+    {
+      "value": "Eureka Inn",
+      "synonyms": [
+        "Eureka Inn"
+      ]
+    },
+    {
+      "value": "Evergreen Hotel",
+      "synonyms": [
+        "Evergreen Hotel"
+      ]
+    },
+    {
+      "value": "Excalibur Hotel and Casino",
+      "synonyms": [
+        "Excalibur Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Executive Pacific Plaza Hotel",
+      "synonyms": [
+        "Executive Pacific Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Extended Stay Hotels",
+      "synonyms": [
+        "Extended Stay Hotels"
+      ]
+    },
+    {
+      "value": "Fairmont",
+      "synonyms": [
+        "Fairmont"
+      ]
+    },
+    {
+      "value": "Fairmont Olympic Hotel",
+      "synonyms": [
+        "Fairmont Olympic Hotel"
+      ]
+    },
+    {
+      "value": "Fairmont San Francisco",
+      "synonyms": [
+        "Fairmont San Francisco"
+      ]
+    },
+    {
+      "value": "Fairmont San Jose",
+      "synonyms": [
+        "Fairmont San Jose"
+      ]
+    },
+    {
+      "value": "Fairmount Hotel",
+      "synonyms": [
+        "Fairmount Hotel"
+      ]
+    },
+    {
+      "value": "Faust Landmark",
+      "synonyms": [
+        "Faust Landmark"
+      ]
+    },
+    {
+      "value": "Fearrington Village",
+      "synonyms": [
+        "Fearrington Village"
+      ]
+    },
+    {
+      "value": "Fifth Avenue Hotel",
+      "synonyms": [
+        "Fifth Avenue Hotel"
+      ]
+    },
+    {
+      "value": "Flagg Ranch",
+      "synonyms": [
+        "Flagg Ranch"
+      ]
+    },
+    {
+      "value": "Flamingo Hotel",
+      "synonyms": [
+        "Flamingo Hotel"
+      ]
+    },
+    {
+      "value": "Flamingo Las Vegas",
+      "synonyms": [
+        "Flamingo Las Vegas"
+      ]
+    },
+    {
+      "value": "Flatiron Hotel",
+      "synonyms": [
+        "Flatiron Hotel"
+      ]
+    },
+    {
+      "value": "Fletcher Trust Building",
+      "synonyms": [
+        "Fletcher Trust Building"
+      ]
+    },
+    {
+      "value": "Florence Hotel",
+      "synonyms": [
+        "Florence Hotel"
+      ]
+    },
+    {
+      "value": "Fontainebleau Miami Beach",
+      "synonyms": [
+        "Fontainebleau Miami Beach"
+      ]
+    },
+    {
+      "value": "Fontainebleau Resort Las Vegas",
+      "synonyms": [
+        "Fontainebleau Resort Las Vegas"
+      ]
+    },
+    {
+      "value": "Forrestal Village",
+      "synonyms": [
+        "Forrestal Village"
+      ]
+    },
+    {
+      "value": "Forster Hotel",
+      "synonyms": [
+        "Forster Hotel"
+      ]
+    },
+    {
+      "value": "Fort Armstrong Hotel",
+      "synonyms": [
+        "Fort Armstrong Hotel"
+      ]
+    },
+    {
+      "value": "Fort Harrison Hotel",
+      "synonyms": [
+        "Fort Harrison Hotel"
+      ]
+    },
+    {
+      "value": "Fort Shelby Hotel",
+      "synonyms": [
+        "Fort Shelby Hotel"
+      ]
+    },
+    {
+      "value": "Foster Building",
+      "synonyms": [
+        "Foster Building"
+      ]
+    },
+    {
+      "value": "Fountain Hotel",
+      "synonyms": [
+        "Fountain Hotel"
+      ]
+    },
+    {
+      "value": "Four Queens",
+      "synonyms": [
+        "Four Queens"
+      ]
+    },
+    {
+      "value": "Fox Hills Resort",
+      "synonyms": [
+        "Fox Hills Resort"
+      ]
+    },
+    {
+      "value": "Foxwoods Resort Casino",
+      "synonyms": [
+        "Foxwoods Resort Casino"
+      ]
+    },
+    {
+      "value": "Francisco Grande",
+      "synonyms": [
+        "Francisco Grande"
+      ]
+    },
+    {
+      "value": "Franklin Hotel",
+      "synonyms": [
+        "Franklin Hotel"
+      ]
+    },
+    {
+      "value": "Fremont Hotel and Casino",
+      "synonyms": [
+        "Fremont Hotel and Casino"
+      ]
+    },
+    {
+      "value": "French Lick Resort Casino",
+      "synonyms": [
+        "French Lick Resort Casino"
+      ]
+    },
+    {
+      "value": "French Lick Springs Hotel",
+      "synonyms": [
+        "French Lick Springs Hotel"
+      ]
+    },
+    {
+      "value": "Frenchglen Hotel State Heritage Site",
+      "synonyms": [
+        "Frenchglen Hotel State Heritage Site"
+      ]
+    },
+    {
+      "value": "Fresh Pond Hotel",
+      "synonyms": [
+        "Fresh Pond Hotel"
+      ]
+    },
+    {
+      "value": "Frontier House",
+      "synonyms": [
+        "Frontier House"
+      ]
+    },
+    {
+      "value": "Fuller\u0027s Tavern",
+      "synonyms": [
+        "Fuller\u0027s Tavern"
+      ]
+    },
+    {
+      "value": "Fulton House",
+      "synonyms": [
+        "Fulton House"
+      ]
+    },
+    {
+      "value": "Gallatin Gateway Inn",
+      "synonyms": [
+        "Gallatin Gateway Inn"
+      ]
+    },
+    {
+      "value": "Gallupville House",
+      "synonyms": [
+        "Gallupville House"
+      ]
+    },
+    {
+      "value": "Galt House",
+      "synonyms": [
+        "Galt House"
+      ]
+    },
+    {
+      "value": "Gaylord National Resort \u0026 Convention Center",
+      "synonyms": [
+        "Gaylord National Resort \u0026 Convention Center"
+      ]
+    },
+    {
+      "value": "Gaylord Opryland Resort \u0026 Convention Center",
+      "synonyms": [
+        "Gaylord Opryland Resort \u0026 Convention Center"
+      ]
+    },
+    {
+      "value": "Gaylord Texan Resort Hotel \u0026 Convention Center",
+      "synonyms": [
+        "Gaylord Texan Resort Hotel \u0026 Convention Center"
+      ]
+    },
+    {
+      "value": "Geiser Grand Hotel",
+      "synonyms": [
+        "Geiser Grand Hotel"
+      ]
+    },
+    {
+      "value": "George F. Schlicher Hotel",
+      "synonyms": [
+        "George F. Schlicher Hotel"
+      ]
+    },
+    {
+      "value": "George Washington House",
+      "synonyms": [
+        "George Washington House"
+      ]
+    },
+    {
+      "value": "George Washington Inn",
+      "synonyms": [
+        "George Washington Inn"
+      ]
+    },
+    {
+      "value": "Georgian Terrace Hotel",
+      "synonyms": [
+        "Georgian Terrace Hotel"
+      ]
+    },
+    {
+      "value": "German American Heritage Center",
+      "synonyms": [
+        "German American Heritage Center"
+      ]
+    },
+    {
+      "value": "Gilbrae Inn",
+      "synonyms": [
+        "Gilbrae Inn"
+      ]
+    },
+    {
+      "value": "Gilsey Hotel",
+      "synonyms": [
+        "Gilsey Hotel"
+      ]
+    },
+    {
+      "value": "Gilsey House",
+      "synonyms": [
+        "Gilsey House"
+      ]
+    },
+    {
+      "value": "Glacier Park Company",
+      "synonyms": [
+        "Glacier Park Company"
+      ]
+    },
+    {
+      "value": "Glacier Park Lodge",
+      "synonyms": [
+        "Glacier Park Lodge"
+      ]
+    },
+    {
+      "value": "Glen Ferris Inn",
+      "synonyms": [
+        "Glen Ferris Inn"
+      ]
+    },
+    {
+      "value": "Glen Iris Inn",
+      "synonyms": [
+        "Glen Iris Inn"
+      ]
+    },
+    {
+      "value": "Glen Oak Hotel",
+      "synonyms": [
+        "Glen Oak Hotel"
+      ]
+    },
+    {
+      "value": "Glen Tavern Inn",
+      "synonyms": [
+        "Glen Tavern Inn"
+      ]
+    },
+    {
+      "value": "Glencove Hotel",
+      "synonyms": [
+        "Glencove Hotel"
+      ]
+    },
+    {
+      "value": "Glenisle",
+      "synonyms": [
+        "Glenisle"
+      ]
+    },
+    {
+      "value": "Globe Building",
+      "synonyms": [
+        "Globe Building"
+      ]
+    },
+    {
+      "value": "Glyndon Hotel",
+      "synonyms": [
+        "Glyndon Hotel"
+      ]
+    },
+    {
+      "value": "Goff Creek Lodge",
+      "synonyms": [
+        "Goff Creek Lodge"
+      ]
+    },
+    {
+      "value": "Gold Coast Hotel and Casino",
+      "synonyms": [
+        "Gold Coast Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Gold Spike Hotel and Casino",
+      "synonyms": [
+        "Gold Spike Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Gold Strike Hotel and Gambling Hall",
+      "synonyms": [
+        "Gold Strike Hotel and Gambling Hall"
+      ]
+    },
+    {
+      "value": "Gold Strike Resort and Casino",
+      "synonyms": [
+        "Gold Strike Resort and Casino"
+      ]
+    },
+    {
+      "value": "Golden Gate Hotel and Casino",
+      "synonyms": [
+        "Golden Gate Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Golden Lamb Inn",
+      "synonyms": [
+        "Golden Lamb Inn"
+      ]
+    },
+    {
+      "value": "Golden Nugget Atlantic City",
+      "synonyms": [
+        "Golden Nugget Atlantic City"
+      ]
+    },
+    {
+      "value": "Golden Nugget Las Vegas",
+      "synonyms": [
+        "Golden Nugget Las Vegas"
+      ]
+    },
+    {
+      "value": "Goldfield Hotel",
+      "synonyms": [
+        "Goldfield Hotel"
+      ]
+    },
+    {
+      "value": "Goring Hotel",
+      "synonyms": [
+        "Goring Hotel"
+      ]
+    },
+    {
+      "value": "Goulding\u0027s Trading Post",
+      "synonyms": [
+        "Goulding\u0027s Trading Post"
+      ]
+    },
+    {
+      "value": "Governor\u0027s Inn",
+      "synonyms": [
+        "Governor\u0027s Inn"
+      ]
+    },
+    {
+      "value": "Grafton Inn",
+      "synonyms": [
+        "Grafton Inn"
+      ]
+    },
+    {
+      "value": "Gramercy Park Hotel",
+      "synonyms": [
+        "Gramercy Park Hotel"
+      ]
+    },
+    {
+      "value": "Grand Canyon Lodge",
+      "synonyms": [
+        "Grand Canyon Lodge"
+      ]
+    },
+    {
+      "value": "Grand Casino Biloxi",
+      "synonyms": [
+        "Grand Casino Biloxi"
+      ]
+    },
+    {
+      "value": "Grand Casino Gulfport",
+      "synonyms": [
+        "Grand Casino Gulfport"
+      ]
+    },
+    {
+      "value": "Grand Central Hotel",
+      "synonyms": [
+        "Grand Central Hotel"
+      ]
+    },
+    {
+      "value": "Grand Harbor Resort and Waterpark",
+      "synonyms": [
+        "Grand Harbor Resort and Waterpark"
+      ]
+    },
+    {
+      "value": "Grand Hotel",
+      "synonyms": [
+        "Grand Hotel"
+      ]
+    },
+    {
+      "value": "Grand Hyatt New York",
+      "synonyms": [
+        "Grand Hyatt New York"
+      ]
+    },
+    {
+      "value": "Grand Hyatt San Antonio",
+      "synonyms": [
+        "Grand Hyatt San Antonio"
+      ]
+    },
+    {
+      "value": "Grand Hyatt San Francisco",
+      "synonyms": [
+        "Grand Hyatt San Francisco"
+      ]
+    },
+    {
+      "value": "Grand Hyatt Washington",
+      "synonyms": [
+        "Grand Hyatt Washington"
+      ]
+    },
+    {
+      "value": "Grand Lake Lodge",
+      "synonyms": [
+        "Grand Lake Lodge"
+      ]
+    },
+    {
+      "value": "Grand Pacific Hotel",
+      "synonyms": [
+        "Grand Pacific Hotel"
+      ]
+    },
+    {
+      "value": "Grand Palace Hotel",
+      "synonyms": [
+        "Grand Palace Hotel"
+      ]
+    },
+    {
+      "value": "Grand Rapids Hotel",
+      "synonyms": [
+        "Grand Rapids Hotel"
+      ]
+    },
+    {
+      "value": "Grand Sierra Resort",
+      "synonyms": [
+        "Grand Sierra Resort"
+      ]
+    },
+    {
+      "value": "Grange City Hotel",
+      "synonyms": [
+        "Grange City Hotel"
+      ]
+    },
+    {
+      "value": "Grange Holborn Hotel",
+      "synonyms": [
+        "Grange Holborn Hotel"
+      ]
+    },
+    {
+      "value": "Grange St Pauls Hotel",
+      "synonyms": [
+        "Grange St Pauls Hotel"
+      ]
+    },
+    {
+      "value": "Granite Park Chalet",
+      "synonyms": [
+        "Granite Park Chalet"
+      ]
+    },
+    {
+      "value": "Greektown Casino Hotel",
+      "synonyms": [
+        "Greektown Casino Hotel"
+      ]
+    },
+    {
+      "value": "Green Park Inn",
+      "synonyms": [
+        "Green Park Inn"
+      ]
+    },
+    {
+      "value": "Green River Hotel",
+      "synonyms": [
+        "Green River Hotel"
+      ]
+    },
+    {
+      "value": "Green Shutter Hotel",
+      "synonyms": [
+        "Green Shutter Hotel"
+      ]
+    },
+    {
+      "value": "Green Valley Ranch resort and spa",
+      "synonyms": [
+        "Green Valley Ranch resort and spa"
+      ]
+    },
+    {
+      "value": "Greene Inn",
+      "synonyms": [
+        "Greene Inn"
+      ]
+    },
+    {
+      "value": "Grossinger\u0027s Catskill Resort Hotel",
+      "synonyms": [
+        "Grossinger\u0027s Catskill Resort Hotel"
+      ]
+    },
+    {
+      "value": "Grosvenor House Hotel",
+      "synonyms": [
+        "Grosvenor House Hotel"
+      ]
+    },
+    {
+      "value": "Groton Inn",
+      "synonyms": [
+        "Groton Inn"
+      ]
+    },
+    {
+      "value": "Grove Park Inn",
+      "synonyms": [
+        "Grove Park Inn"
+      ]
+    },
+    {
+      "value": "Gunflint Lodge",
+      "synonyms": [
+        "Gunflint Lodge"
+      ]
+    },
+    {
+      "value": "Gunter Hotel",
+      "synonyms": [
+        "Gunter Hotel"
+      ]
+    },
+    {
+      "value": "Hacienda",
+      "synonyms": [
+        "Hacienda"
+      ]
+    },
+    {
+      "value": "Hacienda Hot Springs",
+      "synonyms": [
+        "Hacienda Hot Springs"
+      ]
+    },
+    {
+      "value": "Hale House-Patterson Hotel",
+      "synonyms": [
+        "Hale House-Patterson Hotel"
+      ]
+    },
+    {
+      "value": "Hale Koa Hotel",
+      "synonyms": [
+        "Hale Koa Hotel"
+      ]
+    },
+    {
+      "value": "Hale Springs Inn",
+      "synonyms": [
+        "Hale Springs Inn"
+      ]
+    },
+    {
+      "value": "Halekulani",
+      "synonyms": [
+        "Halekulani"
+      ]
+    },
+    {
+      "value": "Half Moon Hotel",
+      "synonyms": [
+        "Half Moon Hotel"
+      ]
+    },
+    {
+      "value": "Half-Way House",
+      "synonyms": [
+        "Half-Way House"
+      ]
+    },
+    {
+      "value": "Halfway House",
+      "synonyms": [
+        "Halfway House"
+      ]
+    },
+    {
+      "value": "Halkin Hotel",
+      "synonyms": [
+        "Halkin Hotel"
+      ]
+    },
+    {
+      "value": "Ham Yard Hotel",
+      "synonyms": [
+        "Ham Yard Hotel"
+      ]
+    },
+    {
+      "value": "Hampton Inn",
+      "synonyms": [
+        "Hampton Inn"
+      ]
+    },
+    {
+      "value": "Hard Rock Hotel and Casino",
+      "synonyms": [
+        "Hard Rock Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Harlow\u0027s Casino Resort",
+      "synonyms": [
+        "Harlow\u0027s Casino Resort"
+      ]
+    },
+    {
+      "value": "Harmon Hotel",
+      "synonyms": [
+        "Harmon Hotel"
+      ]
+    },
+    {
+      "value": "Harvey Cedars Hotel",
+      "synonyms": [
+        "Harvey Cedars Hotel"
+      ]
+    },
+    {
+      "value": "Harvey D. Parker",
+      "synonyms": [
+        "Harvey D. Parker"
+      ]
+    },
+    {
+      "value": "Harveys Lake Tahoe",
+      "synonyms": [
+        "Harveys Lake Tahoe"
+      ]
+    },
+    {
+      "value": "Haughton-McIver House",
+      "synonyms": [
+        "Haughton-McIver House"
+      ]
+    },
+    {
+      "value": "Hayes Mansion",
+      "synonyms": [
+        "Hayes Mansion"
+      ]
+    },
+    {
+      "value": "Haymarket Hotel",
+      "synonyms": [
+        "Haymarket Hotel"
+      ]
+    },
+    {
+      "value": "Haynes Hotel Waters Building",
+      "synonyms": [
+        "Haynes Hotel Waters Building"
+      ]
+    },
+    {
+      "value": "Hay–Adams Hotel",
+      "synonyms": [
+        "Hay–Adams Hotel"
+      ]
+    },
+    {
+      "value": "Heartland Inn",
+      "synonyms": [
+        "Heartland Inn"
+      ]
+    },
+    {
+      "value": "Heathman Hotel",
+      "synonyms": [
+        "Heathman Hotel"
+      ]
+    },
+    {
+      "value": "Hempel Hotel",
+      "synonyms": [
+        "Hempel Hotel"
+      ]
+    },
+    {
+      "value": "Henderson Village",
+      "synonyms": [
+        "Henderson Village"
+      ]
+    },
+    {
+      "value": "Henking Hotel and Cafe",
+      "synonyms": [
+        "Henking Hotel and Cafe"
+      ]
+    },
+    {
+      "value": "Henley Park Hotel",
+      "synonyms": [
+        "Henley Park Hotel"
+      ]
+    },
+    {
+      "value": "Henry B. Plant Museum",
+      "synonyms": [
+        "Henry B. Plant Museum"
+      ]
+    },
+    {
+      "value": "Henry Grady Hotel",
+      "synonyms": [
+        "Henry Grady Hotel"
+      ]
+    },
+    {
+      "value": "Hermitage Motor Inn",
+      "synonyms": [
+        "Hermitage Motor Inn"
+      ]
+    },
+    {
+      "value": "Hermosa Inn",
+      "synonyms": [
+        "Hermosa Inn"
+      ]
+    },
+    {
+      "value": "Herndon House",
+      "synonyms": [
+        "Herndon House"
+      ]
+    },
+    {
+      "value": "Highlands Inn",
+      "synonyms": [
+        "Highlands Inn"
+      ]
+    },
+    {
+      "value": "Hill Hotel",
+      "synonyms": [
+        "Hill Hotel"
+      ]
+    },
+    {
+      "value": "Hillcrest Hotel",
+      "synonyms": [
+        "Hillcrest Hotel"
+      ]
+    },
+    {
+      "value": "Hilton Waterfront Beach Resort",
+      "synonyms": [
+        "Hilton Waterfront Beach Resort"
+      ]
+    },
+    {
+      "value": "Historic Anderson House Hotel",
+      "synonyms": [
+        "Historic Anderson House Hotel"
+      ]
+    },
+    {
+      "value": "Historic Inns of Annapolis",
+      "synonyms": [
+        "Historic Inns of Annapolis"
+      ]
+    },
+    {
+      "value": "Holbrooke Hotel",
+      "synonyms": [
+        "Holbrooke Hotel"
+      ]
+    },
+    {
+      "value": "Holiday Inn Express Riverwalk Area",
+      "synonyms": [
+        "Holiday Inn Express Riverwalk Area"
+      ]
+    },
+    {
+      "value": "Holiday Inn in the Walt Disney World Resort",
+      "synonyms": [
+        "Holiday Inn in the Walt Disney World Resort"
+      ]
+    },
+    {
+      "value": "Hollywood Melrose Hotel",
+      "synonyms": [
+        "Hollywood Melrose Hotel"
+      ]
+    },
+    {
+      "value": "Hollywood Plaza Hotel",
+      "synonyms": [
+        "Hollywood Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Hooters Casino Hotel",
+      "synonyms": [
+        "Hooters Casino Hotel"
+      ]
+    },
+    {
+      "value": "Hoover Dam Lodge",
+      "synonyms": [
+        "Hoover Dam Lodge"
+      ]
+    },
+    {
+      "value": "Hoover Hotel",
+      "synonyms": [
+        "Hoover Hotel"
+      ]
+    },
+    {
+      "value": "Horton Grand Hotel",
+      "synonyms": [
+        "Horton Grand Hotel"
+      ]
+    },
+    {
+      "value": "Hot Lake Hotel",
+      "synonyms": [
+        "Hot Lake Hotel"
+      ]
+    },
+    {
+      "value": "Hotel Adelaide",
+      "synonyms": [
+        "Hotel Adelaide"
+      ]
+    },
+    {
+      "value": "Hotel Alder",
+      "synonyms": [
+        "Hotel Alder"
+      ]
+    },
+    {
+      "value": "Hotel Antlers",
+      "synonyms": [
+        "Hotel Antlers"
+      ]
+    },
+    {
+      "value": "Hotel Arcata",
+      "synonyms": [
+        "Hotel Arcata"
+      ]
+    },
+    {
+      "value": "Hotel Argonne",
+      "synonyms": [
+        "Hotel Argonne"
+      ]
+    },
+    {
+      "value": "Hotel Beaumont",
+      "synonyms": [
+        "Hotel Beaumont"
+      ]
+    },
+    {
+      "value": "Hotel Benton",
+      "synonyms": [
+        "Hotel Benton"
+      ]
+    },
+    {
+      "value": "Hotel Blackhawk",
+      "synonyms": [
+        "Hotel Blackhawk"
+      ]
+    },
+    {
+      "value": "Hotel Blessing",
+      "synonyms": [
+        "Hotel Blessing"
+      ]
+    },
+    {
+      "value": "Hotel Bond",
+      "synonyms": [
+        "Hotel Bond"
+      ]
+    },
+    {
+      "value": "Hotel Bossert",
+      "synonyms": [
+        "Hotel Bossert"
+      ]
+    },
+    {
+      "value": "Hotel Boulderado",
+      "synonyms": [
+        "Hotel Boulderado"
+      ]
+    },
+    {
+      "value": "Hotel Bovill",
+      "synonyms": [
+        "Hotel Bovill"
+      ]
+    },
+    {
+      "value": "Hotel Breakers",
+      "synonyms": [
+        "Hotel Breakers"
+      ]
+    },
+    {
+      "value": "Hotel Broadalbin",
+      "synonyms": [
+        "Hotel Broadalbin"
+      ]
+    },
+    {
+      "value": "Hotel Carter",
+      "synonyms": [
+        "Hotel Carter"
+      ]
+    },
+    {
+      "value": "Hotel Champlain",
+      "synonyms": [
+        "Hotel Champlain"
+      ]
+    },
+    {
+      "value": "Hotel Chancellor",
+      "synonyms": [
+        "Hotel Chancellor"
+      ]
+    },
+    {
+      "value": "Hotel Charbonneau",
+      "synonyms": [
+        "Hotel Charbonneau"
+      ]
+    },
+    {
+      "value": "Hotel Charlotte",
+      "synonyms": [
+        "Hotel Charlotte"
+      ]
+    },
+    {
+      "value": "Hotel Chelsea",
+      "synonyms": [
+        "Hotel Chelsea"
+      ]
+    },
+    {
+      "value": "Hotel Clovis",
+      "synonyms": [
+        "Hotel Clovis"
+      ]
+    },
+    {
+      "value": "Hotel Colorado",
+      "synonyms": [
+        "Hotel Colorado"
+      ]
+    },
+    {
+      "value": "Hotel Congress",
+      "synonyms": [
+        "Hotel Congress"
+      ]
+    },
+    {
+      "value": "Hotel Courtland",
+      "synonyms": [
+        "Hotel Courtland"
+      ]
+    },
+    {
+      "value": "Hotel Delaware",
+      "synonyms": [
+        "Hotel Delaware"
+      ]
+    },
+    {
+      "value": "Hotel Edison",
+      "synonyms": [
+        "Hotel Edison"
+      ]
+    },
+    {
+      "value": "Hotel Elysee",
+      "synonyms": [
+        "Hotel Elysee"
+      ]
+    },
+    {
+      "value": "Hotel Florence",
+      "synonyms": [
+        "Hotel Florence"
+      ]
+    },
+    {
+      "value": "Hotel Fontenelle",
+      "synonyms": [
+        "Hotel Fontenelle"
+      ]
+    },
+    {
+      "value": "Hotel Fort Des Moines",
+      "synonyms": [
+        "Hotel Fort Des Moines"
+      ]
+    },
+    {
+      "value": "Hotel Galvez",
+      "synonyms": [
+        "Hotel Galvez"
+      ]
+    },
+    {
+      "value": "Hotel Gansevoort",
+      "synonyms": [
+        "Hotel Gansevoort"
+      ]
+    },
+    {
+      "value": "Hotel George",
+      "synonyms": [
+        "Hotel George"
+      ]
+    },
+    {
+      "value": "Hotel George Washington",
+      "synonyms": [
+        "Hotel George Washington"
+      ]
+    },
+    {
+      "value": "Hotel Gerard",
+      "synonyms": [
+        "Hotel Gerard"
+      ]
+    },
+    {
+      "value": "Hotel Giraffe",
+      "synonyms": [
+        "Hotel Giraffe"
+      ]
+    },
+    {
+      "value": "Hotel Green",
+      "synonyms": [
+        "Hotel Green"
+      ]
+    },
+    {
+      "value": "Hotel Hershey",
+      "synonyms": [
+        "Hotel Hershey"
+      ]
+    },
+    {
+      "value": "Hotel Icon",
+      "synonyms": [
+        "Hotel Icon"
+      ]
+    },
+    {
+      "value": "Hotel Iowa",
+      "synonyms": [
+        "Hotel Iowa"
+      ]
+    },
+    {
+      "value": "Hotel Janzen",
+      "synonyms": [
+        "Hotel Janzen"
+      ]
+    },
+    {
+      "value": "Hotel Jerome",
+      "synonyms": [
+        "Hotel Jerome"
+      ]
+    },
+    {
+      "value": "Hotel Julien Dubuque",
+      "synonyms": [
+        "Hotel Julien Dubuque"
+      ]
+    },
+    {
+      "value": "Hotel Kempsford",
+      "synonyms": [
+        "Hotel Kempsford"
+      ]
+    },
+    {
+      "value": "Hotel Kernan",
+      "synonyms": [
+        "Hotel Kernan"
+      ]
+    },
+    {
+      "value": "Hotel Kewanee",
+      "synonyms": [
+        "Hotel Kewanee"
+      ]
+    },
+    {
+      "value": "Hotel Kirkwood",
+      "synonyms": [
+        "Hotel Kirkwood"
+      ]
+    },
+    {
+      "value": "Hotel Lafayette",
+      "synonyms": [
+        "Hotel Lafayette"
+      ]
+    },
+    {
+      "value": "Hotel Léger",
+      "synonyms": [
+        "Hotel Léger"
+      ]
+    },
+    {
+      "value": "Hotel Mac",
+      "synonyms": [
+        "Hotel Mac"
+      ]
+    },
+    {
+      "value": "Hotel Maison De Ville",
+      "synonyms": [
+        "Hotel Maison De Ville"
+      ]
+    },
+    {
+      "value": "Hotel Majestic",
+      "synonyms": [
+        "Hotel Majestic"
+      ]
+    },
+    {
+      "value": "Hotel Mississippi-RKO Orpheum Theater",
+      "synonyms": [
+        "Hotel Mississippi-RKO Orpheum Theater"
+      ]
+    },
+    {
+      "value": "Hotel Monaco",
+      "synonyms": [
+        "Hotel Monaco"
+      ]
+    },
+    {
+      "value": "Hotel Monteleone",
+      "synonyms": [
+        "Hotel Monteleone"
+      ]
+    },
+    {
+      "value": "Hotel Montgomery",
+      "synonyms": [
+        "Hotel Montgomery"
+      ]
+    },
+    {
+      "value": "Hotel Ottumwa",
+      "synonyms": [
+        "Hotel Ottumwa"
+      ]
+    },
+    {
+      "value": "Hotel Palomar",
+      "synonyms": [
+        "Hotel Palomar"
+      ]
+    },
+    {
+      "value": "Hotel Paso del Norte",
+      "synonyms": [
+        "Hotel Paso del Norte"
+      ]
+    },
+    {
+      "value": "Hotel Pennsylvania",
+      "synonyms": [
+        "Hotel Pennsylvania"
+      ]
+    },
+    {
+      "value": "Hotel Phillips",
+      "synonyms": [
+        "Hotel Phillips"
+      ]
+    },
+    {
+      "value": "Hotel President",
+      "synonyms": [
+        "Hotel President"
+      ]
+    },
+    {
+      "value": "Hotel Ramapo",
+      "synonyms": [
+        "Hotel Ramapo"
+      ]
+    },
+    {
+      "value": "Hotel Randolph",
+      "synonyms": [
+        "Hotel Randolph"
+      ]
+    },
+    {
+      "value": "Hotel Roanoke",
+      "synonyms": [
+        "Hotel Roanoke"
+      ]
+    },
+    {
+      "value": "Hotel Roberts",
+      "synonyms": [
+        "Hotel Roberts"
+      ]
+    },
+    {
+      "value": "Hotel Roger Williams",
+      "synonyms": [
+        "Hotel Roger Williams"
+      ]
+    },
+    {
+      "value": "Hotel Roosevelt",
+      "synonyms": [
+        "Hotel Roosevelt"
+      ]
+    },
+    {
+      "value": "Hotel Rouge",
+      "synonyms": [
+        "Hotel Rouge"
+      ]
+    },
+    {
+      "value": "Hotel Sainte Claire",
+      "synonyms": [
+        "Hotel Sainte Claire"
+      ]
+    },
+    {
+      "value": "Hotel San Carlos",
+      "synonyms": [
+        "Hotel San Carlos"
+      ]
+    },
+    {
+      "value": "Hotel San Remo",
+      "synonyms": [
+        "Hotel San Remo"
+      ]
+    },
+    {
+      "value": "Hotel St. George",
+      "synonyms": [
+        "Hotel St. George"
+      ]
+    },
+    {
+      "value": "Hotel St. Regis Detroit",
+      "synonyms": [
+        "Hotel St. Regis Detroit"
+      ]
+    },
+    {
+      "value": "Hotel Sterling",
+      "synonyms": [
+        "Hotel Sterling"
+      ]
+    },
+    {
+      "value": "Hotel Syracuse",
+      "synonyms": [
+        "Hotel Syracuse"
+      ]
+    },
+    {
+      "value": "Hotel Tallcorn",
+      "synonyms": [
+        "Hotel Tallcorn"
+      ]
+    },
+    {
+      "value": "Hotel Texas",
+      "synonyms": [
+        "Hotel Texas"
+      ]
+    },
+    {
+      "value": "Hotel Theresa",
+      "synonyms": [
+        "Hotel Theresa"
+      ]
+    },
+    {
+      "value": "Hotel Turkey",
+      "synonyms": [
+        "Hotel Turkey"
+      ]
+    },
+    {
+      "value": "Hotel Union Square",
+      "synonyms": [
+        "Hotel Union Square"
+      ]
+    },
+    {
+      "value": "Hotel Utica",
+      "synonyms": [
+        "Hotel Utica"
+      ]
+    },
+    {
+      "value": "Hotel Valley Ho",
+      "synonyms": [
+        "Hotel Valley Ho"
+      ]
+    },
+    {
+      "value": "Hotel Washington",
+      "synonyms": [
+        "Hotel Washington"
+      ]
+    },
+    {
+      "value": "Hotel Waverly",
+      "synonyms": [
+        "Hotel Waverly"
+      ]
+    },
+    {
+      "value": "Hotel Windermere",
+      "synonyms": [
+        "Hotel Windermere"
+      ]
+    },
+    {
+      "value": "Hotel Wolcott",
+      "synonyms": [
+        "Hotel Wolcott"
+      ]
+    },
+    {
+      "value": "Hotel Woodland",
+      "synonyms": [
+        "Hotel Woodland"
+      ]
+    },
+    {
+      "value": "Hotel at Old Town",
+      "synonyms": [
+        "Hotel at Old Town"
+      ]
+    },
+    {
+      "value": "Hotel deLuxe",
+      "synonyms": [
+        "Hotel deLuxe"
+      ]
+    },
+    {
+      "value": "Hotel del Coronado",
+      "synonyms": [
+        "Hotel del Coronado"
+      ]
+    },
+    {
+      "value": "Hotel des Arts",
+      "synonyms": [
+        "Hotel des Arts"
+      ]
+    },
+    {
+      "value": "Hotel on Rivington",
+      "synonyms": [
+        "Hotel on Rivington"
+      ]
+    },
+    {
+      "value": "Howe Tavern",
+      "synonyms": [
+        "Howe Tavern"
+      ]
+    },
+    {
+      "value": "Hudson Hotel",
+      "synonyms": [
+        "Hudson Hotel"
+      ]
+    },
+    {
+      "value": "Hugo Hotel",
+      "synonyms": [
+        "Hugo Hotel"
+      ]
+    },
+    {
+      "value": "Huntington Hotel",
+      "synonyms": [
+        "Huntington Hotel"
+      ]
+    },
+    {
+      "value": "Hyland Hotel",
+      "synonyms": [
+        "Hyland Hotel"
+      ]
+    },
+    {
+      "value": "I-Hotel",
+      "synonyms": [
+        "I-Hotel"
+      ]
+    },
+    {
+      "value": "IP Casino Resort \u0026 Spa",
+      "synonyms": [
+        "IP Casino Resort \u0026 Spa"
+      ]
+    },
+    {
+      "value": "Icon Brickell",
+      "synonyms": [
+        "Icon Brickell"
+      ]
+    },
+    {
+      "value": "Imperial Hotel",
+      "synonyms": [
+        "Imperial Hotel"
+      ]
+    },
+    {
+      "value": "Imperial Palace Hotel and Casino",
+      "synonyms": [
+        "Imperial Palace Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Indian Queen Tavern and Black\u0027s Store",
+      "synonyms": [
+        "Indian Queen Tavern and Black\u0027s Store"
+      ]
+    },
+    {
+      "value": "Indian Village Motor Lodge",
+      "synonyms": [
+        "Indian Village Motor Lodge"
+      ]
+    },
+    {
+      "value": "Inn at 97 Winder",
+      "synonyms": [
+        "Inn at 97 Winder"
+      ]
+    },
+    {
+      "value": "Inn at Fowlerstown",
+      "synonyms": [
+        "Inn at Fowlerstown"
+      ]
+    },
+    {
+      "value": "Inn at Perry Cabin",
+      "synonyms": [
+        "Inn at Perry Cabin"
+      ]
+    },
+    {
+      "value": "Inn at St. John\u0027s Plymouth Detroit",
+      "synonyms": [
+        "Inn at St. John\u0027s Plymouth Detroit"
+      ]
+    },
+    {
+      "value": "Inn of Chicago",
+      "synonyms": [
+        "Inn of Chicago"
+      ]
+    },
+    {
+      "value": "Inns on the National Road",
+      "synonyms": [
+        "Inns on the National Road"
+      ]
+    },
+    {
+      "value": "InterContinental Boston",
+      "synonyms": [
+        "InterContinental Boston"
+      ]
+    },
+    {
+      "value": "InterContinental Chicago",
+      "synonyms": [
+        "InterContinental Chicago"
+      ]
+    },
+    {
+      "value": "InterContinental London Park Lane Hotel",
+      "synonyms": [
+        "InterContinental London Park Lane Hotel"
+      ]
+    },
+    {
+      "value": "InterContinental New York Barclay Hotel",
+      "synonyms": [
+        "InterContinental New York Barclay Hotel"
+      ]
+    },
+    {
+      "value": "InterContinental San Francisco",
+      "synonyms": [
+        "InterContinental San Francisco"
+      ]
+    },
+    {
+      "value": "Irma Hotel",
+      "synonyms": [
+        "Irma Hotel"
+      ]
+    },
+    {
+      "value": "Island View Casino",
+      "synonyms": [
+        "Island View Casino"
+      ]
+    },
+    {
+      "value": "Isle of Capri Boonville",
+      "synonyms": [
+        "Isle of Capri Boonville"
+      ]
+    },
+    {
+      "value": "Islington Hotel",
+      "synonyms": [
+        "Islington Hotel"
+      ]
+    },
+    {
+      "value": "Izaak Walton Inn",
+      "synonyms": [
+        "Izaak Walton Inn"
+      ]
+    },
+    {
+      "value": "Jackson Lake Lodge",
+      "synonyms": [
+        "Jackson Lake Lodge"
+      ]
+    },
+    {
+      "value": "Jackson Marriott Downtown",
+      "synonyms": [
+        "Jackson Marriott Downtown"
+      ]
+    },
+    {
+      "value": "Jacob Crouse Inn",
+      "synonyms": [
+        "Jacob Crouse Inn"
+      ]
+    },
+    {
+      "value": "Jekyll Island Club",
+      "synonyms": [
+        "Jekyll Island Club"
+      ]
+    },
+    {
+      "value": "John Chambers House",
+      "synonyms": [
+        "John Chambers House"
+      ]
+    },
+    {
+      "value": "John Jacob Astor Hotel",
+      "synonyms": [
+        "John Jacob Astor Hotel"
+      ]
+    },
+    {
+      "value": "John Van Buren Tavern",
+      "synonyms": [
+        "John Van Buren Tavern"
+      ]
+    },
+    {
+      "value": "Joseph Smith Memorial Building",
+      "synonyms": [
+        "Joseph Smith Memorial Building"
+      ]
+    },
+    {
+      "value": "Julian Hotel",
+      "synonyms": [
+        "Julian Hotel"
+      ]
+    },
+    {
+      "value": "Jupiter Hotel",
+      "synonyms": [
+        "Jupiter Hotel"
+      ]
+    },
+    {
+      "value": "Kanawha Hotel",
+      "synonyms": [
+        "Kanawha Hotel"
+      ]
+    },
+    {
+      "value": "Kauffman House",
+      "synonyms": [
+        "Kauffman House"
+      ]
+    },
+    {
+      "value": "Keene Springs Hotel",
+      "synonyms": [
+        "Keene Springs Hotel"
+      ]
+    },
+    {
+      "value": "Kemah Boardwalk",
+      "synonyms": [
+        "Kemah Boardwalk"
+      ]
+    },
+    {
+      "value": "Kendall Inn",
+      "synonyms": [
+        "Kendall Inn"
+      ]
+    },
+    {
+      "value": "Kenilworth Lodge",
+      "synonyms": [
+        "Kenilworth Lodge"
+      ]
+    },
+    {
+      "value": "Kennedy Mansion",
+      "synonyms": [
+        "Kennedy Mansion"
+      ]
+    },
+    {
+      "value": "Kennedy School",
+      "synonyms": [
+        "Kennedy School"
+      ]
+    },
+    {
+      "value": "Kenton Hotel",
+      "synonyms": [
+        "Kenton Hotel"
+      ]
+    },
+    {
+      "value": "Kentucky Hotel",
+      "synonyms": [
+        "Kentucky Hotel"
+      ]
+    },
+    {
+      "value": "Kerns Hotel",
+      "synonyms": [
+        "Kerns Hotel"
+      ]
+    },
+    {
+      "value": "Kettle Falls Hotel",
+      "synonyms": [
+        "Kettle Falls Hotel"
+      ]
+    },
+    {
+      "value": "Key Route Inn",
+      "synonyms": [
+        "Key Route Inn"
+      ]
+    },
+    {
+      "value": "Kimball House",
+      "synonyms": [
+        "Kimball House"
+      ]
+    },
+    {
+      "value": "King Edward Hotel",
+      "synonyms": [
+        "King Edward Hotel"
+      ]
+    },
+    {
+      "value": "King and Prince Hotel",
+      "synonyms": [
+        "King and Prince Hotel"
+      ]
+    },
+    {
+      "value": "Kinzie Hotel",
+      "synonyms": [
+        "Kinzie Hotel"
+      ]
+    },
+    {
+      "value": "Kirkland Hotel",
+      "synonyms": [
+        "Kirkland Hotel"
+      ]
+    },
+    {
+      "value": "Kiva Koffeehouse",
+      "synonyms": [
+        "Kiva Koffeehouse"
+      ]
+    },
+    {
+      "value": "Klondike Hotel \u0026 Casino",
+      "synonyms": [
+        "Klondike Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Knickerbocker Hotel",
+      "synonyms": [
+        "Knickerbocker Hotel"
+      ]
+    },
+    {
+      "value": "Knightsbridge Hotel",
+      "synonyms": [
+        "Knightsbridge Hotel"
+      ]
+    },
+    {
+      "value": "Knutsford Hotel",
+      "synonyms": [
+        "Knutsford Hotel"
+      ]
+    },
+    {
+      "value": "Koch Hotel",
+      "synonyms": [
+        "Koch Hotel"
+      ]
+    },
+    {
+      "value": "Kutsher\u0027s Hotel",
+      "synonyms": [
+        "Kutsher\u0027s Hotel"
+      ]
+    },
+    {
+      "value": "L\u0027Enfant Plaza Hotel",
+      "synonyms": [
+        "L\u0027Enfant Plaza Hotel"
+      ]
+    },
+    {
+      "value": "La Concha Motel",
+      "synonyms": [
+        "La Concha Motel"
+      ]
+    },
+    {
+      "value": "La Costa Resort and Spa",
+      "synonyms": [
+        "La Costa Resort and Spa"
+      ]
+    },
+    {
+      "value": "La Posada Hotel",
+      "synonyms": [
+        "La Posada Hotel"
+      ]
+    },
+    {
+      "value": "La Quinta Resort and Club",
+      "synonyms": [
+        "La Quinta Resort and Club"
+      ]
+    },
+    {
+      "value": "La Salle Hotel",
+      "synonyms": [
+        "La Salle Hotel"
+      ]
+    },
+    {
+      "value": "LaSalle Hotel",
+      "synonyms": [
+        "LaSalle Hotel"
+      ]
+    },
+    {
+      "value": "Lady Luck Hotel \u0026 Casino",
+      "synonyms": [
+        "Lady Luck Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Lafayette Hotel \u0026 Suites in San Diego",
+      "synonyms": [
+        "Lafayette Hotel \u0026 Suites in San Diego"
+      ]
+    },
+    {
+      "value": "Lake Hotel",
+      "synonyms": [
+        "Lake Hotel"
+      ]
+    },
+    {
+      "value": "Lake Lawn Resort",
+      "synonyms": [
+        "Lake Lawn Resort"
+      ]
+    },
+    {
+      "value": "Lake McDonald Lodge",
+      "synonyms": [
+        "Lake McDonald Lodge"
+      ]
+    },
+    {
+      "value": "Lake Quinault Lodge",
+      "synonyms": [
+        "Lake Quinault Lodge"
+      ]
+    },
+    {
+      "value": "Lancaster Arts Hotel",
+      "synonyms": [
+        "Lancaster Arts Hotel"
+      ]
+    },
+    {
+      "value": "Landmark Inn State Historic Site",
+      "synonyms": [
+        "Landmark Inn State Historic Site"
+      ]
+    },
+    {
+      "value": "Lane Hotel",
+      "synonyms": [
+        "Lane Hotel"
+      ]
+    },
+    {
+      "value": "Lanesborough Hotel",
+      "synonyms": [
+        "Lanesborough Hotel"
+      ]
+    },
+    {
+      "value": "Langham Hotel",
+      "synonyms": [
+        "Langham Hotel"
+      ]
+    },
+    {
+      "value": "Langham Hotel Boston",
+      "synonyms": [
+        "Langham Hotel Boston"
+      ]
+    },
+    {
+      "value": "Larzelere Tavern",
+      "synonyms": [
+        "Larzelere Tavern"
+      ]
+    },
+    {
+      "value": "Las Vegas Club",
+      "synonyms": [
+        "Las Vegas Club"
+      ]
+    },
+    {
+      "value": "Las Vegas Hilton",
+      "synonyms": [
+        "Las Vegas Hilton"
+      ]
+    },
+    {
+      "value": "Las Vegas Plaza",
+      "synonyms": [
+        "Las Vegas Plaza"
+      ]
+    },
+    {
+      "value": "Le Meridien Hotel Piccadilly",
+      "synonyms": [
+        "Le Meridien Hotel Piccadilly"
+      ]
+    },
+    {
+      "value": "Le Méridien San Francisco",
+      "synonyms": [
+        "Le Méridien San Francisco"
+      ]
+    },
+    {
+      "value": "Le Pavillon Hotel",
+      "synonyms": [
+        "Le Pavillon Hotel"
+      ]
+    },
+    {
+      "value": "LeClaire Hotel",
+      "synonyms": [
+        "LeClaire Hotel"
+      ]
+    },
+    {
+      "value": "LeRay Hotel",
+      "synonyms": [
+        "LeRay Hotel"
+      ]
+    },
+    {
+      "value": "Legends Resort \u0026 Country Club",
+      "synonyms": [
+        "Legends Resort \u0026 Country Club"
+      ]
+    },
+    {
+      "value": "Leland Hotel",
+      "synonyms": [
+        "Leland Hotel"
+      ]
+    },
+    {
+      "value": "Lenox Hotel",
+      "synonyms": [
+        "Lenox Hotel"
+      ]
+    },
+    {
+      "value": "Leopold Hotel",
+      "synonyms": [
+        "Leopold Hotel"
+      ]
+    },
+    {
+      "value": "Lexington House",
+      "synonyms": [
+        "Lexington House"
+      ]
+    },
+    {
+      "value": "Libby Lodge",
+      "synonyms": [
+        "Libby Lodge"
+      ]
+    },
+    {
+      "value": "Liberty Place",
+      "synonyms": [
+        "Liberty Place"
+      ]
+    },
+    {
+      "value": "Library Hotel",
+      "synonyms": [
+        "Library Hotel"
+      ]
+    },
+    {
+      "value": "Lighthouse Inn",
+      "synonyms": [
+        "Lighthouse Inn"
+      ]
+    },
+    {
+      "value": "Limestone Inn Bed and Breakfast",
+      "synonyms": [
+        "Limestone Inn Bed and Breakfast"
+      ]
+    },
+    {
+      "value": "Lithia Springs Hotel",
+      "synonyms": [
+        "Lithia Springs Hotel"
+      ]
+    },
+    {
+      "value": "Little A\u0027Le\u0027Inn",
+      "synonyms": [
+        "Little A\u0027Le\u0027Inn"
+      ]
+    },
+    {
+      "value": "Little America Hotels",
+      "synonyms": [
+        "Little America Hotels"
+      ]
+    },
+    {
+      "value": "Loews New Orleans Hotel",
+      "synonyms": [
+        "Loews New Orleans Hotel"
+      ]
+    },
+    {
+      "value": "Loews Philadelphia Hotel",
+      "synonyms": [
+        "Loews Philadelphia Hotel"
+      ]
+    },
+    {
+      "value": "Loews Vanderbilt Hotel",
+      "synonyms": [
+        "Loews Vanderbilt Hotel"
+      ]
+    },
+    {
+      "value": "Log Cabin Motel",
+      "synonyms": [
+        "Log Cabin Motel"
+      ]
+    },
+    {
+      "value": "Lombardy Hotel",
+      "synonyms": [
+        "Lombardy Hotel"
+      ]
+    },
+    {
+      "value": "London Hilton on Park Lane",
+      "synonyms": [
+        "London Hilton on Park Lane"
+      ]
+    },
+    {
+      "value": "Longstreet Hotel",
+      "synonyms": [
+        "Longstreet Hotel"
+      ]
+    },
+    {
+      "value": "Lord Baltimore Hotel",
+      "synonyms": [
+        "Lord Baltimore Hotel"
+      ]
+    },
+    {
+      "value": "Lost Liberty Hotel",
+      "synonyms": [
+        "Lost Liberty Hotel"
+      ]
+    },
+    {
+      "value": "Lucky Club Casino and Hotel",
+      "synonyms": [
+        "Lucky Club Casino and Hotel"
+      ]
+    },
+    {
+      "value": "Luxor Las Vegas",
+      "synonyms": [
+        "Luxor Las Vegas"
+      ]
+    },
+    {
+      "value": "Lynch Hotel",
+      "synonyms": [
+        "Lynch Hotel"
+      ]
+    },
+    {
+      "value": "M By Montcalm Shoreditch Tech City Hotel",
+      "synonyms": [
+        "M By Montcalm Shoreditch Tech City Hotel"
+      ]
+    },
+    {
+      "value": "M Resort",
+      "synonyms": [
+        "M Resort"
+      ]
+    },
+    {
+      "value": "MGM Grand Atlantic City",
+      "synonyms": [
+        "MGM Grand Atlantic City"
+      ]
+    },
+    {
+      "value": "MGM Grand Detroit",
+      "synonyms": [
+        "MGM Grand Detroit"
+      ]
+    },
+    {
+      "value": "MGM Grand Las Vegas",
+      "synonyms": [
+        "MGM Grand Las Vegas"
+      ]
+    },
+    {
+      "value": "Madison Hotel",
+      "synonyms": [
+        "Madison Hotel"
+      ]
+    },
+    {
+      "value": "Madonna Inn",
+      "synonyms": [
+        "Madonna Inn"
+      ]
+    },
+    {
+      "value": "Magnolia Hotel",
+      "synonyms": [
+        "Magnolia Hotel"
+      ]
+    },
+    {
+      "value": "Main Street Station Hotel and Casino and Brewery",
+      "synonyms": [
+        "Main Street Station Hotel and Casino and Brewery"
+      ]
+    },
+    {
+      "value": "Major\u0027s Inn and Gilbert Block",
+      "synonyms": [
+        "Major\u0027s Inn and Gilbert Block"
+      ]
+    },
+    {
+      "value": "Malden Inn",
+      "synonyms": [
+        "Malden Inn"
+      ]
+    },
+    {
+      "value": "Manchester Grand Hyatt Hotel",
+      "synonyms": [
+        "Manchester Grand Hyatt Hotel"
+      ]
+    },
+    {
+      "value": "Mandalay Bay Resort and Casino",
+      "synonyms": [
+        "Mandalay Bay Resort and Casino"
+      ]
+    },
+    {
+      "value": "Mandarin Oriental",
+      "synonyms": [
+        "Mandarin Oriental"
+      ]
+    },
+    {
+      "value": "Mandarin Oriental Hyde Park",
+      "synonyms": [
+        "Mandarin Oriental Hyde Park"
+      ]
+    },
+    {
+      "value": "Many Glacier Hotel",
+      "synonyms": [
+        "Many Glacier Hotel"
+      ]
+    },
+    {
+      "value": "Maplewood Hotel",
+      "synonyms": [
+        "Maplewood Hotel"
+      ]
+    },
+    {
+      "value": "Marcus Curtiss Inn",
+      "synonyms": [
+        "Marcus Curtiss Inn"
+      ]
+    },
+    {
+      "value": "Marina Hotel",
+      "synonyms": [
+        "Marina Hotel"
+      ]
+    },
+    {
+      "value": "Mariners House",
+      "synonyms": [
+        "Mariners House"
+      ]
+    },
+    {
+      "value": "Maritime Hotel",
+      "synonyms": [
+        "Maritime Hotel"
+      ]
+    },
+    {
+      "value": "Mark Hopkins Hotel",
+      "synonyms": [
+        "Mark Hopkins Hotel"
+      ]
+    },
+    {
+      "value": "Markham House",
+      "synonyms": [
+        "Markham House"
+      ]
+    },
+    {
+      "value": "Marlborough Building",
+      "synonyms": [
+        "Marlborough Building"
+      ]
+    },
+    {
+      "value": "Marlborough-Blenheim Hotel",
+      "synonyms": [
+        "Marlborough-Blenheim Hotel"
+      ]
+    },
+    {
+      "value": "Marquette Hotel",
+      "synonyms": [
+        "Marquette Hotel"
+      ]
+    },
+    {
+      "value": "Marquis Residences",
+      "synonyms": [
+        "Marquis Residences"
+      ]
+    },
+    {
+      "value": "Marriott\u0027s Grande Vista",
+      "synonyms": [
+        "Marriott\u0027s Grande Vista"
+      ]
+    },
+    {
+      "value": "Marriott\u0027s Orlando World Center",
+      "synonyms": [
+        "Marriott\u0027s Orlando World Center"
+      ]
+    },
+    {
+      "value": "Marsh Hotel",
+      "synonyms": [
+        "Marsh Hotel"
+      ]
+    },
+    {
+      "value": "Marshall\u0027s Hotel",
+      "synonyms": [
+        "Marshall\u0027s Hotel"
+      ]
+    },
+    {
+      "value": "Martha Washington Hotel",
+      "synonyms": [
+        "Martha Washington Hotel"
+      ]
+    },
+    {
+      "value": "Martha Washington Inn",
+      "synonyms": [
+        "Martha Washington Inn"
+      ]
+    },
+    {
+      "value": "Martin Hotel",
+      "synonyms": [
+        "Martin Hotel"
+      ]
+    },
+    {
+      "value": "Mary Prentiss Inn",
+      "synonyms": [
+        "Mary Prentiss Inn"
+      ]
+    },
+    {
+      "value": "Mauna Kea Beach Hotel",
+      "synonyms": [
+        "Mauna Kea Beach Hotel"
+      ]
+    },
+    {
+      "value": "Maxwell House Hotel",
+      "synonyms": [
+        "Maxwell House Hotel"
+      ]
+    },
+    {
+      "value": "Mayflower Hotel",
+      "synonyms": [
+        "Mayflower Hotel"
+      ]
+    },
+    {
+      "value": "Mayflower Inn on Manomet Point",
+      "synonyms": [
+        "Mayflower Inn on Manomet Point"
+      ]
+    },
+    {
+      "value": "McCurdy Hotel",
+      "synonyms": [
+        "McCurdy Hotel"
+      ]
+    },
+    {
+      "value": "McGown\u0027s Pass Tavern",
+      "synonyms": [
+        "McGown\u0027s Pass Tavern"
+      ]
+    },
+    {
+      "value": "Menger Hotel",
+      "synonyms": [
+        "Menger Hotel"
+      ]
+    },
+    {
+      "value": "Merchant Tower",
+      "synonyms": [
+        "Merchant Tower"
+      ]
+    },
+    {
+      "value": "Mermaid House Hotel",
+      "synonyms": [
+        "Mermaid House Hotel"
+      ]
+    },
+    {
+      "value": "Mesquite Star Hotel and Casino",
+      "synonyms": [
+        "Mesquite Star Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Met 2 Marriott Marquis",
+      "synonyms": [
+        "Met 2 Marriott Marquis"
+      ]
+    },
+    {
+      "value": "Metropolitan Hotel",
+      "synonyms": [
+        "Metropolitan Hotel"
+      ]
+    },
+    {
+      "value": "Miccosukee Resort and Gaming",
+      "synonyms": [
+        "Miccosukee Resort and Gaming"
+      ]
+    },
+    {
+      "value": "Midway Hotels",
+      "synonyms": [
+        "Midway Hotels"
+      ]
+    },
+    {
+      "value": "Milford Plaza Hotel",
+      "synonyms": [
+        "Milford Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Millenium Hilton Hotel",
+      "synonyms": [
+        "Millenium Hilton Hotel"
+      ]
+    },
+    {
+      "value": "Millennium Hotel Mayfair",
+      "synonyms": [
+        "Millennium Hotel Mayfair"
+      ]
+    },
+    {
+      "value": "Millennium Hotel St. Louis",
+      "synonyms": [
+        "Millennium Hotel St. Louis"
+      ]
+    },
+    {
+      "value": "Millennium Place",
+      "synonyms": [
+        "Millennium Place"
+      ]
+    },
+    {
+      "value": "Millennium UN Plaza",
+      "synonyms": [
+        "Millennium UN Plaza"
+      ]
+    },
+    {
+      "value": "Miller\u0027s Tavern",
+      "synonyms": [
+        "Miller\u0027s Tavern"
+      ]
+    },
+    {
+      "value": "Mira Monte Inn",
+      "synonyms": [
+        "Mira Monte Inn"
+      ]
+    },
+    {
+      "value": "Mission Inn",
+      "synonyms": [
+        "Mission Inn"
+      ]
+    },
+    {
+      "value": "Mizpah Hotel",
+      "synonyms": [
+        "Mizpah Hotel"
+      ]
+    },
+    {
+      "value": "Moana Hotel",
+      "synonyms": [
+        "Moana Hotel"
+      ]
+    },
+    {
+      "value": "Mobberly hotel",
+      "synonyms": [
+        "Mobberly hotel"
+      ]
+    },
+    {
+      "value": "Mohegan Sun",
+      "synonyms": [
+        "Mohegan Sun"
+      ]
+    },
+    {
+      "value": "Mohonk Mountain House",
+      "synonyms": [
+        "Mohonk Mountain House"
+      ]
+    },
+    {
+      "value": "Molly Pitcher Inn",
+      "synonyms": [
+        "Molly Pitcher Inn"
+      ]
+    },
+    {
+      "value": "Mondrian Hotel",
+      "synonyms": [
+        "Mondrian Hotel"
+      ]
+    },
+    {
+      "value": "Monroe Hotel",
+      "synonyms": [
+        "Monroe Hotel"
+      ]
+    },
+    {
+      "value": "MontBleu",
+      "synonyms": [
+        "MontBleu"
+      ]
+    },
+    {
+      "value": "Monte Carlo Resort and Casino",
+      "synonyms": [
+        "Monte Carlo Resort and Casino"
+      ]
+    },
+    {
+      "value": "Montezuma Castle",
+      "synonyms": [
+        "Montezuma Castle"
+      ]
+    },
+    {
+      "value": "Montgomery House Bed and Breakfast",
+      "synonyms": [
+        "Montgomery House Bed and Breakfast"
+      ]
+    },
+    {
+      "value": "Monticello Hotel",
+      "synonyms": [
+        "Monticello Hotel"
+      ]
+    },
+    {
+      "value": "Morgans Hotel",
+      "synonyms": [
+        "Morgans Hotel"
+      ]
+    },
+    {
+      "value": "Morrison Hotel",
+      "synonyms": [
+        "Morrison Hotel"
+      ]
+    },
+    {
+      "value": "Motel Inn of San Luis Obispo",
+      "synonyms": [
+        "Motel Inn of San Luis Obispo"
+      ]
+    },
+    {
+      "value": "MotorCity Casino Hotel",
+      "synonyms": [
+        "MotorCity Casino Hotel"
+      ]
+    },
+    {
+      "value": "Moulin Rouge Hotel",
+      "synonyms": [
+        "Moulin Rouge Hotel"
+      ]
+    },
+    {
+      "value": "Mount Airy Casino Resort",
+      "synonyms": [
+        "Mount Airy Casino Resort"
+      ]
+    },
+    {
+      "value": "Mount Vernon Hotel Museum",
+      "synonyms": [
+        "Mount Vernon Hotel Museum"
+      ]
+    },
+    {
+      "value": "Mount Washington Hotel",
+      "synonyms": [
+        "Mount Washington Hotel"
+      ]
+    },
+    {
+      "value": "Mountain Springs Hotel",
+      "synonyms": [
+        "Mountain Springs Hotel"
+      ]
+    },
+    {
+      "value": "Mountain View House",
+      "synonyms": [
+        "Mountain View House"
+      ]
+    },
+    {
+      "value": "Mountaineer Hotel",
+      "synonyms": [
+        "Mountaineer Hotel"
+      ]
+    },
+    {
+      "value": "Muehlebach Hotel",
+      "synonyms": [
+        "Muehlebach Hotel"
+      ]
+    },
+    {
+      "value": "Multnomah County Poor Farm",
+      "synonyms": [
+        "Multnomah County Poor Farm"
+      ]
+    },
+    {
+      "value": "Multnomah Hotel",
+      "synonyms": [
+        "Multnomah Hotel"
+      ]
+    },
+    {
+      "value": "Murphys Hotel",
+      "synonyms": [
+        "Murphys Hotel"
+      ]
+    },
+    {
+      "value": "Murray D. Lincoln Campus Center",
+      "synonyms": [
+        "Murray D. Lincoln Campus Center"
+      ]
+    },
+    {
+      "value": "Nancy Lincoln Inn",
+      "synonyms": [
+        "Nancy Lincoln Inn"
+      ]
+    },
+    {
+      "value": "Naniboujou Club Lodge",
+      "synonyms": [
+        "Naniboujou Club Lodge"
+      ]
+    },
+    {
+      "value": "Nassau Inn",
+      "synonyms": [
+        "Nassau Inn"
+      ]
+    },
+    {
+      "value": "National Exchange Hotel",
+      "synonyms": [
+        "National Exchange Hotel"
+      ]
+    },
+    {
+      "value": "National Hotel",
+      "synonyms": [
+        "National Hotel"
+      ]
+    },
+    {
+      "value": "Nevele Grand Hotel",
+      "synonyms": [
+        "Nevele Grand Hotel"
+      ]
+    },
+    {
+      "value": "New Boston Inn",
+      "synonyms": [
+        "New Boston Inn"
+      ]
+    },
+    {
+      "value": "New Frontier Hotel and Casino",
+      "synonyms": [
+        "New Frontier Hotel and Casino"
+      ]
+    },
+    {
+      "value": "New Hotel Carquinez",
+      "synonyms": [
+        "New Hotel Carquinez"
+      ]
+    },
+    {
+      "value": "New Imperial Hotel",
+      "synonyms": [
+        "New Imperial Hotel"
+      ]
+    },
+    {
+      "value": "New Orleans Marriott",
+      "synonyms": [
+        "New Orleans Marriott"
+      ]
+    },
+    {
+      "value": "New Sherwood Hotel",
+      "synonyms": [
+        "New Sherwood Hotel"
+      ]
+    },
+    {
+      "value": "New Taggart Hotel",
+      "synonyms": [
+        "New Taggart Hotel"
+      ]
+    },
+    {
+      "value": "New Thomson House",
+      "synonyms": [
+        "New Thomson House"
+      ]
+    },
+    {
+      "value": "New York Hilton Midtown",
+      "synonyms": [
+        "New York Hilton Midtown"
+      ]
+    },
+    {
+      "value": "New York Marriott Marquis",
+      "synonyms": [
+        "New York Marriott Marquis"
+      ]
+    },
+    {
+      "value": "New York-New York Hotel \u0026 Casino",
+      "synonyms": [
+        "New York-New York Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "New Yorker Hotel",
+      "synonyms": [
+        "New Yorker Hotel"
+      ]
+    },
+    {
+      "value": "Newbern Hotel",
+      "synonyms": [
+        "Newbern Hotel"
+      ]
+    },
+    {
+      "value": "Nickelodeon Suites Resort",
+      "synonyms": [
+        "Nickelodeon Suites Resort"
+      ]
+    },
+    {
+      "value": "Nickels-Sortwell House",
+      "synonyms": [
+        "Nickels-Sortwell House"
+      ]
+    },
+    {
+      "value": "Nippon Kan Theatre",
+      "synonyms": [
+        "Nippon Kan Theatre"
+      ]
+    },
+    {
+      "value": "Northwestern Hotel",
+      "synonyms": [
+        "Northwestern Hotel"
+      ]
+    },
+    {
+      "value": "Nu-Wray Inn",
+      "synonyms": [
+        "Nu-Wray Inn"
+      ]
+    },
+    {
+      "value": "Nueces Hotel",
+      "synonyms": [
+        "Nueces Hotel"
+      ]
+    },
+    {
+      "value": "Nugget Casino Resort",
+      "synonyms": [
+        "Nugget Casino Resort"
+      ]
+    },
+    {
+      "value": "OK Hotel",
+      "synonyms": [
+        "OK Hotel"
+      ]
+    },
+    {
+      "value": "Occidental Hotel",
+      "synonyms": [
+        "Occidental Hotel"
+      ]
+    },
+    {
+      "value": "Ocean Forest Hotel",
+      "synonyms": [
+        "Ocean Forest Hotel"
+      ]
+    },
+    {
+      "value": "Ocean House",
+      "synonyms": [
+        "Ocean House"
+      ]
+    },
+    {
+      "value": "Ocean Resort Hotel Waikiki",
+      "synonyms": [
+        "Ocean Resort Hotel Waikiki"
+      ]
+    },
+    {
+      "value": "Ocean Spray Hotel",
+      "synonyms": [
+        "Ocean Spray Hotel"
+      ]
+    },
+    {
+      "value": "Olcott Hotel",
+      "synonyms": [
+        "Olcott Hotel"
+      ]
+    },
+    {
+      "value": "Old Faithful Inn",
+      "synonyms": [
+        "Old Faithful Inn"
+      ]
+    },
+    {
+      "value": "Old Faithful Lodge",
+      "synonyms": [
+        "Old Faithful Lodge"
+      ]
+    },
+    {
+      "value": "Old Hotel",
+      "synonyms": [
+        "Old Hotel"
+      ]
+    },
+    {
+      "value": "Old Talbott Tavern",
+      "synonyms": [
+        "Old Talbott Tavern"
+      ]
+    },
+    {
+      "value": "Olympic Club Hotel",
+      "synonyms": [
+        "Olympic Club Hotel"
+      ]
+    },
+    {
+      "value": "Omaha Hotel",
+      "synonyms": [
+        "Omaha Hotel"
+      ]
+    },
+    {
+      "value": "Omni Dallas Convention Center Hotel",
+      "synonyms": [
+        "Omni Dallas Convention Center Hotel"
+      ]
+    },
+    {
+      "value": "Omni Interlocken Resort",
+      "synonyms": [
+        "Omni Interlocken Resort"
+      ]
+    },
+    {
+      "value": "Omni Parker House",
+      "synonyms": [
+        "Omni Parker House"
+      ]
+    },
+    {
+      "value": "Omni Royal Orleans",
+      "synonyms": [
+        "Omni Royal Orleans"
+      ]
+    },
+    {
+      "value": "Omni Severin Hotel",
+      "synonyms": [
+        "Omni Severin Hotel"
+      ]
+    },
+    {
+      "value": "Omni Shoreham Hotel",
+      "synonyms": [
+        "Omni Shoreham Hotel"
+      ]
+    },
+    {
+      "value": "One Aldwych",
+      "synonyms": [
+        "One Aldwych"
+      ]
+    },
+    {
+      "value": "One Canal Place",
+      "synonyms": [
+        "One Canal Place"
+      ]
+    },
+    {
+      "value": "One Lincoln Tower",
+      "synonyms": [
+        "One Lincoln Tower"
+      ]
+    },
+    {
+      "value": "Oregon Caves Chateau",
+      "synonyms": [
+        "Oregon Caves Chateau"
+      ]
+    },
+    {
+      "value": "Orkney Springs Hotel",
+      "synonyms": [
+        "Orkney Springs Hotel"
+      ]
+    },
+    {
+      "value": "Ormond Hotel",
+      "synonyms": [
+        "Ormond Hotel"
+      ]
+    },
+    {
+      "value": "Ormsby House",
+      "synonyms": [
+        "Ormsby House"
+      ]
+    },
+    {
+      "value": "Osborn Hotel",
+      "synonyms": [
+        "Osborn Hotel"
+      ]
+    },
+    {
+      "value": "Ox Bow Inn",
+      "synonyms": [
+        "Ox Bow Inn"
+      ]
+    },
+    {
+      "value": "Pacific Hotel",
+      "synonyms": [
+        "Pacific Hotel"
+      ]
+    },
+    {
+      "value": "Padre Hotel",
+      "synonyms": [
+        "Padre Hotel"
+      ]
+    },
+    {
+      "value": "Page-Walker Hotel",
+      "synonyms": [
+        "Page-Walker Hotel"
+      ]
+    },
+    {
+      "value": "Palace Hotel",
+      "synonyms": [
+        "Palace Hotel"
+      ]
+    },
+    {
+      "value": "Palace Hotel Residential Tower",
+      "synonyms": [
+        "Palace Hotel Residential Tower"
+      ]
+    },
+    {
+      "value": "Palace Station",
+      "synonyms": [
+        "Palace Station"
+      ]
+    },
+    {
+      "value": "Palms Casino Resort",
+      "synonyms": [
+        "Palms Casino Resort"
+      ]
+    },
+    {
+      "value": "Panama Hotel",
+      "synonyms": [
+        "Panama Hotel"
+      ]
+    },
+    {
+      "value": "Panorama Resort",
+      "synonyms": [
+        "Panorama Resort"
+      ]
+    },
+    {
+      "value": "Par-A-Dice Hotel and Casino",
+      "synonyms": [
+        "Par-A-Dice Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Paradise Inn",
+      "synonyms": [
+        "Paradise Inn"
+      ]
+    },
+    {
+      "value": "Paramount Hotel",
+      "synonyms": [
+        "Paramount Hotel"
+      ]
+    },
+    {
+      "value": "Paris Las Vegas",
+      "synonyms": [
+        "Paris Las Vegas"
+      ]
+    },
+    {
+      "value": "Park Central Hotel",
+      "synonyms": [
+        "Park Central Hotel"
+      ]
+    },
+    {
+      "value": "Park Heathman Hotel",
+      "synonyms": [
+        "Park Heathman Hotel"
+      ]
+    },
+    {
+      "value": "Park House Hotel",
+      "synonyms": [
+        "Park House Hotel"
+      ]
+    },
+    {
+      "value": "Park Inn Hotel",
+      "synonyms": [
+        "Park Inn Hotel"
+      ]
+    },
+    {
+      "value": "Park Motel",
+      "synonyms": [
+        "Park Motel"
+      ]
+    },
+    {
+      "value": "Parkton Hotel",
+      "synonyms": [
+        "Parkton Hotel"
+      ]
+    },
+    {
+      "value": "Parliament House",
+      "synonyms": [
+        "Parliament House"
+      ]
+    },
+    {
+      "value": "Patee House",
+      "synonyms": [
+        "Patee House"
+      ]
+    },
+    {
+      "value": "Patrick Henry Hotel",
+      "synonyms": [
+        "Patrick Henry Hotel"
+      ]
+    },
+    {
+      "value": "Paul Smith\u0027s Hotel",
+      "synonyms": [
+        "Paul Smith\u0027s Hotel"
+      ]
+    },
+    {
+      "value": "Pence Springs Hotel Historic District",
+      "synonyms": [
+        "Pence Springs Hotel Historic District"
+      ]
+    },
+    {
+      "value": "Penn Alto Building",
+      "synonyms": [
+        "Penn Alto Building"
+      ]
+    },
+    {
+      "value": "Pennsylvania House",
+      "synonyms": [
+        "Pennsylvania House"
+      ]
+    },
+    {
+      "value": "Penthouse Boardwalk Hotel and Casino",
+      "synonyms": [
+        "Penthouse Boardwalk Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Peppermill Reno",
+      "synonyms": [
+        "Peppermill Reno"
+      ]
+    },
+    {
+      "value": "Pequoig Hotel",
+      "synonyms": [
+        "Pequoig Hotel"
+      ]
+    },
+    {
+      "value": "Pere Marquette Hotel",
+      "synonyms": [
+        "Pere Marquette Hotel"
+      ]
+    },
+    {
+      "value": "Phoenix Building",
+      "synonyms": [
+        "Phoenix Building"
+      ]
+    },
+    {
+      "value": "Phoenix City Square",
+      "synonyms": [
+        "Phoenix City Square"
+      ]
+    },
+    {
+      "value": "Phoenix Hotel",
+      "synonyms": [
+        "Phoenix Hotel"
+      ]
+    },
+    {
+      "value": "Phoenix Plaza",
+      "synonyms": [
+        "Phoenix Plaza"
+      ]
+    },
+    {
+      "value": "Piedras Blancas Motel",
+      "synonyms": [
+        "Piedras Blancas Motel"
+      ]
+    },
+    {
+      "value": "Pierce Pennant Motor Hotel",
+      "synonyms": [
+        "Pierce Pennant Motor Hotel"
+      ]
+    },
+    {
+      "value": "Pierpont Inn",
+      "synonyms": [
+        "Pierpont Inn"
+      ]
+    },
+    {
+      "value": "Pinehill Inn",
+      "synonyms": [
+        "Pinehill Inn"
+      ]
+    },
+    {
+      "value": "Pinnacle Atlantic City",
+      "synonyms": [
+        "Pinnacle Atlantic City"
+      ]
+    },
+    {
+      "value": "Pioneer Hotel",
+      "synonyms": [
+        "Pioneer Hotel"
+      ]
+    },
+    {
+      "value": "Place St. Charles",
+      "synonyms": [
+        "Place St. Charles"
+      ]
+    },
+    {
+      "value": "Planet Hollywood Resort and Casino",
+      "synonyms": [
+        "Planet Hollywood Resort and Casino"
+      ]
+    },
+    {
+      "value": "Plaza Hotel",
+      "synonyms": [
+        "Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Plaza Hotel \u0026 Casino",
+      "synonyms": [
+        "Plaza Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Plaza On The River Club And Residence",
+      "synonyms": [
+        "Plaza On The River Club And Residence"
+      ]
+    },
+    {
+      "value": "Pleasant Inn",
+      "synonyms": [
+        "Pleasant Inn"
+      ]
+    },
+    {
+      "value": "Polk Hotel",
+      "synonyms": [
+        "Polk Hotel"
+      ]
+    },
+    {
+      "value": "Ponce De Leon Boutique Hotel",
+      "synonyms": [
+        "Ponce De Leon Boutique Hotel"
+      ]
+    },
+    {
+      "value": "Ponce de León Hotel",
+      "synonyms": [
+        "Ponce de León Hotel"
+      ]
+    },
+    {
+      "value": "Pontchartrain Hotel",
+      "synonyms": [
+        "Pontchartrain Hotel"
+      ]
+    },
+    {
+      "value": "Ponte Vedra Inn and Club",
+      "synonyms": [
+        "Ponte Vedra Inn and Club"
+      ]
+    },
+    {
+      "value": "Pontiac Hotel",
+      "synonyms": [
+        "Pontiac Hotel"
+      ]
+    },
+    {
+      "value": "Portland Hotel",
+      "synonyms": [
+        "Portland Hotel"
+      ]
+    },
+    {
+      "value": "Prague Hotel",
+      "synonyms": [
+        "Prague Hotel"
+      ]
+    },
+    {
+      "value": "Prairie Band Casino \u0026 Resort",
+      "synonyms": [
+        "Prairie Band Casino \u0026 Resort"
+      ]
+    },
+    {
+      "value": "Professional Building",
+      "synonyms": [
+        "Professional Building"
+      ]
+    },
+    {
+      "value": "Providence Biltmore",
+      "synonyms": [
+        "Providence Biltmore"
+      ]
+    },
+    {
+      "value": "Quaker Square",
+      "synonyms": [
+        "Quaker Square"
+      ]
+    },
+    {
+      "value": "Queen Anne Hotel",
+      "synonyms": [
+        "Queen Anne Hotel"
+      ]
+    },
+    {
+      "value": "Queen City Hotel",
+      "synonyms": [
+        "Queen City Hotel"
+      ]
+    },
+    {
+      "value": "Radisson Edwardian Hampshire Hotel",
+      "synonyms": [
+        "Radisson Edwardian Hampshire Hotel"
+      ]
+    },
+    {
+      "value": "Radisson Edwardian Heathrow Hotel",
+      "synonyms": [
+        "Radisson Edwardian Heathrow Hotel"
+      ]
+    },
+    {
+      "value": "Radisson Lackawanna Station Hotel",
+      "synonyms": [
+        "Radisson Lackawanna Station Hotel"
+      ]
+    },
+    {
+      "value": "Radisson Northern Hotel",
+      "synonyms": [
+        "Radisson Northern Hotel"
+      ]
+    },
+    {
+      "value": "Rafayel on the Left Bank",
+      "synonyms": [
+        "Rafayel on the Left Bank"
+      ]
+    },
+    {
+      "value": "Railroad Hotel",
+      "synonyms": [
+        "Railroad Hotel"
+      ]
+    },
+    {
+      "value": "Railroad Pass Casino",
+      "synonyms": [
+        "Railroad Pass Casino"
+      ]
+    },
+    {
+      "value": "Rainbow Court",
+      "synonyms": [
+        "Rainbow Court"
+      ]
+    },
+    {
+      "value": "Randolph Hotel",
+      "synonyms": [
+        "Randolph Hotel"
+      ]
+    },
+    {
+      "value": "Raymond Hotel",
+      "synonyms": [
+        "Raymond Hotel"
+      ]
+    },
+    {
+      "value": "Red Maple Farm",
+      "synonyms": [
+        "Red Maple Farm"
+      ]
+    },
+    {
+      "value": "Red Rock Resort Spa and Casino",
+      "synonyms": [
+        "Red Rock Resort Spa and Casino"
+      ]
+    },
+    {
+      "value": "Red Sulphur Springs Hotel",
+      "synonyms": [
+        "Red Sulphur Springs Hotel"
+      ]
+    },
+    {
+      "value": "Redick Tower",
+      "synonyms": [
+        "Redick Tower"
+      ]
+    },
+    {
+      "value": "Redstone Inn",
+      "synonyms": [
+        "Redstone Inn"
+      ]
+    },
+    {
+      "value": "Redwoods Hotel",
+      "synonyms": [
+        "Redwoods Hotel"
+      ]
+    },
+    {
+      "value": "Regency Hotel",
+      "synonyms": [
+        "Regency Hotel"
+      ]
+    },
+    {
+      "value": "Reliance Building",
+      "synonyms": [
+        "Reliance Building"
+      ]
+    },
+    {
+      "value": "Renaissance Blackstone Hotel",
+      "synonyms": [
+        "Renaissance Blackstone Hotel"
+      ]
+    },
+    {
+      "value": "Renaissance Hotel",
+      "synonyms": [
+        "Renaissance Hotel"
+      ]
+    },
+    {
+      "value": "Resorts Casino Hotel",
+      "synonyms": [
+        "Resorts Casino Hotel"
+      ]
+    },
+    {
+      "value": "Resorts Casino Tunica",
+      "synonyms": [
+        "Resorts Casino Tunica"
+      ]
+    },
+    {
+      "value": "Rhinecliff Hotel",
+      "synonyms": [
+        "Rhinecliff Hotel"
+      ]
+    },
+    {
+      "value": "Rhodes-Haverty Building",
+      "synonyms": [
+        "Rhodes-Haverty Building"
+      ]
+    },
+    {
+      "value": "Rickshaw Inn",
+      "synonyms": [
+        "Rickshaw Inn"
+      ]
+    },
+    {
+      "value": "Rio All Suite Hotel and Casino",
+      "synonyms": [
+        "Rio All Suite Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Rising Sun Auto Camp",
+      "synonyms": [
+        "Rising Sun Auto Camp"
+      ]
+    },
+    {
+      "value": "Ritz Hotel",
+      "synonyms": [
+        "Ritz Hotel"
+      ]
+    },
+    {
+      "value": "Ritz Plaza Hotel",
+      "synonyms": [
+        "Ritz Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Ritz-Carlton Atlantic City",
+      "synonyms": [
+        "Ritz-Carlton Atlantic City"
+      ]
+    },
+    {
+      "value": "Ritz-Carlton Chicago",
+      "synonyms": [
+        "Ritz-Carlton Chicago"
+      ]
+    },
+    {
+      "value": "Ritz-Carlton Denver",
+      "synonyms": [
+        "Ritz-Carlton Denver"
+      ]
+    },
+    {
+      "value": "Riverside Hotel",
+      "synonyms": [
+        "Riverside Hotel"
+      ]
+    },
+    {
+      "value": "Riverside Inn",
+      "synonyms": [
+        "Riverside Inn"
+      ]
+    },
+    {
+      "value": "Riverwalk Hotel Detroit",
+      "synonyms": [
+        "Riverwalk Hotel Detroit"
+      ]
+    },
+    {
+      "value": "Riviera",
+      "synonyms": [
+        "Riviera"
+      ]
+    },
+    {
+      "value": "Robert Treat Center",
+      "synonyms": [
+        "Robert Treat Center"
+      ]
+    },
+    {
+      "value": "Roberts Building",
+      "synonyms": [
+        "Roberts Building"
+      ]
+    },
+    {
+      "value": "Robinson Hotel",
+      "synonyms": [
+        "Robinson Hotel"
+      ]
+    },
+    {
+      "value": "Robinson House",
+      "synonyms": [
+        "Robinson House"
+      ]
+    },
+    {
+      "value": "Rock River Hotel",
+      "synonyms": [
+        "Rock River Hotel"
+      ]
+    },
+    {
+      "value": "Rockingham Hotel",
+      "synonyms": [
+        "Rockingham Hotel"
+      ]
+    },
+    {
+      "value": "Rocky Gap State Park",
+      "synonyms": [
+        "Rocky Gap State Park"
+      ]
+    },
+    {
+      "value": "Rodgers Tavern",
+      "synonyms": [
+        "Rodgers Tavern"
+      ]
+    },
+    {
+      "value": "Rogue Elk Hotel",
+      "synonyms": [
+        "Rogue Elk Hotel"
+      ]
+    },
+    {
+      "value": "Rogues\u0027 Harbor Inn",
+      "synonyms": [
+        "Rogues\u0027 Harbor Inn"
+      ]
+    },
+    {
+      "value": "Roosevelt Hotel",
+      "synonyms": [
+        "Roosevelt Hotel"
+      ]
+    },
+    {
+      "value": "Rosemary Inn",
+      "synonyms": [
+        "Rosemary Inn"
+      ]
+    },
+    {
+      "value": "Rosewood London Hotel",
+      "synonyms": [
+        "Rosewood London Hotel"
+      ]
+    },
+    {
+      "value": "Roxy Hotel",
+      "synonyms": [
+        "Roxy Hotel"
+      ]
+    },
+    {
+      "value": "Roy\u0027s Motel and Café",
+      "synonyms": [
+        "Roy\u0027s Motel and Café"
+      ]
+    },
+    {
+      "value": "Royal Garden Hotel",
+      "synonyms": [
+        "Royal Garden Hotel"
+      ]
+    },
+    {
+      "value": "Royal Hawaiian Hotel",
+      "synonyms": [
+        "Royal Hawaiian Hotel"
+      ]
+    },
+    {
+      "value": "Royal Park Hotel Rochester Detroit",
+      "synonyms": [
+        "Royal Park Hotel Rochester Detroit"
+      ]
+    },
+    {
+      "value": "Royal Plaza Hotel",
+      "synonyms": [
+        "Royal Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Royal Poinciana Hotel",
+      "synonyms": [
+        "Royal Poinciana Hotel"
+      ]
+    },
+    {
+      "value": "Royalton Hotel",
+      "synonyms": [
+        "Royalton Hotel"
+      ]
+    },
+    {
+      "value": "Rumsey Hall",
+      "synonyms": [
+        "Rumsey Hall"
+      ]
+    },
+    {
+      "value": "Rusher Hotel",
+      "synonyms": [
+        "Rusher Hotel"
+      ]
+    },
+    {
+      "value": "SLS Las Vegas",
+      "synonyms": [
+        "SLS Las Vegas"
+      ]
+    },
+    {
+      "value": "Sacajawea Hotel",
+      "synonyms": [
+        "Sacajawea Hotel"
+      ]
+    },
+    {
+      "value": "Saint Anthony Hotel",
+      "synonyms": [
+        "Saint Anthony Hotel"
+      ]
+    },
+    {
+      "value": "Sam\u0027s Town Hotel and Gambling Hall",
+      "synonyms": [
+        "Sam\u0027s Town Hotel and Gambling Hall"
+      ]
+    },
+    {
+      "value": "San Antonio Crowne Plaza",
+      "synonyms": [
+        "San Antonio Crowne Plaza"
+      ]
+    },
+    {
+      "value": "San Antonio Marriott Riverwalk",
+      "synonyms": [
+        "San Antonio Marriott Riverwalk"
+      ]
+    },
+    {
+      "value": "San Diego Marriott Hotel and Marina",
+      "synonyms": [
+        "San Diego Marriott Hotel and Marina"
+      ]
+    },
+    {
+      "value": "San Domenico Hotel",
+      "synonyms": [
+        "San Domenico Hotel"
+      ]
+    },
+    {
+      "value": "San Francisco Marriott Marquis",
+      "synonyms": [
+        "San Francisco Marriott Marquis"
+      ]
+    },
+    {
+      "value": "San Gorgonio Inn",
+      "synonyms": [
+        "San Gorgonio Inn"
+      ]
+    },
+    {
+      "value": "Sanderson Hotel",
+      "synonyms": [
+        "Sanderson Hotel"
+      ]
+    },
+    {
+      "value": "Sands Atlantic City",
+      "synonyms": [
+        "Sands Atlantic City"
+      ]
+    },
+    {
+      "value": "Sands Hotel",
+      "synonyms": [
+        "Sands Hotel"
+      ]
+    },
+    {
+      "value": "Sands Regency",
+      "synonyms": [
+        "Sands Regency"
+      ]
+    },
+    {
+      "value": "Sans Souci Hotel",
+      "synonyms": [
+        "Sans Souci Hotel"
+      ]
+    },
+    {
+      "value": "Santa Barbara Biltmore",
+      "synonyms": [
+        "Santa Barbara Biltmore"
+      ]
+    },
+    {
+      "value": "Santa Fe Station",
+      "synonyms": [
+        "Santa Fe Station"
+      ]
+    },
+    {
+      "value": "Savery Hotel",
+      "synonyms": [
+        "Savery Hotel"
+      ]
+    },
+    {
+      "value": "Savoy Hotel",
+      "synonyms": [
+        "Savoy Hotel"
+      ]
+    },
+    {
+      "value": "Saxony Hotel",
+      "synonyms": [
+        "Saxony Hotel"
+      ]
+    },
+    {
+      "value": "Schauder Hotel",
+      "synonyms": [
+        "Schauder Hotel"
+      ]
+    },
+    {
+      "value": "Seaport Hotel and Seaport World Trade Center",
+      "synonyms": [
+        "Seaport Hotel and Seaport World Trade Center"
+      ]
+    },
+    {
+      "value": "Seaside Inn",
+      "synonyms": [
+        "Seaside Inn"
+      ]
+    },
+    {
+      "value": "Seattle Hotel",
+      "synonyms": [
+        "Seattle Hotel"
+      ]
+    },
+    {
+      "value": "Seaview",
+      "synonyms": [
+        "Seaview"
+      ]
+    },
+    {
+      "value": "Sebasco Harbor Resort",
+      "synonyms": [
+        "Sebasco Harbor Resort"
+      ]
+    },
+    {
+      "value": "Seelbach Hotel",
+      "synonyms": [
+        "Seelbach Hotel"
+      ]
+    },
+    {
+      "value": "Semiahmoo Resort",
+      "synonyms": [
+        "Semiahmoo Resort"
+      ]
+    },
+    {
+      "value": "Seminole Hotel",
+      "synonyms": [
+        "Seminole Hotel"
+      ]
+    },
+    {
+      "value": "Seneca Niagara Casino \u0026 Hotel",
+      "synonyms": [
+        "Seneca Niagara Casino \u0026 Hotel"
+      ]
+    },
+    {
+      "value": "Sentinel Hotel",
+      "synonyms": [
+        "Sentinel Hotel"
+      ]
+    },
+    {
+      "value": "Seralago Hotel \u0026 Suites Main Gate East",
+      "synonyms": [
+        "Seralago Hotel \u0026 Suites Main Gate East"
+      ]
+    },
+    {
+      "value": "Settles Hotel",
+      "synonyms": [
+        "Settles Hotel"
+      ]
+    },
+    {
+      "value": "Seville Hotel",
+      "synonyms": [
+        "Seville Hotel"
+      ]
+    },
+    {
+      "value": "Shades of Green",
+      "synonyms": [
+        "Shades of Green"
+      ]
+    },
+    {
+      "value": "Shamrock Hotel",
+      "synonyms": [
+        "Shamrock Hotel"
+      ]
+    },
+    {
+      "value": "Shannondale Springs",
+      "synonyms": [
+        "Shannondale Springs"
+      ]
+    },
+    {
+      "value": "Shelburne Hotel",
+      "synonyms": [
+        "Shelburne Hotel"
+      ]
+    },
+    {
+      "value": "Shelby House",
+      "synonyms": [
+        "Shelby House"
+      ]
+    },
+    {
+      "value": "Sheridan Inn",
+      "synonyms": [
+        "Sheridan Inn"
+      ]
+    },
+    {
+      "value": "Sherry Netherland Hotel",
+      "synonyms": [
+        "Sherry Netherland Hotel"
+      ]
+    },
+    {
+      "value": "Sherwood Manor",
+      "synonyms": [
+        "Sherwood Manor"
+      ]
+    },
+    {
+      "value": "Shoreland Hotel",
+      "synonyms": [
+        "Shoreland Hotel"
+      ]
+    },
+    {
+      "value": "Showboat Atlantic City",
+      "synonyms": [
+        "Showboat Atlantic City"
+      ]
+    },
+    {
+      "value": "Shutters on the Beach Hotel",
+      "synonyms": [
+        "Shutters on the Beach Hotel"
+      ]
+    },
+    {
+      "value": "Siena Reno",
+      "synonyms": [
+        "Siena Reno"
+      ]
+    },
+    {
+      "value": "Signal Mountain Lodge",
+      "synonyms": [
+        "Signal Mountain Lodge"
+      ]
+    },
+    {
+      "value": "Silver Bay Association Complex",
+      "synonyms": [
+        "Silver Bay Association Complex"
+      ]
+    },
+    {
+      "value": "Silver Legacy Reno",
+      "synonyms": [
+        "Silver Legacy Reno"
+      ]
+    },
+    {
+      "value": "Silver Sevens",
+      "synonyms": [
+        "Silver Sevens"
+      ]
+    },
+    {
+      "value": "Silver Slipper",
+      "synonyms": [
+        "Silver Slipper"
+      ]
+    },
+    {
+      "value": "Silverbird Hotel",
+      "synonyms": [
+        "Silverbird Hotel"
+      ]
+    },
+    {
+      "value": "Silversmith Hotel",
+      "synonyms": [
+        "Silversmith Hotel"
+      ]
+    },
+    {
+      "value": "Silverton Las Vegas",
+      "synonyms": [
+        "Silverton Las Vegas"
+      ]
+    },
+    {
+      "value": "Sir Walter Raleigh Hotel",
+      "synonyms": [
+        "Sir Walter Raleigh Hotel"
+      ]
+    },
+    {
+      "value": "Sisson Hotel",
+      "synonyms": [
+        "Sisson Hotel"
+      ]
+    },
+    {
+      "value": "Skyland Resort",
+      "synonyms": [
+        "Skyland Resort"
+      ]
+    },
+    {
+      "value": "Smeede Hotel",
+      "synonyms": [
+        "Smeede Hotel"
+      ]
+    },
+    {
+      "value": "Soaring Eagle Casino",
+      "synonyms": [
+        "Soaring Eagle Casino"
+      ]
+    },
+    {
+      "value": "Sofitel Chicago Water Tower",
+      "synonyms": [
+        "Sofitel Chicago Water Tower"
+      ]
+    },
+    {
+      "value": "Sofitel New York Hotel",
+      "synonyms": [
+        "Sofitel New York Hotel"
+      ]
+    },
+    {
+      "value": "Sofitel St. James",
+      "synonyms": [
+        "Sofitel St. James"
+      ]
+    },
+    {
+      "value": "Soho Hotel",
+      "synonyms": [
+        "Soho Hotel"
+      ]
+    },
+    {
+      "value": "Soleil Center",
+      "synonyms": [
+        "Soleil Center"
+      ]
+    },
+    {
+      "value": "Sorrento Hotel",
+      "synonyms": [
+        "Sorrento Hotel"
+      ]
+    },
+    {
+      "value": "South Point Hotel",
+      "synonyms": [
+        "South Point Hotel"
+      ]
+    },
+    {
+      "value": "South Station Tower",
+      "synonyms": [
+        "South Station Tower"
+      ]
+    },
+    {
+      "value": "Southern Hotel",
+      "synonyms": [
+        "Southern Hotel"
+      ]
+    },
+    {
+      "value": "Sovereign Hotel",
+      "synonyms": [
+        "Sovereign Hotel"
+      ]
+    },
+    {
+      "value": "Spink Arms Hotel",
+      "synonyms": [
+        "Spink Arms Hotel"
+      ]
+    },
+    {
+      "value": "Spring House",
+      "synonyms": [
+        "Spring House"
+      ]
+    },
+    {
+      "value": "St Martins Lane Hotel",
+      "synonyms": [
+        "St Martins Lane Hotel"
+      ]
+    },
+    {
+      "value": "St. Elmo Hotel",
+      "synonyms": [
+        "St. Elmo Hotel"
+      ]
+    },
+    {
+      "value": "St. Gregory Luxury Hotels \u0026 Suites",
+      "synonyms": [
+        "St. Gregory Luxury Hotels \u0026 Suites"
+      ]
+    },
+    {
+      "value": "St. James Hotel",
+      "synonyms": [
+        "St. James Hotel"
+      ]
+    },
+    {
+      "value": "St. Nicholas Hotel",
+      "synonyms": [
+        "St. Nicholas Hotel"
+      ]
+    },
+    {
+      "value": "St. Pancras Renaissance",
+      "synonyms": [
+        "St. Pancras Renaissance"
+      ]
+    },
+    {
+      "value": "St. Regis Museum Tower",
+      "synonyms": [
+        "St. Regis Museum Tower"
+      ]
+    },
+    {
+      "value": "Stafford Hotel",
+      "synonyms": [
+        "Stafford Hotel"
+      ]
+    },
+    {
+      "value": "Stafford\u0027s Bay View Inn",
+      "synonyms": [
+        "Stafford\u0027s Bay View Inn"
+      ]
+    },
+    {
+      "value": "Stagecoach Hotel \u0026 Casino",
+      "synonyms": [
+        "Stagecoach Hotel \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Stagecoach Inn",
+      "synonyms": [
+        "Stagecoach Inn"
+      ]
+    },
+    {
+      "value": "Standard Hotel",
+      "synonyms": [
+        "Standard Hotel"
+      ]
+    },
+    {
+      "value": "Standard House",
+      "synonyms": [
+        "Standard House"
+      ]
+    },
+    {
+      "value": "Stanford Court Hotel",
+      "synonyms": [
+        "Stanford Court Hotel"
+      ]
+    },
+    {
+      "value": "Star Lite Motel",
+      "synonyms": [
+        "Star Lite Motel"
+      ]
+    },
+    {
+      "value": "Stoops Hotel",
+      "synonyms": [
+        "Stoops Hotel"
+      ]
+    },
+    {
+      "value": "Stratosphere Las Vegas",
+      "synonyms": [
+        "Stratosphere Las Vegas"
+      ]
+    },
+    {
+      "value": "Streamline Hotel",
+      "synonyms": [
+        "Streamline Hotel"
+      ]
+    },
+    {
+      "value": "Summers Hotel and Subway Lounge",
+      "synonyms": [
+        "Summers Hotel and Subway Lounge"
+      ]
+    },
+    {
+      "value": "Suncoast Hotel and Casino",
+      "synonyms": [
+        "Suncoast Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Sundance Vacations Resorts",
+      "synonyms": [
+        "Sundance Vacations Resorts"
+      ]
+    },
+    {
+      "value": "Sunriver Resort",
+      "synonyms": [
+        "Sunriver Resort"
+      ]
+    },
+    {
+      "value": "Sunset Station",
+      "synonyms": [
+        "Sunset Station"
+      ]
+    },
+    {
+      "value": "Sunset Tower",
+      "synonyms": [
+        "Sunset Tower"
+      ]
+    },
+    {
+      "value": "Sunshine Hotel",
+      "synonyms": [
+        "Sunshine Hotel"
+      ]
+    },
+    {
+      "value": "Superior Oil Company Building",
+      "synonyms": [
+        "Superior Oil Company Building"
+      ]
+    },
+    {
+      "value": "Sycamore Mineral Springs Resort",
+      "synonyms": [
+        "Sycamore Mineral Springs Resort"
+      ]
+    },
+    {
+      "value": "TWELVE Midtown",
+      "synonyms": [
+        "TWELVE Midtown"
+      ]
+    },
+    {
+      "value": "Tall Pines Motor Inn",
+      "synonyms": [
+        "Tall Pines Motor Inn"
+      ]
+    },
+    {
+      "value": "Tan-Tar-A Resort",
+      "synonyms": [
+        "Tan-Tar-A Resort"
+      ]
+    },
+    {
+      "value": "Taos Inn",
+      "synonyms": [
+        "Taos Inn"
+      ]
+    },
+    {
+      "value": "Tarpon Inn",
+      "synonyms": [
+        "Tarpon Inn"
+      ]
+    },
+    {
+      "value": "Teller House",
+      "synonyms": [
+        "Teller House"
+      ]
+    },
+    {
+      "value": "Terre Haute House",
+      "synonyms": [
+        "Terre Haute House"
+      ]
+    },
+    {
+      "value": "Texas Station",
+      "synonyms": [
+        "Texas Station"
+      ]
+    },
+    {
+      "value": "Thayer Hotel",
+      "synonyms": [
+        "Thayer Hotel"
+      ]
+    },
+    {
+      "value": "The Abbey Resort",
+      "synonyms": [
+        "The Abbey Resort"
+      ]
+    },
+    {
+      "value": "The Andover Inn",
+      "synonyms": [
+        "The Andover Inn"
+      ]
+    },
+    {
+      "value": "The Artisan Hotel",
+      "synonyms": [
+        "The Artisan Hotel"
+      ]
+    },
+    {
+      "value": "The Athenaeum Hotel",
+      "synonyms": [
+        "The Athenaeum Hotel"
+      ]
+    },
+    {
+      "value": "The Balsams Grand Resort Hotel",
+      "synonyms": [
+        "The Balsams Grand Resort Hotel"
+      ]
+    },
+    {
+      "value": "The Bellevue-Stratford Hotel",
+      "synonyms": [
+        "The Bellevue-Stratford Hotel"
+      ]
+    },
+    {
+      "value": "The Bentley London",
+      "synonyms": [
+        "The Bentley London"
+      ]
+    },
+    {
+      "value": "The Berkeley",
+      "synonyms": [
+        "The Berkeley"
+      ]
+    },
+    {
+      "value": "The Borgata",
+      "synonyms": [
+        "The Borgata"
+      ]
+    },
+    {
+      "value": "The Broadmoor",
+      "synonyms": [
+        "The Broadmoor"
+      ]
+    },
+    {
+      "value": "The Caravelle Resort",
+      "synonyms": [
+        "The Caravelle Resort"
+      ]
+    },
+    {
+      "value": "The Churchill Hotel",
+      "synonyms": [
+        "The Churchill Hotel"
+      ]
+    },
+    {
+      "value": "The Connaught",
+      "synonyms": [
+        "The Connaught"
+      ]
+    },
+    {
+      "value": "The Creek South Beach",
+      "synonyms": [
+        "The Creek South Beach"
+      ]
+    },
+    {
+      "value": "The Curtis",
+      "synonyms": [
+        "The Curtis"
+      ]
+    },
+    {
+      "value": "The D Las Vegas",
+      "synonyms": [
+        "The D Las Vegas"
+      ]
+    },
+    {
+      "value": "The Dearborn Inn",
+      "synonyms": [
+        "The Dearborn Inn"
+      ]
+    },
+    {
+      "value": "The Dupont Hotel",
+      "synonyms": [
+        "The Dupont Hotel"
+      ]
+    },
+    {
+      "value": "The Edgewater",
+      "synonyms": [
+        "The Edgewater"
+      ]
+    },
+    {
+      "value": "The Empress Hotel",
+      "synonyms": [
+        "The Empress Hotel"
+      ]
+    },
+    {
+      "value": "The Exeter Inn",
+      "synonyms": [
+        "The Exeter Inn"
+      ]
+    },
+    {
+      "value": "The Fairmont Copley Plaza Hotel",
+      "synonyms": [
+        "The Fairmont Copley Plaza Hotel"
+      ]
+    },
+    {
+      "value": "The Fairmont Orchid",
+      "synonyms": [
+        "The Fairmont Orchid"
+      ]
+    },
+    {
+      "value": "The GEM Hotel",
+      "synonyms": [
+        "The GEM Hotel"
+      ]
+    },
+    {
+      "value": "The Grand Doubletree",
+      "synonyms": [
+        "The Grand Doubletree"
+      ]
+    },
+    {
+      "value": "The Grandview",
+      "synonyms": [
+        "The Grandview"
+      ]
+    },
+    {
+      "value": "The Greenbrier",
+      "synonyms": [
+        "The Greenbrier"
+      ]
+    },
+    {
+      "value": "The Griswold Inn",
+      "synonyms": [
+        "The Griswold Inn"
+      ]
+    },
+    {
+      "value": "The Hacienda",
+      "synonyms": [
+        "The Hacienda"
+      ]
+    },
+    {
+      "value": "The Hermitage Hotel",
+      "synonyms": [
+        "The Hermitage Hotel"
+      ]
+    },
+    {
+      "value": "The Hotel Clarence",
+      "synonyms": [
+        "The Hotel Clarence"
+      ]
+    },
+    {
+      "value": "The Ilikai",
+      "synonyms": [
+        "The Ilikai"
+      ]
+    },
+    {
+      "value": "The Iron Horse Hotel",
+      "synonyms": [
+        "The Iron Horse Hotel"
+      ]
+    },
+    {
+      "value": "The Jane",
+      "synonyms": [
+        "The Jane"
+      ]
+    },
+    {
+      "value": "The Joule Hotel",
+      "synonyms": [
+        "The Joule Hotel"
+      ]
+    },
+    {
+      "value": "The Keating Hotel",
+      "synonyms": [
+        "The Keating Hotel"
+      ]
+    },
+    {
+      "value": "The Landmark Hotel and Casino",
+      "synonyms": [
+        "The Landmark Hotel and Casino"
+      ]
+    },
+    {
+      "value": "The Landmark London",
+      "synonyms": [
+        "The Landmark London"
+      ]
+    },
+    {
+      "value": "The Langham Huntington",
+      "synonyms": [
+        "The Langham Huntington"
+      ]
+    },
+    {
+      "value": "The Leland Hotel",
+      "synonyms": [
+        "The Leland Hotel"
+      ]
+    },
+    {
+      "value": "The Lenox Hotel",
+      "synonyms": [
+        "The Lenox Hotel"
+      ]
+    },
+    {
+      "value": "The Mansion on Peachtree",
+      "synonyms": [
+        "The Mansion on Peachtree"
+      ]
+    },
+    {
+      "value": "The May Fair",
+      "synonyms": [
+        "The May Fair"
+      ]
+    },
+    {
+      "value": "The Melrose Hotel",
+      "synonyms": [
+        "The Melrose Hotel"
+      ]
+    },
+    {
+      "value": "The Metropolitan",
+      "synonyms": [
+        "The Metropolitan"
+      ]
+    },
+    {
+      "value": "The Michelangelo",
+      "synonyms": [
+        "The Michelangelo"
+      ]
+    },
+    {
+      "value": "The Mint Las Vegas",
+      "synonyms": [
+        "The Mint Las Vegas"
+      ]
+    },
+    {
+      "value": "The Mirage",
+      "synonyms": [
+        "The Mirage"
+      ]
+    },
+    {
+      "value": "The Montcalm Hotel",
+      "synonyms": [
+        "The Montcalm Hotel"
+      ]
+    },
+    {
+      "value": "The Montcalm London Marble Arch Hotel",
+      "synonyms": [
+        "The Montcalm London Marble Arch Hotel"
+      ]
+    },
+    {
+      "value": "The Montcalm at Brewery London City",
+      "synonyms": [
+        "The Montcalm at Brewery London City"
+      ]
+    },
+    {
+      "value": "The Murray Hotel",
+      "synonyms": [
+        "The Murray Hotel"
+      ]
+    },
+    {
+      "value": "The New York Helmsley Hotel",
+      "synonyms": [
+        "The New York Helmsley Hotel"
+      ]
+    },
+    {
+      "value": "The New York Palace Hotel",
+      "synonyms": [
+        "The New York Palace Hotel"
+      ]
+    },
+    {
+      "value": "The Niagara",
+      "synonyms": [
+        "The Niagara"
+      ]
+    },
+    {
+      "value": "The Nines",
+      "synonyms": [
+        "The Nines"
+      ]
+    },
+    {
+      "value": "The Old Inn",
+      "synonyms": [
+        "The Old Inn"
+      ]
+    },
+    {
+      "value": "The Old Wailuku Inn at Ulupono",
+      "synonyms": [
+        "The Old Wailuku Inn at Ulupono"
+      ]
+    },
+    {
+      "value": "The Orleans Hotel and Casino",
+      "synonyms": [
+        "The Orleans Hotel and Casino"
+      ]
+    },
+    {
+      "value": "The Palazzo",
+      "synonyms": [
+        "The Palazzo"
+      ]
+    },
+    {
+      "value": "The Palmer House",
+      "synonyms": [
+        "The Palmer House"
+      ]
+    },
+    {
+      "value": "The Palmer House Hilton",
+      "synonyms": [
+        "The Palmer House Hilton"
+      ]
+    },
+    {
+      "value": "The Park Tower Knightsbridge Hotel",
+      "synonyms": [
+        "The Park Tower Knightsbridge Hotel"
+      ]
+    },
+    {
+      "value": "The Pavilion",
+      "synonyms": [
+        "The Pavilion"
+      ]
+    },
+    {
+      "value": "The Peabody Orlando",
+      "synonyms": [
+        "The Peabody Orlando"
+      ]
+    },
+    {
+      "value": "The Peninsula Chicago",
+      "synonyms": [
+        "The Peninsula Chicago"
+      ]
+    },
+    {
+      "value": "The Peninsula New York",
+      "synonyms": [
+        "The Peninsula New York"
+      ]
+    },
+    {
+      "value": "The Pfister Hotel",
+      "synonyms": [
+        "The Pfister Hotel"
+      ]
+    },
+    {
+      "value": "The Pierre",
+      "synonyms": [
+        "The Pierre"
+      ]
+    },
+    {
+      "value": "The Red Victorian",
+      "synonyms": [
+        "The Red Victorian"
+      ]
+    },
+    {
+      "value": "The Residences at the Westin",
+      "synonyms": [
+        "The Residences at the Westin"
+      ]
+    },
+    {
+      "value": "The Resort at Summerlin",
+      "synonyms": [
+        "The Resort at Summerlin"
+      ]
+    },
+    {
+      "value": "The Ritz-Carlton",
+      "synonyms": [
+        "The Ritz-Carlton"
+      ]
+    },
+    {
+      "value": "The Roosevelt Hotel",
+      "synonyms": [
+        "The Roosevelt Hotel"
+      ]
+    },
+    {
+      "value": "The Roosevelt Inn",
+      "synonyms": [
+        "The Roosevelt Inn"
+      ]
+    },
+    {
+      "value": "The Roosevelt New Orleans Hotel",
+      "synonyms": [
+        "The Roosevelt New Orleans Hotel"
+      ]
+    },
+    {
+      "value": "The Royal Horseguards Hotel",
+      "synonyms": [
+        "The Royal Horseguards Hotel"
+      ]
+    },
+    {
+      "value": "The Sagamore",
+      "synonyms": [
+        "The Sagamore"
+      ]
+    },
+    {
+      "value": "The Seneca Hotel",
+      "synonyms": [
+        "The Seneca Hotel"
+      ]
+    },
+    {
+      "value": "The Signature at MGM Grand",
+      "synonyms": [
+        "The Signature at MGM Grand"
+      ]
+    },
+    {
+      "value": "The St. Regis Hotel",
+      "synonyms": [
+        "The St. Regis Hotel"
+      ]
+    },
+    {
+      "value": "The Stanley Hotel",
+      "synonyms": [
+        "The Stanley Hotel"
+      ]
+    },
+    {
+      "value": "The Surfcomber Hotel",
+      "synonyms": [
+        "The Surfcomber Hotel"
+      ]
+    },
+    {
+      "value": "The Tides Inn",
+      "synonyms": [
+        "The Tides Inn"
+      ]
+    },
+    {
+      "value": "The Trafalgar Hilton Hotel",
+      "synonyms": [
+        "The Trafalgar Hilton Hotel"
+      ]
+    },
+    {
+      "value": "The Venetian",
+      "synonyms": [
+        "The Venetian"
+      ]
+    },
+    {
+      "value": "The Waldorf Hilton",
+      "synonyms": [
+        "The Waldorf Hilton"
+      ]
+    },
+    {
+      "value": "The Warwick",
+      "synonyms": [
+        "The Warwick"
+      ]
+    },
+    {
+      "value": "The Water Club",
+      "synonyms": [
+        "The Water Club"
+      ]
+    },
+    {
+      "value": "The Western",
+      "synonyms": [
+        "The Western"
+      ]
+    },
+    {
+      "value": "The Westin Portland Harborview",
+      "synonyms": [
+        "The Westin Portland Harborview"
+      ]
+    },
+    {
+      "value": "The Westin San Diego",
+      "synonyms": [
+        "The Westin San Diego"
+      ]
+    },
+    {
+      "value": "The Wild Wild West Casino",
+      "synonyms": [
+        "The Wild Wild West Casino"
+      ]
+    },
+    {
+      "value": "The Willcox",
+      "synonyms": [
+        "The Willcox"
+      ]
+    },
+    {
+      "value": "Threadneedles City Boutique Hotel",
+      "synonyms": [
+        "Threadneedles City Boutique Hotel"
+      ]
+    },
+    {
+      "value": "Thunder Valley Casino Resort",
+      "synonyms": [
+        "Thunder Valley Casino Resort"
+      ]
+    },
+    {
+      "value": "Thunderbird",
+      "synonyms": [
+        "Thunderbird"
+      ]
+    },
+    {
+      "value": "Thunderbird Motel",
+      "synonyms": [
+        "Thunderbird Motel"
+      ]
+    },
+    {
+      "value": "Tidewater Inn",
+      "synonyms": [
+        "Tidewater Inn"
+      ]
+    },
+    {
+      "value": "Timberline Lodge",
+      "synonyms": [
+        "Timberline Lodge"
+      ]
+    },
+    {
+      "value": "Times Square Hotel",
+      "synonyms": [
+        "Times Square Hotel"
+      ]
+    },
+    {
+      "value": "Tip-Top House",
+      "synonyms": [
+        "Tip-Top House"
+      ]
+    },
+    {
+      "value": "Tokeland Hotel",
+      "synonyms": [
+        "Tokeland Hotel"
+      ]
+    },
+    {
+      "value": "Tokyo Hotel",
+      "synonyms": [
+        "Tokyo Hotel"
+      ]
+    },
+    {
+      "value": "Topaz Hotel",
+      "synonyms": [
+        "Topaz Hotel"
+      ]
+    },
+    {
+      "value": "Townsend Hotel Birmingham Detroit",
+      "synonyms": [
+        "Townsend Hotel Birmingham Detroit"
+      ]
+    },
+    {
+      "value": "Travelers Home",
+      "synonyms": [
+        "Travelers Home"
+      ]
+    },
+    {
+      "value": "Traymore Hotel",
+      "synonyms": [
+        "Traymore Hotel"
+      ]
+    },
+    {
+      "value": "Treasure Island Hotel and Casino",
+      "synonyms": [
+        "Treasure Island Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Tremont House",
+      "synonyms": [
+        "Tremont House"
+      ]
+    },
+    {
+      "value": "Tremont Plaza Hotel",
+      "synonyms": [
+        "Tremont Plaza Hotel"
+      ]
+    },
+    {
+      "value": "Tropicana Casino \u0026 Resort Atlantic City",
+      "synonyms": [
+        "Tropicana Casino \u0026 Resort Atlantic City"
+      ]
+    },
+    {
+      "value": "Tropicana Las Vegas",
+      "synonyms": [
+        "Tropicana Las Vegas"
+      ]
+    },
+    {
+      "value": "Turning Stone Resort \u0026 Casino",
+      "synonyms": [
+        "Turning Stone Resort \u0026 Casino"
+      ]
+    },
+    {
+      "value": "Turtle Bay Resort",
+      "synonyms": [
+        "Turtle Bay Resort"
+      ]
+    },
+    {
+      "value": "Turtle Creek Casino and Hotel",
+      "synonyms": [
+        "Turtle Creek Casino and Hotel"
+      ]
+    },
+    {
+      "value": "Tuscany Suites and Casino",
+      "synonyms": [
+        "Tuscany Suites and Casino"
+      ]
+    },
+    {
+      "value": "Tyler Hotel",
+      "synonyms": [
+        "Tyler Hotel"
+      ]
+    },
+    {
+      "value": "Tyree Stone Tavern",
+      "synonyms": [
+        "Tyree Stone Tavern"
+      ]
+    },
+    {
+      "value": "U.S. Grant Hotel",
+      "synonyms": [
+        "U.S. Grant Hotel"
+      ]
+    },
+    {
+      "value": "Ulster House Hotel",
+      "synonyms": [
+        "Ulster House Hotel"
+      ]
+    },
+    {
+      "value": "Union Hotel",
+      "synonyms": [
+        "Union Hotel"
+      ]
+    },
+    {
+      "value": "VanFleet Hotel",
+      "synonyms": [
+        "VanFleet Hotel"
+      ]
+    },
+    {
+      "value": "Vdara",
+      "synonyms": [
+        "Vdara"
+      ]
+    },
+    {
+      "value": "Veer Towers",
+      "synonyms": [
+        "Veer Towers"
+      ]
+    },
+    {
+      "value": "Vegas World",
+      "synonyms": [
+        "Vegas World"
+      ]
+    },
+    {
+      "value": "Venetian Court",
+      "synonyms": [
+        "Venetian Court"
+      ]
+    },
+    {
+      "value": "Victor Hotel",
+      "synonyms": [
+        "Victor Hotel"
+      ]
+    },
+    {
+      "value": "View Point Inn",
+      "synonyms": [
+        "View Point Inn"
+      ]
+    },
+    {
+      "value": "Vinoy Park Hotel",
+      "synonyms": [
+        "Vinoy Park Hotel"
+      ]
+    },
+    {
+      "value": "Virginian Hotel",
+      "synonyms": [
+        "Virginian Hotel"
+      ]
+    },
+    {
+      "value": "Volcano House",
+      "synonyms": [
+        "Volcano House"
+      ]
+    },
+    {
+      "value": "Vue Harbor East",
+      "synonyms": [
+        "Vue Harbor East"
+      ]
+    },
+    {
+      "value": "W Boston Hotel and Residences",
+      "synonyms": [
+        "W Boston Hotel and Residences"
+      ]
+    },
+    {
+      "value": "W Dallas Victory Hotel and Residences",
+      "synonyms": [
+        "W Dallas Victory Hotel and Residences"
+      ]
+    },
+    {
+      "value": "W New Orleans",
+      "synonyms": [
+        "W New Orleans"
+      ]
+    },
+    {
+      "value": "W New York Downtown Hotel and Residences",
+      "synonyms": [
+        "W New York Downtown Hotel and Residences"
+      ]
+    },
+    {
+      "value": "W San Francisco",
+      "synonyms": [
+        "W San Francisco"
+      ]
+    },
+    {
+      "value": "W. F. DeWitt Hotel",
+      "synonyms": [
+        "W. F. DeWitt Hotel"
+      ]
+    },
+    {
+      "value": "Wagon Wheel",
+      "synonyms": [
+        "Wagon Wheel"
+      ]
+    },
+    {
+      "value": "Wahkonsa Hotel",
+      "synonyms": [
+        "Wahkonsa Hotel"
+      ]
+    },
+    {
+      "value": "Waldorf-Astoria Hotel",
+      "synonyms": [
+        "Waldorf-Astoria Hotel"
+      ]
+    },
+    {
+      "value": "Waldorf-Astoria Hotel and Residence Tower",
+      "synonyms": [
+        "Waldorf-Astoria Hotel and Residence Tower"
+      ]
+    },
+    {
+      "value": "Walt Disney World Dolphin",
+      "synonyms": [
+        "Walt Disney World Dolphin"
+      ]
+    },
+    {
+      "value": "Walt Disney World Swan",
+      "synonyms": [
+        "Walt Disney World Swan"
+      ]
+    },
+    {
+      "value": "Warrior Hotel",
+      "synonyms": [
+        "Warrior Hotel"
+      ]
+    },
+    {
+      "value": "Warwick New York Hotel",
+      "synonyms": [
+        "Warwick New York Hotel"
+      ]
+    },
+    {
+      "value": "Washington Hall",
+      "synonyms": [
+        "Washington Hall"
+      ]
+    },
+    {
+      "value": "Water Park of America",
+      "synonyms": [
+        "Water Park of America"
+      ]
+    },
+    {
+      "value": "Waterview Tower",
+      "synonyms": [
+        "Waterview Tower"
+      ]
+    },
+    {
+      "value": "Wawona Hotel",
+      "synonyms": [
+        "Wawona Hotel"
+      ]
+    },
+    {
+      "value": "Waybury Inn",
+      "synonyms": [
+        "Waybury Inn"
+      ]
+    },
+    {
+      "value": "Wayside Inn",
+      "synonyms": [
+        "Wayside Inn"
+      ]
+    },
+    {
+      "value": "Weatherford Hotel",
+      "synonyms": [
+        "Weatherford Hotel"
+      ]
+    },
+    {
+      "value": "Weaver Hotel",
+      "synonyms": [
+        "Weaver Hotel"
+      ]
+    },
+    {
+      "value": "Webster Hotel",
+      "synonyms": [
+        "Webster Hotel"
+      ]
+    },
+    {
+      "value": "Weekapaug Inn",
+      "synonyms": [
+        "Weekapaug Inn"
+      ]
+    },
+    {
+      "value": "Weldon Hotel",
+      "synonyms": [
+        "Weldon Hotel"
+      ]
+    },
+    {
+      "value": "Weldon House",
+      "synonyms": [
+        "Weldon House"
+      ]
+    },
+    {
+      "value": "Well\u0027sbuilt Hotel",
+      "synonyms": [
+        "Well\u0027sbuilt Hotel"
+      ]
+    },
+    {
+      "value": "Wells Inn",
+      "synonyms": [
+        "Wells Inn"
+      ]
+    },
+    {
+      "value": "Wentworth by the Sea",
+      "synonyms": [
+        "Wentworth by the Sea"
+      ]
+    },
+    {
+      "value": "West Baden Springs Hotel",
+      "synonyms": [
+        "West Baden Springs Hotel"
+      ]
+    },
+    {
+      "value": "West Hotel",
+      "synonyms": [
+        "West Hotel"
+      ]
+    },
+    {
+      "value": "Western Hotel",
+      "synonyms": [
+        "Western Hotel"
+      ]
+    },
+    {
+      "value": "Westward Ho",
+      "synonyms": [
+        "Westward Ho"
+      ]
+    },
+    {
+      "value": "Westward Ho Hotel and Casino",
+      "synonyms": [
+        "Westward Ho Hotel and Casino"
+      ]
+    },
+    {
+      "value": "Whitehaven Hotel",
+      "synonyms": [
+        "Whitehaven Hotel"
+      ]
+    },
+    {
+      "value": "Wiawaka Holiday House",
+      "synonyms": [
+        "Wiawaka Holiday House"
+      ]
+    },
+    {
+      "value": "Wigwam Motel",
+      "synonyms": [
+        "Wigwam Motel"
+      ]
+    },
+    {
+      "value": "Wilburton Inn",
+      "synonyms": [
+        "Wilburton Inn"
+      ]
+    },
+    {
+      "value": "Wild Wild West Gambling Hall \u0026 Hotel",
+      "synonyms": [
+        "Wild Wild West Gambling Hall \u0026 Hotel"
+      ]
+    },
+    {
+      "value": "Willard InterContinental Washington",
+      "synonyms": [
+        "Willard InterContinental Washington"
+      ]
+    },
+    {
+      "value": "William Penn Hotel",
+      "synonyms": [
+        "William Penn Hotel"
+      ]
+    },
+    {
+      "value": "Wilson Hotel",
+      "synonyms": [
+        "Wilson Hotel"
+      ]
+    },
+    {
+      "value": "Windsor Court Hotel",
+      "synonyms": [
+        "Windsor Court Hotel"
+      ]
+    },
+    {
+      "value": "Windsor Hotel",
+      "synonyms": [
+        "Windsor Hotel"
+      ]
+    },
+    {
+      "value": "Winecoff Hotel",
+      "synonyms": [
+        "Winecoff Hotel"
+      ]
+    },
+    {
+      "value": "Winks Panorama",
+      "synonyms": [
+        "Winks Panorama"
+      ]
+    },
+    {
+      "value": "Winona Hotel",
+      "synonyms": [
+        "Winona Hotel"
+      ]
+    },
+    {
+      "value": "Winthrow-Melhase Block",
+      "synonyms": [
+        "Winthrow-Melhase Block"
+      ]
+    },
+    {
+      "value": "Winvian",
+      "synonyms": [
+        "Winvian"
+      ]
+    },
+    {
+      "value": "Wolf Creek Inn State Heritage Site",
+      "synonyms": [
+        "Wolf Creek Inn State Heritage Site"
+      ]
+    },
+    {
+      "value": "World Golf Village",
+      "synonyms": [
+        "World Golf Village"
+      ]
+    },
+    {
+      "value": "Wort Hotel",
+      "synonyms": [
+        "Wort Hotel"
+      ]
+    },
+    {
+      "value": "Worthy Hotel",
+      "synonyms": [
+        "Worthy Hotel"
+      ]
+    },
+    {
+      "value": "Wyndham Garden York",
+      "synonyms": [
+        "Wyndham Garden York"
+      ]
+    },
+    {
+      "value": "Wyndham Grand",
+      "synonyms": [
+        "Wyndham Grand"
+      ]
+    },
+    {
+      "value": "Wyndham Grand Chelsea Harbour",
+      "synonyms": [
+        "Wyndham Grand Chelsea Harbour"
+      ]
+    },
+    {
+      "value": "Wyndham Lake Buena Vista",
+      "synonyms": [
+        "Wyndham Lake Buena Vista"
+      ]
+    },
+    {
+      "value": "Wynn Las Vegas",
+      "synonyms": [
+        "Wynn Las Vegas"
+      ]
+    },
+    {
+      "value": "Yardley Inn",
+      "synonyms": [
+        "Yardley Inn"
+      ]
+    },
+    {
+      "value": "Yosemite Lodge at the Falls",
+      "synonyms": [
+        "Yosemite Lodge at the Falls"
+      ]
+    },
+    {
+      "value": "Young\u0027s Hotel",
+      "synonyms": [
+        "Young\u0027s Hotel"
+      ]
+    },
+    {
+      "value": "Zion Lodge",
+      "synonyms": [
+        "Zion Lodge"
+      ]
+    },
+    {
+      "value": "Zion Nature Center-Zion Inn",
+      "synonyms": [
+        "Zion Nature Center-Zion Inn"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}
