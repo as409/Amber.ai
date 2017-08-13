@@ -1,0 +1,58 @@
+{
+  "id": "f898f77e-2f6c-4957-a367-9ddfdc92b4f0",
+  "name": "room-facility",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "air conditioning",
+      "synonyms": [
+        "air conditioning",
+        "air conditioner",
+        "air control"
+      ]
+    },
+    {
+      "value": "washing machine",
+      "synonyms": [
+        "washing machine",
+        "laundry machine"
+      ]
+    },
+    {
+      "value": "terrace",
+      "synonyms": [
+        "terrace",
+        "balcony",
+        "veranda"
+      ]
+    },
+    {
+      "value": "TV",
+      "synonyms": [
+        "TV",
+        "TV set"
+      ]
+    },
+    {
+      "value": "hair dryer",
+      "synonyms": [
+        "hair dryer"
+      ]
+    },
+    {
+      "value": "good view",
+      "synonyms": [
+        "good view",
+        "good view from window"
+      ]
+    },
+    {
+      "value": "air condioner",
+      "synonyms": [
+        "air condioner"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
