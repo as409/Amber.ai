@@ -1,0 +1,1054 @@
+{
+  "userSays": [
+    {
+      "id": "e3abada6-50fe-4cd4-adcd-9751e702dc23",
+      "data": [
+        {
+          "text": "i want to book a hotel in "
+        },
+        {
+          "text": "delhi",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " and checkout on "
+        },
+        {
+          "text": "wednedsay",
+          "alias": "checkout-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " under "
+        },
+        {
+          "text": "2000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7c01823-e2f5-4e7c-9725-8925439a1f74",
+      "data": [
+        {
+          "text": "i want to book a hotel in the range of "
+        },
+        {
+          "text": "2000",
+          "alias": "price1",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": "-"
+        },
+        {
+          "text": "3000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac0672ab-908e-4cf3-b344-4cd2d9c1795b",
+      "data": [
+        {
+          "text": "\u003c"
+        },
+        {
+          "text": "b",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u003ei want to book a room  "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " range "
+        },
+        {
+          "text": "200",
+          "alias": "testtttt",
+          "meta": "@testtttt",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "300",
+          "alias": "testtttt1",
+          "meta": "@testtttt",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fcb5a14b-adaa-490b-b459-b007bc6cbd7e",
+      "data": [
+        {
+          "text": "i want to book a room  "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " range rs"
+        },
+        {
+          "text": "200",
+          "alias": "price1",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": "-rs"
+        },
+        {
+          "text": "300",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65f5adc1-742a-40f3-b177-f08f7a9513b3",
+      "data": [
+        {
+          "text": "i want to book a room  in range "
+        },
+        {
+          "text": "200",
+          "alias": "price1",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "300",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": " bucks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d803296e-e2f8-4852-9881-f2b7ea7b2deb",
+      "data": [
+        {
+          "text": "i want to book a hotel under "
+        },
+        {
+          "text": "2000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": " rupees"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e868fba-396d-460c-b455-ea690d9f9ad7",
+      "data": [
+        {
+          "text": "i want to book a hotel under rupees "
+        },
+        {
+          "text": "2000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ce87a1b-3a7c-4dfe-af61-0b514b7fa412",
+      "data": [
+        {
+          "text": "i want to book a hotel under rs "
+        },
+        {
+          "text": "2000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bad979f0-f0b0-4ea0-b355-d040da82f5a5",
+      "data": [
+        {
+          "text": "i want to book a "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " under "
+        },
+        {
+          "text": "2000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": false
+        },
+        {
+          "text": " rs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7cee0dca-4a22-4194-b997-c5c22e2da6cb",
+      "data": [
+        {
+          "text": "i want to book a room  in range "
+        },
+        {
+          "text": "200",
+          "alias": "price1",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": "-"
+        },
+        {
+          "text": "300",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        },
+        {
+          "text": " bucks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5354a83d-831a-4f84-9c3d-ccf52bb84d62",
+      "data": [
+        {
+          "text": "i want to book a "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " under "
+        },
+        {
+          "text": "2000",
+          "alias": "price2",
+          "meta": "@sys.unit-currency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7eea9f1-16d2-49e2-91c0-5a2a81abc973",
+      "data": [
+        {
+          "text": "i want to book a hotel in "
+        },
+        {
+          "text": "delhi",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "298f21db-f5a0-4d6a-a4f8-42779f39946b",
+      "data": [
+        {
+          "text": "i want to book a "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "delhi",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        },
+        {
+          "text": " and check out on "
+        },
+        {
+          "text": "thursday",
+          "alias": "checkout-date",
+          "meta": "@sys.date-time",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5cc09ed-0deb-485a-97d3-4b9beb2e108d",
+      "data": [
+        {
+          "text": "i want to check out on "
+        },
+        {
+          "text": "friday",
+          "alias": "checkout-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c83299b-52fa-4c1a-a5f2-355b5a74114a",
+      "data": [
+        {
+          "text": "i want to check-in on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50637ef3-7f38-4a18-83b7-0d84cd2029ac",
+      "data": [
+        {
+          "text": "i want to book a hotel in "
+        },
+        {
+          "text": "delhi",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " and checkout on "
+        },
+        {
+          "text": "friday",
+          "alias": "checkout-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "802c8481-dea3-434e-b1ca-857d192052af",
+      "data": [
+        {
+          "text": "i want to book a hotel in "
+        },
+        {
+          "text": "delhi",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " till "
+        },
+        {
+          "text": "friday",
+          "alias": "checkout-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bf232c7-b278-4550-b91d-4b1adf17e0a6",
+      "data": [
+        {
+          "text": "i want to book a hotel in "
+        },
+        {
+          "text": "delhi",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0fca8a1f-373b-4fd2-adb8-6bd9b6d87895",
+      "data": [
+        {
+          "text": "My nationality is "
+        },
+        {
+          "text": "indian",
+          "alias": "nationality",
+          "meta": "@nationality",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd1b8bb9-81b3-4020-ab38-2da072887b5f",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "dubai",
+          "alias": "CITY1",
+          "meta": "@CITY1",
+          "userDefined": true
+        },
+        {
+          "text": " i am a "
+        },
+        {
+          "text": "indian",
+          "alias": "nationality",
+          "meta": "@nationality",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5adfabdb-f89f-44b1-9487-97d5f762ac31",
+      "data": [
+        {
+          "text": "I want to book aroom in "
+        },
+        {
+          "text": "hyatt hotel",
+          "alias": "venue-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": false
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "checkin-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        },
+        {
+          "text": " and checkout on  "
+        },
+        {
+          "text": "friday",
+          "alias": "checkout-date",
+          "meta": "@sys.date-time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46845bb6-1e89-43d5-8539-265f952a3960",
+      "data": [
+        {
+          "text": "I want to book a room for a period of "
+        },
+        {
+          "text": "5 days",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e738214d-68f1-4933-8bb0-63b18f9eb30e",
+      "data": [
+        {
+          "text": "I want to book a "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "wifi",
+          "alias": "venue-facility",
+          "meta": "@venue-facility",
+          "userDefined": false
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "spa",
+          "alias": "venue-facility",
+          "meta": "@venue-facility",
+          "userDefined": true
+        },
+        {
+          "text": " facilities"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c080c418-1bae-4201-8289-018956350173",
+      "data": [
+        {
+          "text": "I want to book a "
+        },
+        {
+          "text": "5 star",
+          "alias": "star",
+          "meta": "@star",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "delhi",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0166b104-2404-47af-abfe-5a0240905f32",
+      "data": [
+        {
+          "text": "get me a room in the "
+        },
+        {
+          "text": "cheapest",
+          "alias": "map-sort-hotel",
+          "meta": "@map-sort-hotel",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hostel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nearby",
+          "alias": "map-sort-hotel",
+          "meta": "@map-sort-hotel",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "188ee686-4f31-4188-b126-1fc59ab447cd",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "best",
+          "alias": "map-sort-hotel",
+          "meta": "@map-sort-hotel",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nearby",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7a1e005-e4fc-4573-b93c-f33443c65e46",
+      "data": [
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " room for "
+        },
+        {
+          "text": "200 bucks",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25d2f3f4-6bc9-4bec-b32b-be57d81fc7c0",
+      "data": [
+        {
+          "text": "Hyatt hotel",
+          "alias": "venue-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": false
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "Romania",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "660b1867-cd6d-47aa-92d3-1284da4c8e03",
+      "data": [
+        {
+          "text": "book a room please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "622e9ade-9083-425c-b848-c4bdcf65ab79",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "Dubai",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cff14685-8212-4628-8b19-61e2710c6cd9",
+      "data": [
+        {
+          "text": "i want to book a "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a34d7022-9781-47f6-bff4-a35fb8ede4a2",
+      "data": [
+        {
+          "text": "I want to book"
+        },
+        {
+          "text": " 2",
+          "alias": "no_of_room",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " rooms in "
+        },
+        {
+          "text": "hyatt",
+          "alias": "venue-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "26ce5874-f3bf-46cc-a7d6-2b2c76e56fd3",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "hotel",
+          "alias": "venue-type",
+          "meta": "@venue-accomodation-type",
+          "userDefined": false
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "2",
+          "alias": "adults",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " adults and "
+        },
+        {
+          "text": "1",
+          "alias": "child",
+          "meta": "@sys.number",
+          "userDefined": false
+        },
+        {
+          "text": " child"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5087cc90-8bfa-4a43-8be9-56fbeea241d3",
+  "name": "hotel.book",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "book-hotel",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@venue-accomodation-type",
+          "name": "venue-type",
+          "value": "$venue-type",
+          "isList": false
+        },
+        {
+          "dataType": "@sys.number",
+          "name": "adults",
+          "value": "$adults",
+          "isList": false
+        },
+        {
+          "dataType": "@sys.number",
+          "name": "child",
+          "value": "$child"
+        },
+        {
+          "dataType": "@sys.number",
+          "name": "no_of_room",
+          "value": "$no_of_room"
+        },
+        {
+          "dataType": "@venue-accomodation-chain",
+          "name": "venue-chain",
+          "value": "$venue-chain",
+          "isList": false
+        },
+        {
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            "Enter the location"
+          ],
+          "isList": false
+        },
+        {
+          "dataType": "@map-sort-hotel",
+          "name": "map-sort-hotel",
+          "value": "$map-sort-hotel",
+          "isList": true
+        },
+        {
+          "required": true,
+          "dataType": "@CITY1",
+          "name": "CITY1",
+          "value": "$CITY1",
+          "prompts": [
+            "Enter the destination"
+          ],
+          "isList": false
+        },
+        {
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "checkin-date",
+          "value": "$checkin-date",
+          "prompts": [
+            "Enter the check-in date"
+          ]
+        },
+        {
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "checkout-date",
+          "value": "$checkout-date",
+          "prompts": [
+            "Enter the check-out date"
+          ]
+        },
+        {
+          "dataType": "@sys.number",
+          "name": "nights"
+        },
+        {
+          "dataType": "@star",
+          "name": "star",
+          "value": "$star",
+          "isList": false
+        },
+        {
+          "dataType": "@venue-facility",
+          "name": "venue-facility",
+          "value": "$venue-facility",
+          "isList": true
+        },
+        {
+          "dataType": "@nationality",
+          "name": "nationality",
+          "value": "$nationality",
+          "isList": false
+        },
+        {
+          "dataType": "@sys.unit-currency",
+          "name": "price2",
+          "value": "$price2"
+        },
+        {
+          "dataType": "@sys.unit-currency",
+          "name": "price1",
+          "value": "$price1"
+        },
+        {
+          "dataType": "@testtttt",
+          "name": "testtttt",
+          "value": "$testtttt",
+          "isList": false
+        },
+        {
+          "dataType": "@testtttt",
+          "name": "testtttt1",
+          "value": "$testtttt1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
