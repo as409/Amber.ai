@@ -1,0 +1,970 @@
+{
+  "userSays": [
+    {
+      "id": "17bafb7a-388c-4441-ae88-eacc81a07926",
+      "data": [
+        {
+          "text": "check the flights flying over "
+        },
+        {
+          "text": "LA",
+          "alias": "location",
+          "meta": "@sys.geo-city",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c16aa718-cec7-4c35-851a-b23a269a6dd7",
+      "data": [
+        {
+          "text": "what flights are above "
+        },
+        {
+          "text": "New York",
+          "alias": "location",
+          "meta": "@sys.geo-city",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c86db346-7cf6-41a0-8240-a2d92c4a8ca6",
+      "data": [
+        {
+          "text": "check flights "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "London",
+          "alias": "location",
+          "meta": "@sys.geo-city",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d8f76cd-27d8-426a-8ca8-575a389ec3af",
+      "data": [
+        {
+          "text": "flights above "
+        },
+        {
+          "text": "Paris",
+          "alias": "location",
+          "meta": "@sys.geo-city",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b844c947-ca55-4b8b-80ba-a5901887148a",
+      "data": [
+        {
+          "text": "plane flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1c179bf-851d-4354-abeb-db5c46024e25",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "681eb650-e8e7-474b-8917-285b795daf29",
+      "data": [
+        {
+          "text": "is there a "
+        },
+        {
+          "text": "plane",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fb116d0-1978-463f-8926-6b5d35139ad6",
+      "data": [
+        {
+          "text": "what flights are over my head"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8b9674c-51c6-4368-ba06-a275a96e7b2c",
+      "data": [
+        {
+          "text": "is there any airplanes flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "59815146-a366-46fc-a281-85101520faf1",
+      "data": [
+        {
+          "text": "learn how to find airplanes "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "head",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0033faf6-ca96-44e5-b8da-484208b22e00",
+      "data": [
+        {
+          "text": "flights "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my head"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77076d13-290b-4527-98b5-eabb9d50c883",
+      "data": [
+        {
+          "text": "detect airplane flying over me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fab272d1-8c37-4510-b46e-8c18432e82a3",
+      "data": [
+        {
+          "text": "planes that "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d701901-e552-446d-baf1-5c0152283a73",
+      "data": [
+        {
+          "text": "tell me what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "655df637-1878-477b-8cdd-eb290fcfa9dd",
+      "data": [
+        {
+          "text": "what airplane is flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aace8275-ae06-49a8-8b4f-dca83fb217ae",
+      "data": [
+        {
+          "text": "what "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " the planes flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me "
+        },
+        {
+          "text": "right now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d66eccef-fd44-43ce-b896-36e647967c65",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "current",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3c306188-4cf4-4992-b8ba-adc102e6d7bd",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "us",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb5526a3-b5fe-4a4a-aeb8-003d98cb0e15",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4025c6fd-4267-4d70-8874-b4afd1bad364",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " ahead"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4a7e58e-28e9-47ea-b8bd-0a1c1f714b47",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d534585c-81d0-4bd2-a413-f370f8426b1e",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dea87f3f-fc79-499b-84a8-023bfac32589",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "top",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "of",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f9d93b9b-bdf0-4bf0-863f-bea8cd072cb9",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "head",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "59ff740c-c1d0-4b93-8695-5fa1ae2bcb03",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "head",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba8c5f08-bed2-4a8a-8463-a298659c8e26",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " in the air"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54ef1a36-8236-42c7-9e35-074109cd70b3",
+      "data": [
+        {
+          "text": "what flights "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "head",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "526b7afe-570e-494b-8427-f9a08e9336f1",
+      "data": [
+        {
+          "text": "what is a plane flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me "
+        },
+        {
+          "text": "right now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea0ab3db-3829-4f7d-b352-81b8159b7817",
+      "data": [
+        {
+          "text": "what\u0027s the location of "
+        },
+        {
+          "text": "current",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flights"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1161876c-f11a-4f8a-85fe-5c16751fac04",
+      "data": [
+        {
+          "text": "current",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " location of the flights"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97435e91-f897-4d9a-a52a-f09ca1cde892",
+      "data": [
+        {
+          "text": "what jets flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me "
+        },
+        {
+          "text": "right now",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb76a748-84ad-4043-941f-b1729c59a481",
+      "data": [
+        {
+          "text": "what kind "
+        },
+        {
+          "text": "of",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " plane is flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7cc9c3fa-2675-4a4b-b7f5-8ee242f71ccd",
+      "data": [
+        {
+          "text": "I need to know flight "
+        },
+        {
+          "text": "current",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09d591fe-165c-4927-9b21-9aeb95985b86",
+      "data": [
+        {
+          "text": "let "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " know "
+        },
+        {
+          "text": "current",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " location of a flight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1134630b-5143-4a05-a244-dcd160340d06",
+      "data": [
+        {
+          "text": "flight "
+        },
+        {
+          "text": "current",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "14f7eec6-fa6d-4a4e-bf20-33444adb7c22",
+      "data": [
+        {
+          "text": "what plane is flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27139df5-6497-45cc-978a-5fb605fbd59f",
+      "data": [
+        {
+          "text": "what planes "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me at this moment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "666c9553-f5a0-44c7-aae5-d5f771725ae5",
+      "data": [
+        {
+          "text": "what planes "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "head",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "60de245b-4b72-4c78-834b-67b516931011",
+      "data": [
+        {
+          "text": "what\u0027s flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "0f28a39f-c1a2-449f-8798-c81342d6a820",
+      "data": [
+        {
+          "text": "which planes "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " flying "
+        },
+        {
+          "text": "over",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "567cb4f9-79a8-4cd3-904a-79f19db7012a",
+      "data": [
+        {
+          "text": "check planes "
+        },
+        {
+          "text": "above",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9a277389-5e7a-44d7-ad26-10dd860a19a8",
+  "name": "flight.location.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.location.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.geo-city",
+          "name": "location",
+          "value": "$location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
