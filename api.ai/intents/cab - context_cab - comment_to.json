@@ -1,0 +1,185 @@
+{
+  "userSays": [
+    {
+      "id": "2c2059e3-0bf2-44d5-9b7d-d8fd74cc002c",
+      "data": [
+        {
+          "text": "taxi to "
+        },
+        {
+          "text": "shangrila",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "delhi",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34711d60-75e0-49c3-ad42-ca301cf1ea1f",
+      "data": [
+        {
+          "text": "cab to "
+        },
+        {
+          "text": "marriot",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "mumbai",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "386cf461-4451-45f9-b9af-251dcd4989e9",
+      "data": [
+        {
+          "text": "i want a cab to "
+        },
+        {
+          "text": "taj",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "mumbai",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3c94ef48-0b61-4133-af3b-fa0a2c076f9b",
+      "data": [
+        {
+          "text": "i want a taxi to "
+        },
+        {
+          "text": "taj",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "mumbai",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f66e9cd-c6b4-4ebb-9f5d-b8242eb263ab",
+      "data": [
+        {
+          "text": "to "
+        },
+        {
+          "text": "hyatt",
+          "alias": "venue-accomodation-chain",
+          "meta": "@venue-accomodation-chain",
+          "userDefined": true
+        },
+        {
+          "text": ","
+        },
+        {
+          "text": "moscow",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88214fd8-cc47-4f46-b38d-9c224ceda750",
+      "data": [
+        {
+          "text": "to "
+        },
+        {
+          "text": "IGI AIRPORT",
+          "alias": "location",
+          "meta": "@sys.location",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a0e0a765-3551-4794-9cc3-f9c4b9a42f30",
+  "name": "cab - context:cab - comment:to",
+  "auto": true,
+  "contexts": [
+    "taxi",
+    "cab",
+    "cab-booking",
+    "taxi-booking"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        },
+        {
+          "dataType": "@venue-accomodation-chain",
+          "name": "venue-accomodation-chain",
+          "value": "$venue-accomodation-chain",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
