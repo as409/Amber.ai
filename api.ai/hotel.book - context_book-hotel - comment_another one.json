@@ -1,0 +1,102 @@
+{
+  "userSays": [
+    {
+      "id": "a26dadf1-2e82-4ffc-af57-5e9c84bdf72c",
+      "data": [
+        {
+          "text": "book another onesearch for another "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "896dc864-bd13-4925-b891-b30286694a2f",
+      "data": [
+        {
+          "text": "book another "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1155fdee-2734-4730-957a-794d18a0be37",
+      "data": [
+        {
+          "text": "make a new booking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86bfa3a0-66b8-47b0-8459-e94a3b05b645",
+      "data": [
+        {
+          "text": "another "
+        },
+        {
+          "text": "one",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ad07882-f579-42b5-9970-066bc15ce8b4",
+      "data": [
+        {
+          "text": "new reservation now please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "238f9267-fdea-4d89-abf2-cf6e89606c35",
+      "data": [
+        {
+          "text": "now a new reservation please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9a5733ba-e5f5-4247-abf8-4bee560e026b",
+  "name": "hotel.book - context:book-hotel - comment:another one",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hotel.book",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
