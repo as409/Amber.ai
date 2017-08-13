@@ -1,0 +1,16 @@
+{
+  "id": "7638f422-8aee-4262-87a3-eb11b2504fb8",
+  "name": "refundable",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "true",
+      "synonyms": [
+        "with refund",
+        "refundable"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
