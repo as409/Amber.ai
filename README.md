@@ -13,4 +13,16 @@ This api.ai agent will be used along with #Meya.ai and a messaging platform like
 ## Setup :
 
 ### 1. Setting up api.ai
-- hjbjh
+- Create an api.ai account and import the api.ai module as a .zip file
+- Create a secret customer token
+
+### 2. Setting up meya.ai
+- Create a meya account and import the meya module as a .zip file
+- Go to Heading.yaml component -> intent -> api.ai
+    - Now paste the api.ai customer token 
+    - select language 'en'
+    - priority '30'
+- Connect with the messaging service of your choice (I have testesd this with applozic and meya web)
+
+Many messaging platforms don't support cards display and other rich media contents, please read the meya documentation.
+
