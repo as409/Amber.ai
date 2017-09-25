@@ -1,7 +1,7 @@
 ## Travel_Bot
 A chat bot to book flight, hotel, cabs etc
 
-# Meya.ai + api.ai + applozic/intercom
+# Meya.ai + api.ai + t
 This api.ai agent will be used along with #Meya.ai and a messaging platform like intercom, Zendesk or applozic
 
 ![tom](https://user-images.githubusercontent.com/17767383/29006341-4f70fba2-7b0b-11e7-9f44-30ada160a471.png)
