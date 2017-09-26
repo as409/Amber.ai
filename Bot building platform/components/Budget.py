@@ -44,7 +44,7 @@ class Budget(Component):
             
         
         url1= response.json()['hotels'][number[0]]['images']['main_image']
-        image_url1= 'https://cdn.grnconnect.com/' + url1
+        image_url1= 'Paste home url here' + url1
         title1 = response.json()['hotels'][number[0]]['name']
         text1 =  response.json()['hotels'][number[0]]['rates'][0]['price']
         text1=str(text1)
@@ -52,14 +52,14 @@ class Budget(Component):
         
         
         url2= response.json()['hotels'][number[1]]['images']['main_image']
-        image_url2= 'https://cdn.grnconnect.com/' + url2
+        image_url2= 'Paste home url here' + url2
         title2 =response.json()['hotels'][number[1]]['name']
         text2 =  response.json()['hotels'][number[1]]['rates'][0]['price']
         text2=str(text2)
         text2='INR ' + text2
         
         url3= response.json()['hotels'][number[2]]['images']['main_image']
-        image_url3= 'https://cdn.grnconnect.com/' + url3
+        image_url3= 'Paste home url here' + url3
         title3 =response.json()['hotels'][number[2]]['name']
         text3 =  response.json()['hotels'][number[2]]['rates'][0]['price']
         text3=str(text3)
@@ -68,7 +68,7 @@ class Budget(Component):
         
         
         url4= response.json()['hotels'][number[3]]['images']['main_image']
-        image_url4= 'https://cdn.grnconnect.com/' + url4
+        image_url4= 'Paste home url here' + url4
         title4 =response.json()['hotels'][number[3]]['name']
         text4 =  response.json()['hotels'][number[3]]['rates'][0]['price']
         text4=str(text4)
