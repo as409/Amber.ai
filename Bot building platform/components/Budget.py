@@ -16,7 +16,7 @@ class Budget(Component):
 
 
 
-        url = "http://api-sandbox.grnconnect.com/api/v3/hotels/availability"
+        url = "PASTE THE URLs OF YOUR TRAVEL APIs"
         payload = "{\n \"destination_code\": \""+city+"\",\n \"checkin\": \""+checkin+"\",\n \"checkout\": \""+checkout+"\",\n \"client_nationality\": \"IN\",\n \"response\": \"fast\",\n \"currency\": \"INR\",\n \"rates\": \"comprehensive\",\n \"hotel_category\": [2, 6],\n \"rooms\": [\n {\n \"adults\": 1\n },\n {\n \"adults\": 2,\n \"children_ages\": [3]\n }\n ]\n}"
         headers = {
             'api-key': "PASTE YOUR KEY HERE",
