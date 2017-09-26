@@ -5,7 +5,7 @@ states:
         component: meya.text_suggestions
         properties:
             text: >
-                Trip Tap Toe is  an online platform to search, discover and book worldwide hotels, flights, curated itineraries and activities.
+                Amber.ai is  an online platform to search, discover and book worldwide hotels, flights, curated itineraries and activities.
             suggestions:
                 - Got it
     hotel:
